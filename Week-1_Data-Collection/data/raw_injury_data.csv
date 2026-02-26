@@ -1,0 +1,553 @@
+player_name,transfermarkt_player_id,transfermarkt_slug,season,injury,from,until,days,games_missed,source_url
+Lionel Messi,28003,lionel-messi,25/26,muscular problems,18/08/2025,26/08/2025,9 days,2,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,25/26,muscular problems,04/08/2025,14/08/2025,11 days,2,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,24/25,Adductor pain,18/03/2025,27/03/2025,10 days,2,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,24/25,Ligament injury,16/07/2024,12/09/2024,59 days,10,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,23/24,Leg injury,14/05/2024,18/05/2024,5 days,1,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,23/24,muscular problems,15/03/2024,05/04/2024,22 days,6,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,23/24,Muscle injury,22/09/2023,06/10/2023,15 days,4,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,23/24,Muscle injury,06/09/2023,18/09/2023,13 days,3,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,22/23,Knee problems,08/02/2023,13/02/2023,6 days,1,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,22/23,Achilles heel problems,05/11/2022,07/11/2022,3 days,1,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,22/23,Calf problems,05/10/2022,13/10/2022,9 days,2,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,21/22,flu,17/03/2022,24/03/2022,8 days,1,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,21/22,Quarantine,06/01/2022,20/01/2022,15 days,2,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,21/22,Corona virus,01/01/2022,05/01/2022,5 days,1,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Lionel Messi,28003,lionel-messi,21/22,Knee problems,29/10/2021,11/11/2021,14 days,2,https://www.transfermarkt.com/lionel-messi/verletzungen/spieler/28003
+Cristiano Ronaldo,8198,cristiano-ronaldo,24/25,Muscle strain,11/05/2025,19/05/2025,9 days,2,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,24/25,Abdominal problems,15/12/2024,31/12/2024,17 days,-,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,24/25,Virus,15/09/2024,18/09/2024,4 days,1,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,23/24,unknown injury,23/01/2024,11/02/2024,20 days,-,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,22/23,Ill,09/11/2022,18/11/2022,10 days,3,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,21/22,Rest,09/06/2022,13/06/2022,5 days,1,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,21/22,Hip flexor problems,03/03/2022,07/03/2022,5 days,1,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,21/22,Hip flexor problems,10/01/2022,17/01/2022,8 days,2,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,21/22,Arm injury,26/08/2021,30/08/2021,5 days,1,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,20/21,Hip flexor problems,15/04/2021,19/04/2021,5 days,1,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,20/21,Corona virus,12/10/2020,29/10/2020,18 days,5,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,19/20,Adductor pain,23/09/2019,26/09/2019,4 days,1,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,18/19,Hamstring injury,25/03/2019,08/04/2019,15 days,3,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,17/18,Ankle injury,07/05/2018,14/05/2018,8 days,2,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Cristiano Ronaldo,8198,cristiano-ronaldo,16/17,Metacarpal fracture,19/01/2017,23/01/2017,5 days,-,https://www.transfermarkt.com/cristiano-ronaldo/verletzungen/spieler/8198
+Kylian Mbappé,342229,kylian-mbappe,25/26,Knee injury,31/12/2025,09/01/2026,10 days,2,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,25/26,muscular problems,08/12/2025,12/12/2025,5 days,-,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,24/25,Stomach flu,18/06/2025,30/06/2025,13 days,3,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,24/25,Hamstring injury,12/12/2024,17/12/2024,6 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,24/25,Muscle injury,25/09/2024,30/09/2024,6 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,22/23,Hamstring injury,02/02/2023,12/02/2023,11 days,3,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,22/23,Adductor pain,05/08/2022,07/08/2022,3 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,21/22,infection,26/10/2021,02/11/2021,8 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,21/22,Calf injury,02/09/2021,10/09/2021,9 days,2,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,20/21,Calf injury,05/05/2021,11/05/2021,7 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,20/21,Calf injury,29/04/2021,03/05/2021,5 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,20/21,Thigh problems,01/11/2020,15/11/2020,15 days,4,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,20/21,Corona virus,07/09/2020,18/09/2020,12 days,4,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,20/21,Ankle injury,25/07/2020,10/08/2020,17 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Kylian Mbappé,342229,kylian-mbappe,19/20,Rest,14/02/2020,16/02/2020,3 days,1,https://www.transfermarkt.com/kylian-mbappe/verletzungen/spieler/342229
+Erling Haaland,418560,erling-haaland,24/25,Ankle injury,31/03/2025,01/05/2025,32 days,6,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,24/25,Knee problems,16/02/2025,25/02/2025,10 days,1,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,23/24,Muscle injury,18/04/2024,26/04/2024,9 days,2,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,23/24,Stress reaction of the bone,09/12/2023,31/01/2024,54 days,10,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,23/24,Ankle injury,17/11/2023,24/11/2023,8 days,1,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,23/24,Ankle injury,05/11/2023,06/11/2023,2 days,-,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,22/23,Groin problems,21/03/2023,03/04/2023,14 days,3,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,22/23,Foot bruise,26/10/2022,04/11/2022,10 days,2,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,21/22,Ill,05/05/2022,05/05/2022,1 days,-,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,21/22,muscular problems,24/01/2022,07/03/2022,43 days,6,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,21/22,Hip flexor problems,21/10/2021,25/11/2021,36 days,9,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,21/22,muscular problems,23/09/2021,11/10/2021,19 days,4,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,20/21,minor knock,06/05/2021,10/05/2021,5 days,1,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,20/21,muscular problems,29/04/2021,03/05/2021,5 days,1,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Erling Haaland,418560,erling-haaland,20/21,Torn muscle fiber,30/11/2020,28/12/2020,29 days,7,https://www.transfermarkt.com/erling-haaland/verletzungen/spieler/418560
+Jude Bellingham,581678,jude-bellingham,25/26,Hamstring injury,02/02/2026,,18 days,3,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,25/26,Shoulder injury,15/07/2025,15/09/2025,63 days,6,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,24/25,Muscle injury,23/08/2024,15/09/2024,24 days,6,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,23/24,Ankle sprain,10/02/2024,02/03/2024,22 days,3,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,23/24,Shoulder injury,09/11/2023,26/11/2023,18 days,3,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,22/23,Knee injury,20/05/2023,22/05/2023,3 days,1,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,21/22,Knee problems,25/11/2021,01/12/2021,7 days,1,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Jude Bellingham,581678,jude-bellingham,20/21,Knock,30/12/2020,10/01/2021,12 days,2,https://www.transfermarkt.com/jude-bellingham/verletzungen/spieler/581678
+Vinicius Junior,371998,vinicius-junior,24/25,Ankle sprain,12/05/2025,23/05/2025,12 days,2,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,24/25,Muscle injury,25/11/2024,08/12/2024,14 days,4,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,24/25,Cervical spine injury,06/10/2024,16/10/2024,11 days,1,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,23/24,Torn thigh muscle,18/11/2023,01/01/2024,45 days,8,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,23/24,Hamstring muscle injury,26/08/2023,26/09/2023,32 days,6,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,22/23,Knee problems,24/05/2023,27/05/2023,4 days,1,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,21/22,Corona virus,29/12/2021,07/01/2022,10 days,2,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,20/21,Intestinal virus,19/12/2020,22/12/2020,4 days,1,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Vinicius Junior,371998,vinicius-junior,18/19,Torn lateral knee ligament,06/03/2019,03/05/2019,59 days,9,https://www.transfermarkt.com/vinicius-junior/verletzungen/spieler/371998
+Pedri,683840,pedri,25/26,Hamstring injury,21/01/2026,19/02/2026,30 days,7,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,25/26,Calf problems,18/12/2025,28/12/2025,11 days,1,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,25/26,Muscle tear,29/10/2025,28/11/2025,31 days,5,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,24/25,Stomach flu,25/01/2025,27/01/2025,3 days,1,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,24/25,Inner ligament stretch of the knee,06/07/2024,16/08/2024,42 days,2,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,23/24,Hamstring injury,04/03/2024,07/04/2024,35 days,6,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,23/24,muscular problems,18/12/2023,10/01/2024,24 days,3,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,23/24,Hamstring injury,24/08/2023,03/11/2023,72 days,16,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,22/23,Hamstring injury,15/05/2023,30/06/2023,47 days,6,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,22/23,Muscle injury,17/02/2023,22/04/2023,65 days,13,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,21/22,Hamstring injury,14/04/2022,30/06/2022,78 days,12,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,21/22,Corona virus,03/01/2022,10/01/2022,8 days,2,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,21/22,Hamstring injury,30/09/2021,10/01/2022,103 days,23,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Pedri,683840,pedri,21/22,Hamstring injury,16/09/2021,27/09/2021,12 days,3,https://www.transfermarkt.com/pedri/verletzungen/spieler/683840
+Gavi,646740,gavi,25/26,Arthroscopy,29/08/2025,01/03/2026,185 days,36,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Gavi,646740,gavi,24/25,concussion,03/02/2025,08/02/2025,6 days,1,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Gavi,646740,gavi,24/25,Fitness,01/10/2024,19/10/2024,19 days,4,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Gavi,646740,gavi,23/24,Cruciate ligament tear,20/11/2023,30/09/2024,316 days,58,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Gavi,646740,gavi,21/22,Corona virus,29/12/2021,07/01/2022,10 days,2,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Gavi,646740,gavi,21/22,Broken jaw,05/08/2021,14/08/2021,10 days,-,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Gavi,646740,gavi,20/21,Knee injury,15/03/2021,10/04/2021,27 days,-,https://www.transfermarkt.com/gavi/verletzungen/spieler/646740
+Jamal Musiala,580195,jamal-musiala,25/26,Fitness,27/12/2025,15/01/2026,20 days,2,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,25/26,Broken fibula,06/07/2025,26/12/2025,174 days,25,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,24/25,Torn muscle bundle,05/04/2025,14/06/2025,71 days,8,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,24/25,influenza,06/01/2025,12/01/2025,7 days,1,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,24/25,Hip problems,04/10/2024,22/10/2024,19 days,4,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,23/24,Knee problems,09/05/2024,26/05/2024,18 days,2,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,23/24,Rest,03/05/2024,05/05/2024,3 days,1,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,23/24,Tendon irritation,26/04/2024,29/04/2024,4 days,1,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,23/24,minor knock,18/04/2024,21/04/2024,4 days,1,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,23/24,Hamstring injury,09/11/2023,04/12/2023,26 days,5,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,23/24,Torn muscle fiber,23/08/2023,08/09/2023,17 days,2,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,22/23,Hamstring injury,20/03/2023,31/03/2023,12 days,2,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,22/23,Corona virus,10/10/2022,13/10/2022,4 days,1,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,22/23,laceration wound,19/09/2022,22/09/2022,4 days,-,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Jamal Musiala,580195,jamal-musiala,22/23,strain,18/08/2022,22/08/2022,5 days,1,https://www.transfermarkt.com/jamal-musiala/verletzungen/spieler/580195
+Bukayo Saka,433177,bukayo-saka,25/26,Hip injury,30/01/2026,11/02/2026,13 days,3,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,25/26,Hamstring injury,23/08/2025,17/09/2025,26 days,5,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,24/25,Hamstring injury,22/12/2024,30/03/2025,99 days,21,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,24/25,Thigh problems,10/10/2024,24/10/2024,15 days,3,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,24/25,Muscle injury,13/05/2024,20/05/2024,8 days,1,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,23/24,unknown injury,21/03/2024,06/04/2024,17 days,3,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,23/24,Thigh problems,03/10/2023,21/10/2023,19 days,3,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,21/22,Dead leg,30/06/2021,05/07/2021,6 days,1,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,20/21,Hip problems,28/01/2021,31/01/2021,4 days,1,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,20/21,Ankle injury,30/12/2020,01/01/2021,3 days,-,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,20/21,Hamstring injury,23/11/2020,28/11/2020,6 days,1,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Bukayo Saka,433177,bukayo-saka,19/20,Knee injury,03/02/2020,15/02/2020,13 days,-,https://www.transfermarkt.com/bukayo-saka/verletzungen/spieler/433177
+Phil Foden,503795,phil-foden,25/26,Groin problems,04/09/2025,23/09/2025,20 days,2,https://www.transfermarkt.com/phil-foden/verletzungen/spieler/503795
+Phil Foden,503795,phil-foden,24/25,Knock,24/08/2024,24/11/2024,93 days,16,https://www.transfermarkt.com/phil-foden/verletzungen/spieler/503795
+Phil Foden,503795,phil-foden,23/24,unknown injury,26/04/2024,06/05/2024,11 days,2,https://www.transfermarkt.com/phil-foden/verletzungen/spieler/503795
+Phil Foden,503795,phil-foden,23/24,Knee injury,05/03/2024,15/04/2024,42 days,8,https://www.transfermarkt.com/phil-foden/verletzungen/spieler/503795
+Phil Foden,503795,phil-foden,23/24,Ankle injury,04/11/2023,15/02/2024,104 days,20,https://www.transfermarkt.com/phil-foden/verletzungen/spieler/503795
+Harry Kane,132098,harry-kane,24/25,Torn muscle fiber,01/12/2024,15/12/2024,15 days,4,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,23/24,Back problems,09/05/2024,01/06/2024,24 days,2,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,23/24,Ankle injury,17/03/2024,27/03/2024,11 days,2,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,20/21,Ankle injury,16/04/2021,22/04/2021,7 days,1,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,20/21,Ankle injury,29/01/2021,05/02/2021,8 days,2,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,20/21,unknown injury,30/11/2020,05/12/2020,6 days,1,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,19/20,Fitness,09/03/2020,01/04/2020,24 days,1,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,19/20,Torn thigh muscle,02/01/2020,09/03/2020,68 days,14,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,19/20,Ill,01/11/2019,04/11/2019,4 days,1,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,18/19,Ligament injury,10/04/2019,31/05/2019,52 days,9,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,18/19,Torn ankle ligaments,14/01/2019,23/02/2019,41 days,7,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,18/19,Back injury,04/07/2018,06/07/2018,3 days,-,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,17/18,Ankle injury,12/03/2018,01/04/2018,21 days,3,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,17/18,Knee injury,06/11/2017,14/11/2017,9 days,1,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Harry Kane,132098,harry-kane,17/18,Hamstring injury,23/10/2017,30/10/2017,8 days,2,https://www.transfermarkt.com/harry-kane/verletzungen/spieler/132098
+Kevin De Bruyne,88755,kevin-de-bruyne,25/26,Hamstring muscle injury,26/10/2025,01/04/2026,158 days,26,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,24/25,Hamstring muscle injury,18/09/2024,31/10/2024,44 days,11,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,23/24,Stomach problems,09/04/2024,10/04/2024,2 days,-,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,23/24,Groin strain,10/03/2024,18/03/2024,9 days,1,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,23/24,Fitness,18/12/2023,29/12/2023,12 days,3,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,23/24,Hamstring muscle injury,12/08/2023,17/12/2023,128 days,30,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,22/23,Foot bruise,26/04/2023,04/05/2023,9 days,2,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,22/23,Ill,21/02/2023,24/02/2023,4 days,1,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,21/22,Corona virus,19/11/2021,03/12/2021,15 days,4,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,21/22,Ankle injury,01/08/2021,10/09/2021,41 days,6,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,20/21,Facial fracture,29/05/2021,14/06/2021,17 days,3,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,20/21,muscular problems,05/05/2021,15/05/2021,11 days,2,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,20/21,Hamstring injury,21/01/2021,16/02/2021,27 days,7,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,20/21,Muscle injury,12/10/2020,22/10/2020,11 days,3,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Kevin De Bruyne,88755,kevin-de-bruyne,19/20,Back injury,02/03/2020,10/03/2020,9 days,2,https://www.transfermarkt.com/kevin-de-bruyne/verletzungen/spieler/88755
+Mohamed Salah,148455,mohamed-salah,23/24,muscular problems,19/02/2024,04/03/2024,15 days,4,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,23/24,Hamstring muscle injury,19/01/2024,13/02/2024,26 days,8,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,20/21,Corona virus,13/11/2020,24/11/2020,12 days,3,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,19/20,Ankle injury,11/11/2019,22/11/2019,12 days,2,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,19/20,Ankle problems,06/10/2019,22/10/2019,17 days,2,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,18/19,concussion,05/05/2019,11/05/2019,7 days,1,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,18/19,Thigh problems,13/10/2018,18/10/2018,6 days,1,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,17/18,Shoulder injury,27/05/2018,14/06/2018,19 days,2,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,16/17,Torn lateral ankle ligament,01/12/2016,15/12/2016,15 days,3,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,15/16,Torn lateral ankle ligament,09/11/2015,07/12/2015,29 days,6,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,14/15,Thigh problems,25/05/2015,01/06/2015,8 days,-,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Mohamed Salah,148455,mohamed-salah,12/13,Shoulder injury,05/07/2012,26/07/2012,22 days,4,https://www.transfermarkt.com/mohamed-salah/verletzungen/spieler/148455
+Robert Lewandowski,38253,robert-lewandowski,25/26,Muscle fiber tear,12/10/2025,02/11/2025,22 days,3,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,25/26,Muscle injury,08/08/2025,21/08/2025,14 days,1,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,24/25,Muscle injury,19/04/2025,05/05/2025,17 days,4,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,24/25,Lumbar vertebra problems,10/11/2024,20/11/2024,11 days,2,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,24/25,Torn muscle fiber,11/06/2024,21/06/2024,11 days,-,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,23/24,Ankle injury,05/10/2023,27/10/2023,23 days,5,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,22/23,Hamstring injury,27/02/2023,11/03/2023,13 days,2,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,21/22,Rest,24/08/2021,25/08/2021,2 days,-,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,20/21,Ligament stretching,29/03/2021,21/04/2021,24 days,7,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,20/21,Rest,30/10/2020,01/11/2020,3 days,1,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,19/20,Shin injury,26/02/2020,25/03/2020,29 days,3,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,19/20,Groin surgery,21/12/2019,16/01/2020,27 days,-,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,17/18,Rest,12/03/2018,12/03/2018,1 days,-,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,17/18,Patellar tendon problems,01/01/2018,15/01/2018,15 days,1,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Robert Lewandowski,38253,robert-lewandowski,17/18,Hamstring injury,09/11/2017,16/11/2017,8 days,2,https://www.transfermarkt.com/robert-lewandowski/verletzungen/spieler/38253
+Neymar,68290,neymar,25/26,Knee surgery,15/12/2025,14/02/2026,62 days,10,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,25/26,Meniscus injury,21/11/2025,27/11/2025,7 days,1,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,25/26,Hamstring injury,19/09/2025,31/10/2025,43 days,7,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,24/25,Hamstring injury,17/04/2025,21/05/2025,35 days,6,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,24/25,Hamstring injury,04/03/2025,12/04/2025,40 days,2,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,24/25,Fitness,17/12/2024,03/02/2025,49 days,6,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,24/25,Hamstring injury,05/11/2024,16/12/2024,42 days,6,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,24/25,Fitness,23/09/2024,19/10/2024,27 days,5,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,23/24,Cruciate ligament tear,19/10/2023,22/09/2024,340 days,48,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,23/24,muscular problems,04/08/2023,03/09/2023,31 days,5,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,22/23,Ankle surgery,20/02/2023,30/06/2023,131 days,18,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,22/23,Ankle injury,25/11/2022,04/12/2022,10 days,2,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,21/22,Ankle injury,29/11/2021,13/02/2022,77 days,15,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,21/22,Adductor pain,15/11/2021,18/11/2021,4 days,1,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Neymar,68290,neymar,21/22,Adductor pain,16/10/2021,23/10/2021,8 days,1,https://www.transfermarkt.com/neymar/verletzungen/spieler/68290
+Luka Modric,27992,luka-modric,23/24,Thigh problems,26/11/2023,01/12/2023,6 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,22/23,Muscle fatigue,24/10/2022,29/10/2022,6 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,22/23,strain,28/09/2022,06/10/2022,9 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,21/22,Knock,03/01/2022,07/01/2022,5 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,21/22,Corona virus,15/12/2021,24/12/2021,10 days,2,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,21/22,cold,05/11/2021,08/11/2021,4 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,21/22,muscular problems,26/10/2021,28/10/2021,3 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,21/22,Adductor pain,20/08/2021,10/09/2021,22 days,5,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,20/21,Back problems,20/04/2021,23/04/2021,4 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,20/21,Contracture,21/12/2020,27/12/2020,7 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,19/20,bruise,15/10/2019,23/10/2019,9 days,2,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,19/20,Muscle injury,12/09/2019,27/09/2019,16 days,4,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,17/18,Muscle injury,19/02/2018,05/03/2018,15 days,4,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,17/18,Broken ankle,05/10/2017,01/11/2017,28 days,1,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Luka Modric,27992,luka-modric,16/17,muscular problems,23/01/2017,09/02/2017,18 days,2,https://www.transfermarkt.com/luka-modric/verletzungen/spieler/27992
+Toni Kroos,31909,toni-kroos,22/23,Stomach flu,10/02/2023,20/02/2023,11 days,2,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,22/23,influenza,18/08/2022,22/08/2022,5 days,1,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,21/22,Hamstring injury,03/03/2022,10/03/2022,8 days,1,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,21/22,Pubic bone irritation,02/08/2021,27/09/2021,57 days,11,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,20/21,Corona virus,17/05/2021,31/05/2021,15 days,1,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,20/21,Quarantine,13/05/2021,17/05/2021,5 days,1,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,20/21,Rest,19/04/2021,26/04/2021,8 days,2,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,20/21,Adductor pain,22/03/2021,05/04/2021,15 days,3,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,20/21,Muscle injury,28/09/2020,12/10/2020,15 days,3,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,19/20,Adductor injury,03/10/2019,21/10/2019,19 days,3,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,18/19,Stomach flu,11/04/2019,18/04/2019,8 days,1,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,18/19,Adductor injury,03/01/2019,21/01/2019,19 days,4,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,18/19,Knee problems,29/11/2018,11/12/2018,13 days,3,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,17/18,Inner ligament injury,15/02/2018,05/03/2018,19 days,5,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Toni Kroos,31909,toni-kroos,17/18,Stomach flu,06/11/2017,13/11/2017,8 days,1,https://www.transfermarkt.com/toni-kroos/verletzungen/spieler/31909
+Virgil van Dijk,139208,virgil-van-dijk,24/25,Rest,18/11/2024,20/11/2024,3 days,1,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,23/24,Ill,06/01/2024,09/01/2024,4 days,1,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,22/23,Hamstring injury,02/01/2023,12/02/2023,42 days,6,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,21/22,Rest,06/06/2022,16/06/2022,11 days,3,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,21/22,Knee problems,16/05/2022,19/05/2022,4 days,1,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,21/22,Corona virus,16/12/2021,27/12/2021,12 days,3,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,20/21,Cruciate ligament tear,19/10/2020,30/06/2021,255 days,57,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,19/20,Ill,16/12/2019,19/12/2019,4 days,2,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,18/19,Ankle injury,01/04/2019,04/04/2019,4 days,-,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,18/19,Ill,21/01/2019,28/01/2019,8 days,-,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,18/19,Ill,03/01/2019,10/01/2019,8 days,1,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,18/19,Rib fracture,15/10/2018,18/10/2018,4 days,1,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,18/19,Knock,24/09/2018,27/09/2018,4 days,1,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,17/18,Thigh problems,21/12/2017,15/01/2018,26 days,5,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Virgil van Dijk,139208,virgil-van-dijk,16/17,Ankle injury,26/01/2017,14/09/2017,232 days,30,https://www.transfermarkt.com/virgil-van-dijk/verletzungen/spieler/139208
+Rodri,357565,rodri,25/26,Hamstring injury,04/11/2025,25/12/2025,52 days,11,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,25/26,Hamstring injury,05/10/2025,31/10/2025,27 days,4,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,25/26,Knee problems,22/09/2025,29/09/2025,8 days,2,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,25/26,Knee problems,04/08/2025,23/08/2025,20 days,1,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,24/25,Cruciate ligament tear,23/09/2024,16/05/2025,236 days,53,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,24/25,Hamstring injury,14/07/2024,25/08/2024,43 days,3,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,20/21,Knock,11/02/2021,12/02/2021,2 days,-,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Rodri,357565,rodri,19/20,Muscle injury,22/10/2019,09/11/2019,19 days,4,https://www.transfermarkt.com/rodri/verletzungen/spieler/357565
+Declan Rice,357662,declan-rice,25/26,Knee problems,28/12/2025,01/01/2026,5 days,1,https://www.transfermarkt.com/declan-rice/verletzungen/spieler/357662
+Declan Rice,357662,declan-rice,24/25,Broken toe,04/11/2024,19/11/2024,16 days,3,https://www.transfermarkt.com/declan-rice/verletzungen/spieler/357662
+Declan Rice,357662,declan-rice,18/19,Ill,28/04/2019,11/05/2019,14 days,1,https://www.transfermarkt.com/declan-rice/verletzungen/spieler/357662
+Bruno Fernandes,240306,bruno-fernandes,25/26,Hamstring injury,21/12/2025,05/01/2026,16 days,3,https://www.transfermarkt.com/bruno-fernandes/verletzungen/spieler/240306
+Bruno Fernandes,240306,bruno-fernandes,23/24,Knee injury,01/05/2024,13/05/2024,13 days,2,https://www.transfermarkt.com/bruno-fernandes/verletzungen/spieler/240306
+Bruno Fernandes,240306,bruno-fernandes,21/22,Ill,12/03/2022,14/03/2022,3 days,1,https://www.transfermarkt.com/bruno-fernandes/verletzungen/spieler/240306
+Bruno Fernandes,240306,bruno-fernandes,18/19,Leg injury,19/03/2019,29/03/2019,11 days,2,https://www.transfermarkt.com/bruno-fernandes/verletzungen/spieler/240306
+Bruno Fernandes,240306,bruno-fernandes,16/17,flu,05/01/2017,07/01/2017,3 days,-,https://www.transfermarkt.com/bruno-fernandes/verletzungen/spieler/240306
+Bernardo Silva,241641,bernardo-silva,24/25,unknown injury,15/03/2025,17/03/2025,3 days,-,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,23/24,muscular problems,14/08/2023,26/08/2023,13 days,2,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,21/22,muscular problems,09/11/2021,12/11/2021,4 days,1,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,20/21,Muscle injury,08/09/2020,30/09/2020,23 days,3,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,18/19,Knock,07/04/2019,14/04/2019,8 days,1,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,18/19,Knock,19/11/2018,30/11/2018,12 days,3,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,16/17,Ankle injury,25/06/2017,27/06/2017,3 days,-,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,15/16,Hamstring injury,09/05/2016,10/07/2016,63 days,10,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Bernardo Silva,241641,bernardo-silva,15/16,Hamstring injury,08/02/2016,29/02/2016,22 days,3,https://www.transfermarkt.com/bernardo-silva/verletzungen/spieler/241641
+Ruben Dias,258004,ruben-dias,25/26,Hamstring injury,04/01/2026,07/02/2026,35 days,8,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,24/25,muscle stiffness,13/02/2025,17/02/2025,5 days,1,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,24/25,Hip injury,24/01/2025,07/02/2025,15 days,3,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,24/25,unknown injury,20/12/2024,18/01/2025,30 days,6,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,24/25,Calf injury,30/10/2024,01/12/2024,33 days,6,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,22/23,Hamstring injury,22/12/2022,15/01/2023,25 days,7,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,21/22,Knock,03/03/2022,11/04/2022,40 days,9,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,17/18,Ankle injury,19/03/2018,29/03/2018,11 days,-,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Ruben Dias,258004,ruben-dias,17/18,Appendectomy,16/11/2017,14/12/2017,29 days,7,https://www.transfermarkt.com/ruben-dias/verletzungen/spieler/258004
+Alisson,225422,alisson,05/06,Nose surgery,01/07/2006,13/07/2006,13 days,2,https://www.transfermarkt.com/alisson/verletzungen/spieler/225422
+Ederson,238223,ederson,25/26,muscular problems,04/10/2025,21/10/2025,18 days,4,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,25/26,Ill,15/08/2025,23/08/2025,9 days,1,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,24/25,Hip problems,13/04/2025,25/04/2025,13 days,2,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,24/25,Abdominal problems,14/03/2025,30/03/2025,17 days,3,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,24/25,unknown injury,01/02/2025,10/02/2025,10 days,2,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,24/25,unknown injury,20/12/2024,10/01/2025,22 days,4,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,23/24,Eyebow fracture,14/05/2024,28/07/2024,76 days,8,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,23/24,Muscle injury,10/03/2024,05/04/2024,27 days,5,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,23/24,Knee injury,13/01/2024,20/01/2024,8 days,-,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,20/21,Virus,27/12/2020,12/01/2021,17 days,2,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,19/20,Ill,30/12/2019,07/01/2020,9 days,2,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,19/20,Ill,08/12/2019,14/12/2019,7 days,1,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,19/20,muscular problems,06/11/2019,22/11/2019,17 days,3,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,17/18,Facial injury,10/09/2017,12/09/2017,3 days,-,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Ederson,238223,ederson,16/17,Meniscus injury,11/07/2016,09/08/2016,30 days,1,https://www.transfermarkt.com/ederson/verletzungen/spieler/238223
+Thibaut Courtois,108390,thibaut-courtois,25/26,Stomach flu,25/11/2025,30/11/2025,6 days,1,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,24/25,Back injury,01/06/2025,15/06/2025,15 days,2,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,24/25,Muscle injury,19/03/2025,04/04/2025,17 days,2,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,24/25,Achilles tendon problems,23/10/2024,23/11/2024,32 days,5,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,24/25,Adductor tear,30/09/2024,18/10/2024,19 days,4,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,23/24,Meniscus tear,01/04/2024,28/04/2024,28 days,5,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,23/24,Cruciate ligament tear,10/08/2023,31/03/2024,235 days,49,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,22/23,Adductor pain,26/03/2023,30/03/2023,5 days,1,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,22/23,Hamstring injury,06/02/2023,17/02/2023,12 days,3,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,22/23,Sciatica problems,29/09/2022,17/10/2022,19 days,5,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,21/22,Inflammation of pubic bone,30/05/2022,30/06/2022,32 days,4,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,21/22,Corona virus,30/12/2021,03/01/2022,5 days,-,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,20/21,Achilles tendon problems,05/10/2020,15/10/2020,11 days,3,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,19/20,Muscle injury,09/03/2020,26/03/2020,18 days,-,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Thibaut Courtois,108390,thibaut-courtois,19/20,Stomach problems,03/10/2019,07/10/2019,5 days,1,https://www.transfermarkt.com/thibaut-courtois/verletzungen/spieler/108390
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,25/26,Hamstring injury,31/01/2026,15/04/2026,75 days,2,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,25/26,Back injury,24/07/2025,09/12/2025,139 days,21,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,24/25,Patellar tendon rupture,23/09/2024,24/04/2025,214 days,51,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,23/24,Back injury,17/11/2023,10/02/2024,86 days,19,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,22/23,Stomach flu,14/11/2022,19/11/2022,6 days,1,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,21/22,cold,06/05/2022,09/05/2022,4 days,1,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,20/21,Knee surgery,17/05/2021,28/08/2021,104 days,9,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,20/21,Rest,01/12/2020,03/12/2020,3 days,1,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,20/21,Knee injury,17/08/2020,03/11/2020,79 days,13,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,19/20,Knee injury,30/12/2019,10/01/2020,12 days,2,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,18/19,Knee problems,16/05/2019,16/06/2019,32 days,4,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,18/19,Shoulder injury,12/11/2018,20/11/2018,9 days,2,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,17/18,Knee problems,24/03/2018,29/03/2018,6 days,-,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,16/17,Muscle injury,08/09/2016,12/09/2016,5 days,1,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Marc-André ter Stegen,74857,marc-andre-ter-stegen,16/17,Knee injury,11/08/2016,25/08/2016,15 days,3,https://www.transfermarkt.com/marc-andre-ter-stegen/verletzungen/spieler/74857
+Jan Oblak,121483,jan-oblak,22/23,Back injury,25/04/2023,26/07/2023,93 days,10,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,21/22,Corona virus,25/01/2022,01/02/2022,8 days,-,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,17/18,Rest,15/03/2018,15/03/2018,1 days,1,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,17/18,Knock,13/03/2018,17/03/2018,5 days,1,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,17/18,Wrist injury,05/03/2018,08/03/2018,4 days,-,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,17/18,influenza,12/02/2018,15/02/2018,4 days,-,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,16/17,Shoulder injury,15/12/2016,20/02/2017,68 days,15,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Jan Oblak,121483,jan-oblak,16/17,Rest,28/11/2016,01/12/2016,4 days,1,https://www.transfermarkt.com/jan-oblak/verletzungen/spieler/121483
+Trent Alexander-Arnold,314353,trent-alexander-arnold,25/26,Muscle tear,04/12/2025,02/02/2026,61 days,14,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,25/26,Hamstring injury,16/09/2025,23/10/2025,38 days,7,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,25/26,muscular problems,07/07/2025,13/07/2025,7 days,1,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,24/25,Ankle injury,12/03/2025,17/04/2025,37 days,6,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,24/25,Hamstring injury,02/02/2025,11/02/2025,10 days,2,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,24/25,Hamstring injury,09/11/2024,25/11/2024,17 days,3,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,23/24,Torn lateral knee ligament,13/02/2024,08/04/2024,56 days,14,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,23/24,Torn lateral knee ligament,08/01/2024,28/01/2024,21 days,3,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,23/24,Hamstring injury,04/09/2023,29/09/2023,26 days,6,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,22/23,Ankle problems,10/10/2022,15/10/2022,6 days,1,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,21/22,Hamstring injury,17/03/2022,31/03/2022,15 days,3,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,21/22,Corona virus,03/01/2022,13/01/2022,11 days,1,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,21/22,muscular problems,27/09/2021,14/10/2021,18 days,4,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,21/22,Hamstring injury,03/06/2021,12/07/2021,40 days,8,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Trent Alexander-Arnold,314353,trent-alexander-arnold,20/21,Calf injury,09/11/2020,07/12/2020,29 days,7,https://www.transfermarkt.com/trent-alexander-arnold/verletzungen/spieler/314353
+Alphonso Davies,424204,alphonso-davies,25/26,Ill,04/01/2026,15/01/2026,12 days,2,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,25/26,Fitness,31/10/2025,08/12/2025,39 days,8,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,24/25,Cruciate ligament tear,24/03/2025,30/10/2025,221 days,29,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,24/25,Torn muscle fiber,23/01/2025,16/02/2025,25 days,6,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,24/25,Torn muscle fiber,08/12/2024,15/12/2024,8 days,2,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,23/24,Internal ligament strain,04/02/2024,25/02/2024,22 days,4,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,22/23,Torn muscle bundle,23/04/2023,11/06/2023,50 days,5,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,22/23,Torn muscle fiber,06/11/2022,17/11/2022,12 days,3,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,22/23,Head injury,10/10/2022,13/10/2022,4 days,1,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,22/23,muscular problems,18/08/2022,22/08/2022,5 days,1,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,21/22,heart problems,10/01/2022,04/04/2022,85 days,18,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,21/22,Corona virus,03/01/2022,13/01/2022,11 days,1,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,21/22,Thigh problems,18/10/2021,25/10/2021,8 days,2,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,21/22,Knee problems,06/09/2021,09/09/2021,4 days,1,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Alphonso Davies,424204,alphonso-davies,21/22,Ankle injury,05/07/2021,09/08/2021,36 days,5,https://www.transfermarkt.com/alphonso-davies/verletzungen/spieler/424204
+Achraf Hakimi,398073,achraf-hakimi,25/26,Ankle sprain,05/11/2025,27/12/2025,53 days,17,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Achraf Hakimi,398073,achraf-hakimi,22/23,Hamstring injury,15/02/2023,06/03/2023,20 days,3,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Achraf Hakimi,398073,achraf-hakimi,21/22,Hamstring injury,24/02/2022,08/03/2022,13 days,2,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Achraf Hakimi,398073,achraf-hakimi,21/22,Corona virus,16/07/2021,30/07/2021,15 days,-,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Achraf Hakimi,398073,achraf-hakimi,20/21,Ankle problems,13/12/2020,16/12/2020,4 days,-,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Achraf Hakimi,398073,achraf-hakimi,20/21,Quarantine,21/10/2020,23/10/2020,3 days,1,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Achraf Hakimi,398073,achraf-hakimi,18/19,Metatarsal fracture,31/03/2019,05/06/2019,67 days,7,https://www.transfermarkt.com/achraf-hakimi/verletzungen/spieler/398073
+Theo Hernandez,344695,theo-hernandez,25/26,Ill,21/01/2026,26/01/2026,6 days,2,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,24/25,Cartilage damage,26/03/2025,09/06/2025,76 days,12,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,24/25,Rest,07/03/2025,09/03/2025,3 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,24/25,Hip problems,20/02/2025,26/02/2025,7 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,24/25,Pelvic contusion,23/01/2025,28/01/2025,6 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,24/25,Thigh problems,29/10/2024,31/10/2024,3 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,24/25,Hamstring injury,06/10/2024,16/10/2024,11 days,2,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,23/24,Torn muscle fiber,25/01/2024,07/02/2024,14 days,2,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,23/24,Hamstring injury,09/10/2023,02/11/2023,25 days,6,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,23/24,Adductor pain,25/09/2023,29/09/2023,5 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,22/23,Torn muscle fiber,27/04/2023,08/05/2023,12 days,2,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,22/23,Toe injury,02/02/2023,06/02/2023,5 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,21/22,Corona virus,04/01/2022,11/01/2022,8 days,1,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,21/22,Hamstring injury,29/08/2021,09/09/2021,12 days,3,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Theo Hernandez,344695,theo-hernandez,20/21,Muscle injury,15/03/2021,28/03/2021,14 days,3,https://www.transfermarkt.com/theo-hernandez/verletzungen/spieler/344695
+Reece James,472423,reece-james,25/26,Knock,01/02/2026,11/02/2026,11 days,3,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,25/26,Hip problems,09/01/2026,16/01/2026,8 days,2,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,24/25,Ill,08/03/2025,12/03/2025,5 days,1,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,24/25,Hamstring injury,19/11/2024,27/12/2024,39 days,10,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,24/25,Hamstring injury,09/08/2024,14/10/2024,67 days,15,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,23/24,surgery,11/12/2023,10/05/2024,152 days,31,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,23/24,Hamstring injury,13/08/2023,06/10/2023,55 days,10,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,22/23,Hamstring injury,25/04/2023,31/05/2023,37 days,7,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,22/23,Thigh problems,26/03/2023,31/03/2023,6 days,1,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,22/23,Ill,09/03/2023,15/03/2023,7 days,1,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,22/23,Hamstring injury,01/03/2023,05/03/2023,5 days,1,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,22/23,Knee injury,27/12/2022,31/01/2023,36 days,6,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,22/23,Knee injury,13/10/2022,12/12/2022,61 days,14,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,21/22,Hamstring injury,21/04/2022,28/04/2022,8 days,1,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Reece James,472423,reece-james,21/22,Muscle injury,03/03/2022,21/03/2022,19 days,4,https://www.transfermarkt.com/reece-james/verletzungen/spieler/472423
+Joshua Kimmich,161056,joshua-kimmich,25/26,Ankle problems,15/12/2025,15/01/2026,32 days,3,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,24/25,Tendon irritation,24/02/2025,04/03/2025,9 days,1,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,23/24,Shoulder injury,25/01/2024,07/02/2024,14 days,2,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,23/24,Ill,15/12/2023,22/12/2023,8 days,2,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,23/24,Ill,13/10/2023,19/10/2023,7 days,2,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,23/24,muscular problems,12/09/2023,14/09/2023,3 days,-,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,22/23,Corona virus,01/10/2022,06/10/2022,6 days,1,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,21/22,Fitness,09/12/2021,03/01/2022,26 days,3,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,21/22,Corona virus,22/11/2021,09/12/2021,18 days,4,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,21/22,Quarantine,08/11/2021,22/11/2021,15 days,3,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,20/21,influenza,18/03/2021,22/03/2021,5 days,1,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,20/21,Meniscus damage,05/11/2020,21/12/2020,47 days,11,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,17/18,bruise,22/02/2018,26/02/2018,5 days,1,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,17/18,Back problems,08/01/2018,11/01/2018,4 days,-,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Joshua Kimmich,161056,joshua-kimmich,17/18,Stomach problems,02/11/2017,02/11/2017,1 days,-,https://www.transfermarkt.com/joshua-kimmich/verletzungen/spieler/161056
+Frenkie de Jong,326330,frenkie-de-jong,25/26,Fever,01/12/2025,06/12/2025,6 days,1,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,25/26,Muscle injury,05/09/2025,17/09/2025,13 days,2,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,24/25,Stomach flu,16/03/2025,18/03/2025,3 days,1,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,24/25,Rest,18/11/2024,20/11/2024,3 days,1,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,23/24,Ankle injury,22/04/2024,01/10/2024,163 days,25,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,23/24,Ankle injury,04/03/2024,08/04/2024,36 days,6,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,23/24,Fever,11/12/2023,15/12/2023,5 days,1,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,23/24,Ankle sprain,24/09/2023,24/11/2023,62 days,14,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,22/23,Knee injury,20/03/2023,21/04/2023,33 days,6,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,22/23,Muscle injury,22/09/2022,08/10/2022,17 days,3,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,21/22,Muscle strain,06/01/2022,10/01/2022,5 days,1,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,21/22,Muscle injury,25/10/2021,01/11/2021,8 days,2,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,21/22,Calf injury,05/08/2021,16/08/2021,12 days,-,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,20/21,Muscle injury,18/06/2020,13/07/2020,26 days,7,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Frenkie de Jong,326330,frenkie-de-jong,18/19,Calf injury,27/09/2018,08/10/2018,12 days,2,https://www.transfermarkt.com/frenkie-de-jong/verletzungen/spieler/326330
+Eduardo Camavinga,640428,eduardo-camavinga,25/26,Ankle problems,07/12/2025,18/12/2025,12 days,3,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,25/26,Ankle injury,10/08/2025,15/09/2025,37 days,6,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,24/25,Hamstring injury,23/04/2025,06/07/2025,75 days,13,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,24/25,Hamstring injury,16/01/2025,06/02/2025,22 days,6,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,24/25,Muscle injury,27/11/2024,13/12/2024,17 days,4,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,24/25,Knee injury,13/08/2024,26/09/2024,45 days,10,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,23/24,Ankle sprain,26/03/2024,30/03/2024,5 days,-,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,23/24,Torn lateral knee ligament,15/11/2023,04/01/2024,51 days,10,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,21/22,Corona virus,29/12/2021,01/01/2022,4 days,-,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,21/22,Knock,04/10/2021,18/10/2021,15 days,4,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,20/21,Knock,24/10/2020,15/11/2020,23 days,7,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,19/20,Rest,07/02/2020,09/02/2020,3 days,1,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Eduardo Camavinga,640428,eduardo-camavinga,19/20,Muscle injury,19/11/2019,27/11/2019,9 days,2,https://www.transfermarkt.com/eduardo-camavinga/verletzungen/spieler/640428
+Aurelien Tchouameni,543743,aurelien-tchouameni,1,Lamine Yamal Right Winger,,Lamine Yamal,Right Winger,18,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,2,Erling Haaland Centre-Forward,,Erling Haaland,Centre-Forward,25,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,3,Kylian Mbappé Centre-Forward,,Kylian Mbappé,Centre-Forward,27,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,4,Jude Bellingham Attacking Midfield,,Jude Bellingham,Attacking Midfield,22,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,5,Vinicius Junior Left Winger,,Vinicius Junior,Left Winger,25,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,6,Pedri Central Midfield,,Pedri,Central Midfield,23,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,7,Jamal Musiala Attacking Midfield,,Jamal Musiala,Attacking Midfield,22,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,8,Michael Olise Right Winger,,Michael Olise,Right Winger,24,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,9,Bukayo Saka Right Winger,,Bukayo Saka,Right Winger,24,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,10,Cole Palmer Attacking Midfield,,Cole Palmer,Attacking Midfield,23,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,11,Federico Valverde Central Midfield,,Federico Valverde,Central Midfield,27,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,12,Declan Rice Central Midfield,,Declan Rice,Central Midfield,27,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,13,Alexander Isak Centre-Forward,,Alexander Isak,Centre-Forward,26,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,14,Moisés Caicedo Defensive Midfield,,Moisés Caicedo,Defensive Midfield,24,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,15,João Neves Central Midfield,,João Neves,Central Midfield,21,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,16,Florian Wirtz Attacking Midfield,,Florian Wirtz,Attacking Midfield,22,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,17,Vitinha Defensive Midfield,,Vitinha,Defensive Midfield,26,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,18,Julián Alvarez Centre-Forward,,Julián Alvarez,Centre-Forward,26,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,19,Ousmane Dembélé Centre-Forward,,Ousmane Dembélé,Centre-Forward,28,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,20,Désiré Doué Right Winger,,Désiré Doué,Right Winger,20,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,21,Arda Güler Attacking Midfield,,Arda Güler,Attacking Midfield,20,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,22,Khvicha Kvaratskhelia Left Winger,,Khvicha Kvaratskhelia,Left Winger,25,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,23,William Saliba Centre-Back,,William Saliba,Centre-Back,24,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,24,Ryan Gravenberch Defensive Midfield,,Ryan Gravenberch,Defensive Midfield,23,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Aurelien Tchouameni,543743,aurelien-tchouameni,25,Hugo Ekitiké Centre-Forward,,Hugo Ekitiké,Centre-Forward,23,https://www.transfermarkt.com/aurelien-tchouameni/verletzungen/spieler/543743
+Enzo Fernandez,648195,enzo-fernandez,25/26,Knee problems,09/11/2025,21/11/2025,13 days,-,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Enzo Fernandez,648195,enzo-fernandez,25/26,Knee problems,14/10/2025,20/10/2025,7 days,1,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Enzo Fernandez,648195,enzo-fernandez,24/25,Knock,16/01/2025,23/01/2025,8 days,1,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Enzo Fernandez,648195,enzo-fernandez,24/25,Ill,13/09/2024,15/09/2024,3 days,1,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Enzo Fernandez,648195,enzo-fernandez,23/24,Groin surgery,25/04/2024,31/05/2024,37 days,6,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Enzo Fernandez,648195,enzo-fernandez,23/24,unknown injury,13/04/2024,18/04/2024,6 days,1,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Enzo Fernandez,648195,enzo-fernandez,23/24,unknown injury,19/12/2023,29/12/2023,11 days,2,https://www.transfermarkt.com/enzo-fernandez/verletzungen/spieler/648195
+Moises Caicedo,687626,moises-caicedo,23/24,Fever,23/12/2023,25/12/2023,3 days,1,https://www.transfermarkt.com/moises-caicedo/verletzungen/spieler/687626
+Moises Caicedo,687626,moises-caicedo,23/24,Knock,14/09/2023,20/09/2023,7 days,1,https://www.transfermarkt.com/moises-caicedo/verletzungen/spieler/687626
+Moises Caicedo,687626,moises-caicedo,21/22,Ill,01/04/2022,06/04/2022,6 days,1,https://www.transfermarkt.com/moises-caicedo/verletzungen/spieler/687626
+Moises Caicedo,687626,moises-caicedo,20/21,Torn muscle fiber,18/11/2020,09/12/2020,22 days,6,https://www.transfermarkt.com/moises-caicedo/verletzungen/spieler/687626
+Julian Alvarez,576024,julian-alvarez,25/26,Inner ligament injury,14/09/2025,20/09/2025,7 days,1,https://www.transfermarkt.com/julian-alvarez/verletzungen/spieler/576024
+Julian Alvarez,576024,julian-alvarez,22/23,Ill,04/03/2022,06/03/2022,3 days,1,https://www.transfermarkt.com/julian-alvarez/verletzungen/spieler/576024
+Lautaro Martinez,406625,lautaro-martinez,24/25,Muscle fatigue,09/05/2025,20/05/2025,12 days,2,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,24/25,Hamstring injury,30/04/2025,04/05/2025,5 days,1,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,24/25,Muscle injury,19/03/2025,03/04/2025,16 days,4,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,24/25,Fever,22/11/2024,25/11/2024,4 days,1,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,24/25,Muscle fatigue,23/08/2024,29/08/2024,7 days,1,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,23/24,Adductor injury,20/12/2023,04/01/2024,16 days,2,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,22/23,Muscle fatigue,01/10/2022,04/10/2022,4 days,-,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,21/22,Corona virus,20/03/2022,31/03/2022,12 days,2,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,21/22,muscular problems,06/10/2021,09/10/2021,4 days,1,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,21/22,muscular problems,13/08/2021,26/08/2021,14 days,1,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,18/19,Hamstring injury,27/03/2019,11/04/2019,16 days,3,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,18/19,Calf problems,05/09/2018,21/09/2018,17 days,4,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Lautaro Martinez,406625,lautaro-martinez,16/17,Metatarsal fracture,30/06/2017,22/10/2017,115 days,11,https://www.transfermarkt.com/lautaro-martinez/verletzungen/spieler/406625
+Victor Osimhen,401923,victor-osimhen,25/26,Hamstring strain,16/11/2025,28/11/2025,13 days,2,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,25/26,Fitness,21/09/2025,23/09/2025,3 days,1,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,25/26,Ankle sprain,07/09/2025,21/09/2025,15 days,3,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,25/26,Fitness,31/07/2025,09/08/2025,10 days,2,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,24/25,Fever,07/01/2025,09/01/2025,3 days,1,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,24/25,Muscle strain,08/12/2024,15/12/2024,8 days,1,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,24/25,Muscle strain,28/09/2024,12/10/2024,15 days,3,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,23/24,Muscle fatigue,13/05/2024,20/06/2024,39 days,3,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,23/24,muscular problems,13/03/2024,17/03/2024,5 days,-,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,23/24,Fitness,15/02/2024,18/02/2024,4 days,1,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,23/24,Abdominal problems,06/02/2024,06/02/2024,1 days,-,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,23/24,Hamstring muscle injury,13/10/2023,24/11/2023,43 days,9,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,23/24,Muscle fatigue,02/08/2023,07/08/2023,6 days,-,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,22/23,Adductor injury,28/03/2023,15/04/2023,19 days,3,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Victor Osimhen,401923,victor-osimhen,22/23,Hamstring muscle injury,08/09/2022,10/10/2022,33 days,7,https://www.transfermarkt.com/victor-osimhen/verletzungen/spieler/401923
+Rafael Leao,357164,rafael-leao,25/26,Adductor pain,09/12/2025,29/12/2025,21 days,3,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,25/26,Calf injury,18/08/2025,25/09/2025,39 days,7,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,24/25,Muscle injury,20/12/2024,04/01/2025,16 days,2,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,23/24,Hamstring muscle injury,11/11/2023,12/12/2023,32 days,6,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,22/23,Adductor pain,06/05/2023,15/05/2023,10 days,2,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,21/22,Hamstring muscle injury,04/12/2021,01/01/2022,29 days,4,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,20/21,Muscle injury,14/03/2021,05/04/2021,23 days,6,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,20/21,Hamstring muscle injury,18/11/2020,08/12/2020,21 days,5,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,20/21,Corona virus,07/09/2020,21/09/2020,15 days,1,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,17/18,Muscle injury,05/03/2018,01/06/2018,89 days,18,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Rafael Leao,357164,rafael-leao,17/18,Hamstring injury,11/12/2017,05/02/2018,57 days,7,https://www.transfermarkt.com/rafael-leao/verletzungen/spieler/357164
+Marcus Rashford,258923,marcus-rashford,25/26,Knee bruise,07/02/2026,22/02/2026,16 days,2,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,25/26,Fever,21/11/2025,24/11/2025,4 days,1,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,24/25,Hamstring injury,23/04/2025,23/05/2025,31 days,4,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,24/25,Ill,04/01/2025,15/01/2025,12 days,2,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,23/24,Ill,11/12/2023,13/12/2023,3 days,1,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,22/23,Leg injury,11/05/2023,24/05/2023,14 days,2,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,22/23,Muscle injury,08/04/2023,19/04/2023,12 days,2,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,22/23,unknown injury,19/03/2023,31/03/2023,13 days,2,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,22/23,Muscle injury,04/09/2022,19/09/2022,16 days,2,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,21/22,bronchitis,04/05/2022,19/05/2022,16 days,1,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,21/22,Dead leg,13/01/2022,17/01/2022,5 days,1,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,21/22,Shoulder injury,14/07/2021,15/10/2021,94 days,15,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,20/21,Shoulder injury,08/11/2020,20/11/2020,13 days,3,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,19/20,Back injury,16/01/2020,05/06/2020,142 days,13,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Marcus Rashford,258923,marcus-rashford,19/20,Hip injury,22/09/2019,30/09/2019,9 days,1,https://www.transfermarkt.com/marcus-rashford/verletzungen/spieler/258923
+Son Heung-min,91845,heung-min-son,24/25,Foot injury,14/04/2025,09/05/2025,26 days,6,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,24/25,Knock,11/04/2025,14/04/2025,4 days,1,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,24/25,Thigh problems,21/10/2024,02/11/2024,13 days,3,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,24/25,Hamstring injury,26/09/2024,19/10/2024,24 days,5,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,22/23,Groin surgery,29/05/2023,18/06/2023,21 days,-,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,22/23,Facial fracture,02/11/2022,20/11/2022,19 days,4,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,21/22,Hamstring injury,06/01/2022,03/02/2022,29 days,8,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,21/22,Calf strain,06/09/2021,20/09/2021,15 days,3,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,20/21,Hamstring injury,15/03/2021,05/04/2021,22 days,3,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,20/21,Hamstring injury,28/09/2020,05/10/2020,8 days,2,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,19/20,Broken arm,17/02/2020,30/04/2020,74 days,6,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,18/19,Calf injury,31/01/2019,04/02/2019,5 days,-,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,17/18,Metacarpal fracture,15/06/2017,14/08/2017,61 days,-,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,15/16,Foot injury,28/09/2015,05/11/2015,39 days,8,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845
+Son Heung-min,91845,heung-min-son,11/12,Torn lateral ankle ligament,29/08/2011,12/09/2011,15 days,3,https://www.transfermarkt.com/heung-min-son/verletzungen/spieler/91845

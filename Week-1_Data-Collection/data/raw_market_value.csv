@@ -1,0 +1,51 @@
+scraped_at,player_name,transfermarkt_player_id,transfermarkt_slug,club,market_value_raw,market_value_eur,source_url
+2026-02-19T07:29:19+00:00,Lionel Messi,28003,lionel-messi,Miami,€ 15.00 m,15000000.0,https://www.transfermarkt.com/lionel-messi/profil/spieler/28003
+2026-02-19T07:29:28+00:00,Cristiano Ronaldo,8198,cristiano-ronaldo,Al-Nassr,€ 12.00 m,12000000.0,https://www.transfermarkt.com/cristiano-ronaldo/profil/spieler/8198
+2026-02-19T07:29:36+00:00,Kylian Mbappé,342229,kylian-mbappe,Real Madrid,€ 200.00 m,200000000.0,https://www.transfermarkt.com/kylian-mbappe/profil/spieler/342229
+2026-02-19T07:29:41+00:00,Erling Haaland,418560,erling-haaland,Man City,€ 200.00 m,200000000.0,https://www.transfermarkt.com/erling-haaland/profil/spieler/418560
+2026-02-19T07:29:48+00:00,Jude Bellingham,581678,jude-bellingham,Real Madrid,€ 160.00 m,160000000.0,https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678
+2026-02-19T07:29:53+00:00,Vinicius Junior,371998,vinicius-junior,Real Madrid,€ 150.00 m,150000000.0,https://www.transfermarkt.com/vinicius-junior/profil/spieler/371998
+2026-02-19T07:30:01+00:00,Pedri,683840,pedri,Barcelona,€ 140.00 m,140000000.0,https://www.transfermarkt.com/pedri/profil/spieler/683840
+2026-02-19T07:30:09+00:00,Gavi,646740,gavi,Barcelona,€ 40.00 m,40000000.0,https://www.transfermarkt.com/gavi/profil/spieler/646740
+2026-02-19T07:30:16+00:00,Jamal Musiala,580195,jamal-musiala,Bayern Munich,€ 130.00 m,130000000.0,https://www.transfermarkt.com/jamal-musiala/profil/spieler/580195
+2026-02-19T07:30:23+00:00,Bukayo Saka,433177,bukayo-saka,Arsenal,€ 130.00 m,130000000.0,https://www.transfermarkt.com/bukayo-saka/profil/spieler/433177
+2026-02-19T07:30:30+00:00,Phil Foden,503795,phil-foden,Watford,€ 2.00 m,2000000.0,https://www.transfermarkt.com/phil-foden/profil/spieler/503795
+2026-02-19T07:30:36+00:00,Harry Kane,132098,harry-kane,Bayern Munich,€ 65.00 m,65000000.0,https://www.transfermarkt.com/harry-kane/profil/spieler/132098
+2026-02-19T07:30:42+00:00,Kevin De Bruyne,88755,kevin-de-bruyne,Napoli,€ 15.00 m,15000000.0,https://www.transfermarkt.com/kevin-de-bruyne/profil/spieler/88755
+2026-02-19T07:30:49+00:00,Mohamed Salah,148455,mohamed-salah,Liverpool,€ 30.00 m,30000000.0,https://www.transfermarkt.com/mohamed-salah/profil/spieler/148455
+2026-02-19T07:30:55+00:00,Robert Lewandowski,38253,robert-lewandowski,Barcelona,€ 9.00 m,9000000.0,https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253
+2026-02-19T07:31:01+00:00,Neymar,68290,neymar,Santos,€ 10.00 m,10000000.0,https://www.transfermarkt.com/neymar/profil/spieler/68290
+2026-02-19T07:31:08+00:00,Luka Modric,27992,luka-modric,AC Milan,€ 4.00 m,4000000.0,https://www.transfermarkt.com/luka-modric/profil/spieler/27992
+2026-02-19T07:31:15+00:00,Toni Kroos,31909,toni-kroos,Retired,,,https://www.transfermarkt.com/toni-kroos/profil/spieler/31909
+2026-02-19T07:31:22+00:00,Virgil van Dijk,139208,virgil-van-dijk,Liverpool,€ 18.00 m,18000000.0,https://www.transfermarkt.com/virgil-van-dijk/profil/spieler/139208
+2026-02-19T07:31:29+00:00,Rodri,357565,rodri,Man City,€ 75.00 m,75000000.0,https://www.transfermarkt.com/rodri/profil/spieler/357565
+2026-02-19T07:31:35+00:00,Declan Rice,357662,declan-rice,Arsenal,€ 120.00 m,120000000.0,https://www.transfermarkt.com/declan-rice/profil/spieler/357662
+2026-02-19T07:31:42+00:00,Martin Ødegaard,359007,martin-odegaard,DJK Altenessen,,,https://www.transfermarkt.com/martin-odegaard/profil/spieler/359007
+2026-02-19T07:31:49+00:00,Bruno Fernandes,240306,bruno-fernandes,Man Utd,€ 40.00 m,40000000.0,https://www.transfermarkt.com/bruno-fernandes/profil/spieler/240306
+2026-02-19T07:31:56+00:00,Bernardo Silva,241641,bernardo-silva,Man City,€ 27.00 m,27000000.0,https://www.transfermarkt.com/bernardo-silva/profil/spieler/241641
+2026-02-19T07:32:03+00:00,Ruben Dias,258004,ruben-dias,Man City,€ 60.00 m,60000000.0,https://www.transfermarkt.com/ruben-dias/profil/spieler/258004
+2026-02-19T07:32:11+00:00,Alisson,225422,alisson,Retired,,,https://www.transfermarkt.com/alisson/profil/spieler/225422
+2026-02-19T07:32:17+00:00,Ederson,238223,ederson,Fenerbahçe,€ 15.00 m,15000000.0,https://www.transfermarkt.com/ederson/profil/spieler/238223
+2026-02-19T07:32:24+00:00,Thibaut Courtois,108390,thibaut-courtois,Real Madrid,€ 18.00 m,18000000.0,https://www.transfermarkt.com/thibaut-courtois/profil/spieler/108390
+2026-02-19T07:32:31+00:00,Marc-André ter Stegen,74857,marc-andre-ter-stegen,Girona,€ 7.00 m,7000000.0,https://www.transfermarkt.com/marc-andre-ter-stegen/profil/spieler/74857
+2026-02-19T07:32:37+00:00,Jan Oblak,121483,jan-oblak,Atlético,€ 17.00 m,17000000.0,https://www.transfermarkt.com/jan-oblak/profil/spieler/121483
+2026-02-19T07:32:46+00:00,Trent Alexander-Arnold,314353,trent-alexander-arnold,Real Madrid,€ 70.00 m,70000000.0,https://www.transfermarkt.com/trent-alexander-arnold/profil/spieler/314353
+2026-02-19T07:32:53+00:00,Alphonso Davies,424204,alphonso-davies,Bayern Munich,€ 50.00 m,50000000.0,https://www.transfermarkt.com/alphonso-davies/profil/spieler/424204
+2026-02-19T07:33:00+00:00,Achraf Hakimi,398073,achraf-hakimi,PSG,€ 80.00 m,80000000.0,https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073
+2026-02-19T07:33:07+00:00,Theo Hernandez,344695,theo-hernandez,Bayern Munich,€ 70.00 m,70000000.0,https://www.transfermarkt.com/theo-hernandez/profil/spieler/344695
+2026-02-19T07:33:14+00:00,Reece James,472423,reece-james,Chelsea,€ 50.00 m,50000000.0,https://www.transfermarkt.com/reece-james/profil/spieler/472423
+2026-02-19T07:33:23+00:00,Joao Cancelo,239659,joao-cancelo,CC Belpasso,,,https://www.transfermarkt.com/joao-cancelo/profil/spieler/239659
+2026-02-19T07:33:29+00:00,Joshua Kimmich,161056,joshua-kimmich,Bayern Munich,€ 40.00 m,40000000.0,https://www.transfermarkt.com/joshua-kimmich/profil/spieler/161056
+2026-02-19T07:33:36+00:00,Frenkie de Jong,326330,frenkie-de-jong,Barcelona,€ 45.00 m,45000000.0,https://www.transfermarkt.com/frenkie-de-jong/profil/spieler/326330
+2026-02-19T07:33:43+00:00,Eduardo Camavinga,640428,eduardo-camavinga,Real Madrid,€ 50.00 m,50000000.0,https://www.transfermarkt.com/eduardo-camavinga/profil/spieler/640428
+2026-02-19T07:33:52+00:00,Aurelien Tchouameni,543743,aurelien-tchouameni,,,,https://www.transfermarkt.com/aurelien-tchouameni/profil/spieler/543743
+2026-02-19T07:34:00+00:00,Enzo Fernandez,648195,enzo-fernandez,Chelsea,€ 85.00 m,85000000.0,https://www.transfermarkt.com/enzo-fernandez/profil/spieler/648195
+2026-02-19T07:34:06+00:00,Moises Caicedo,687626,moises-caicedo,Chelsea,€ 110.00 m,110000000.0,https://www.transfermarkt.com/moises-caicedo/profil/spieler/687626
+2026-02-19T07:34:14+00:00,Alexis Mac Allister,532801,alexis-mac-allister,Retired,,,https://www.transfermarkt.com/alexis-mac-allister/profil/spieler/532801
+2026-02-19T07:34:21+00:00,Julian Alvarez,576024,julian-alvarez,Atlético,€ 100.00 m,100000000.0,https://www.transfermarkt.com/julian-alvarez/profil/spieler/576024
+2026-02-19T07:34:28+00:00,Lautaro Martinez,406625,lautaro-martinez,Inter,€ 85.00 m,85000000.0,https://www.transfermarkt.com/lautaro-martinez/profil/spieler/406625
+2026-02-19T07:34:34+00:00,Victor Osimhen,401923,victor-osimhen,Galatasaray,€ 75.00 m,75000000.0,https://www.transfermarkt.com/victor-osimhen/profil/spieler/401923
+2026-02-19T07:34:42+00:00,Khvicha Kvaratskhelia,550312,khvicha-kvaratskhelia,Retired,,,https://www.transfermarkt.com/khvicha-kvaratskhelia/profil/spieler/550312
+2026-02-19T07:34:48+00:00,Rafael Leao,357164,rafael-leao,AC Milan,€ 70.00 m,70000000.0,https://www.transfermarkt.com/rafael-leao/profil/spieler/357164
+2026-02-19T07:34:54+00:00,Marcus Rashford,258923,marcus-rashford,Barcelona,€ 40.00 m,40000000.0,https://www.transfermarkt.com/marcus-rashford/profil/spieler/258923
+2026-02-19T07:35:01+00:00,Son Heung-min,91845,heung-min-son,LAFC,€ 17.00 m,17000000.0,https://www.transfermarkt.com/heung-min-son/profil/spieler/91845

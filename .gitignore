@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data outputs
+reports/figures/
+data/processed/
