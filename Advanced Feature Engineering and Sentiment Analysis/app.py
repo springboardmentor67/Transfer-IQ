@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 
 @st.cache_data
 def load_data():
-    return pd.read_csv("C:\\Users\\bvaib\\Desktop\\Football player valuation analyzer\\player_transfer_value_with_sentiment.csv")
+    return pd.read_csv("Football player valuation analyzer\player_transfer_value_with_sentiment.csv")
 
 df = load_data()
 
@@ -270,5 +270,6 @@ st.plotly_chart(fig)
 # ----------------------------
 
 st.header("Raw Player Data")
+
 
 st.dataframe(player_df)
