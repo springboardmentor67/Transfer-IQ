@@ -1,0 +1,7 @@
+StatsBomb Open Data: https://github.com/statsbomb/open-data
+
+Transfermarkt Dataset: www.transfermarkt.com
+
+Twitter Dataset: https://www.kaggle.com/datasets/wjia26/epl-teams-twitter-sentiment-dataset
+
+Injury Dataset: https://www.kaggle.com/datasets/kolambekalpesh/football-player-injury-data
