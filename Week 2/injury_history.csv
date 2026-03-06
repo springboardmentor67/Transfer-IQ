@@ -1,0 +1,1024 @@
+player_name,player_id,injury_type,injury_date,return_date,duration_days,matches_missed,season
+Cristiano Ronaldo,8198,Muscle strain,11/05/2025,19/05/2025,9,2,24/25
+Cristiano Ronaldo,8198,Abdominal problems,15/12/2024,31/12/2024,17,0,24/25
+Cristiano Ronaldo,8198,Virus,15/09/2024,18/09/2024,4,1,24/25
+Cristiano Ronaldo,8198,unknown injury,23/01/2024,11/02/2024,20,0,23/24
+Cristiano Ronaldo,8198,Ill,09/11/2022,18/11/2022,10,3,22/23
+Cristiano Ronaldo,8198,Rest,09/06/2022,13/06/2022,5,1,21/22
+Cristiano Ronaldo,8198,Hip flexor problems,03/03/2022,07/03/2022,5,1,21/22
+Cristiano Ronaldo,8198,Hip flexor problems,10/01/2022,17/01/2022,8,2,21/22
+Cristiano Ronaldo,8198,Arm injury,26/08/2021,30/08/2021,5,1,21/22
+Cristiano Ronaldo,8198,Hip flexor problems,15/04/2021,19/04/2021,5,1,20/21
+Cristiano Ronaldo,8198,Corona virus,12/10/2020,29/10/2020,18,5,20/21
+Cristiano Ronaldo,8198,Adductor pain,23/09/2019,26/09/2019,4,1,19/20
+Cristiano Ronaldo,8198,Hamstring injury,25/03/2019,08/04/2019,15,3,18/19
+Cristiano Ronaldo,8198,Ankle injury,07/05/2018,14/05/2018,8,2,17/18
+Cristiano Ronaldo,8198,Metacarpal fracture,19/01/2017,23/01/2017,5,0,16/17
+Lionel Messi,28003,muscular problems,18/08/2025,26/08/2025,9,2,25/26
+Lionel Messi,28003,muscular problems,04/08/2025,14/08/2025,11,2,25/26
+Lionel Messi,28003,Adductor pain,18/03/2025,27/03/2025,10,2,24/25
+Lionel Messi,28003,Ligament injury,16/07/2024,12/09/2024,59,10,24/25
+Lionel Messi,28003,Leg injury,14/05/2024,18/05/2024,5,1,23/24
+Lionel Messi,28003,muscular problems,15/03/2024,05/04/2024,22,6,23/24
+Lionel Messi,28003,Muscle injury,22/09/2023,06/10/2023,15,4,23/24
+Lionel Messi,28003,Muscle injury,06/09/2023,18/09/2023,13,3,23/24
+Lionel Messi,28003,Knee problems,08/02/2023,13/02/2023,6,1,22/23
+Lionel Messi,28003,Achilles heel problems,05/11/2022,07/11/2022,3,1,22/23
+Lionel Messi,28003,Calf problems,05/10/2022,13/10/2022,9,2,22/23
+Lionel Messi,28003,flu,17/03/2022,24/03/2022,8,1,21/22
+Lionel Messi,28003,Quarantine,06/01/2022,20/01/2022,15,2,21/22
+Lionel Messi,28003,Corona virus,01/01/2022,05/01/2022,5,1,21/22
+Lionel Messi,28003,Knee problems,29/10/2021,11/11/2021,14,2,21/22
+Erling Haaland,418560,Ankle injury,31/03/2025,01/05/2025,32,6,24/25
+Erling Haaland,418560,Knee problems,16/02/2025,25/02/2025,10,1,24/25
+Erling Haaland,418560,Muscle injury,18/04/2024,26/04/2024,9,2,23/24
+Erling Haaland,418560,Stress reaction of the bone,09/12/2023,31/01/2024,54,10,23/24
+Erling Haaland,418560,Ankle injury,17/11/2023,24/11/2023,8,1,23/24
+Erling Haaland,418560,Ankle injury,05/11/2023,06/11/2023,2,0,23/24
+Erling Haaland,418560,Groin problems,21/03/2023,03/04/2023,14,3,22/23
+Erling Haaland,418560,Foot bruise,26/10/2022,04/11/2022,10,2,22/23
+Erling Haaland,418560,Ill,05/05/2022,05/05/2022,1,0,21/22
+Erling Haaland,418560,muscular problems,24/01/2022,07/03/2022,43,6,21/22
+Erling Haaland,418560,Hip flexor problems,21/10/2021,25/11/2021,36,9,21/22
+Erling Haaland,418560,muscular problems,23/09/2021,11/10/2021,19,4,21/22
+Erling Haaland,418560,minor knock,06/05/2021,10/05/2021,5,1,20/21
+Erling Haaland,418560,muscular problems,29/04/2021,03/05/2021,5,1,20/21
+Erling Haaland,418560,Torn muscle fiber,30/11/2020,28/12/2020,29,7,20/21
+Kylian Mbappe,342229,Knee injury,31/12/2025,09/01/2026,10,2,25/26
+Kylian Mbappe,342229,muscular problems,08/12/2025,12/12/2025,5,0,25/26
+Kylian Mbappe,342229,Stomach flu,18/06/2025,30/06/2025,13,3,24/25
+Kylian Mbappe,342229,Hamstring injury,12/12/2024,17/12/2024,6,1,24/25
+Kylian Mbappe,342229,Muscle injury,25/09/2024,30/09/2024,6,1,24/25
+Kylian Mbappe,342229,Hamstring injury,02/02/2023,12/02/2023,11,3,22/23
+Kylian Mbappe,342229,Adductor pain,05/08/2022,07/08/2022,3,1,22/23
+Kylian Mbappe,342229,infection,26/10/2021,02/11/2021,8,1,21/22
+Kylian Mbappe,342229,Calf injury,02/09/2021,10/09/2021,9,2,21/22
+Kylian Mbappe,342229,Calf injury,05/05/2021,11/05/2021,7,1,20/21
+Kylian Mbappe,342229,Calf injury,29/04/2021,03/05/2021,5,1,20/21
+Kylian Mbappe,342229,Thigh problems,01/11/2020,15/11/2020,15,4,20/21
+Kylian Mbappe,342229,Corona virus,07/09/2020,18/09/2020,12,4,20/21
+Kylian Mbappe,342229,Ankle injury,25/07/2020,10/08/2020,17,1,20/21
+Kylian Mbappe,342229,Rest,14/02/2020,16/02/2020,3,1,19/20
+Jude Bellingham,581977,unknown injury,04/11/2024,06/12/2024,33,4,23/24
+Jude Bellingham,581977,unknown injury,24/09/2024,10/10/2024,17,3,23/24
+Jude Bellingham,581977,Corona virus,14/06/2022,27/06/2022,14,4,21/22
+Jude Bellingham,581977,Shoulder injury,22/04/2022,02/05/2022,11,3,21/22
+Jude Bellingham,581977,unknown injury,21/03/2022,14/04/2022,25,4,21/22
+Jude Bellingham,581977,unknown injury,24/01/2022,06/02/2022,14,2,21/22
+Jude Bellingham,581977,unknown injury,07/04/2019,22/05/2019,46,7,18/19
+Bukayo Saka,433177,Hip injury,30/01/2026,11/02/2026,13,3,25/26
+Bukayo Saka,433177,Hamstring injury,23/08/2025,17/09/2025,26,5,25/26
+Bukayo Saka,433177,Hamstring injury,22/12/2024,30/03/2025,99,21,24/25
+Bukayo Saka,433177,Thigh problems,10/10/2024,24/10/2024,15,3,24/25
+Bukayo Saka,433177,Muscle injury,13/05/2024,20/05/2024,8,1,24/25
+Bukayo Saka,433177,unknown injury,21/03/2024,06/04/2024,17,3,23/24
+Bukayo Saka,433177,Thigh problems,03/10/2023,21/10/2023,19,3,23/24
+Bukayo Saka,433177,Dead leg,30/06/2021,05/07/2021,6,1,21/22
+Bukayo Saka,433177,Hip problems,28/01/2021,31/01/2021,4,1,20/21
+Bukayo Saka,433177,Ankle injury,30/12/2020,01/01/2021,3,0,20/21
+Bukayo Saka,433177,Hamstring injury,23/11/2020,28/11/2020,6,1,20/21
+Bukayo Saka,433177,Knee injury,03/02/2020,15/02/2020,13,0,19/20
+Phil Foden,406635,Ankle injury,25/08/2025,12/09/2025,19,3,25/26
+Phil Foden,406635,Ankle injury,04/08/2025,22/08/2025,19,1,25/26
+Phil Foden,406635,Ankle injury,07/04/2025,18/04/2025,12,1,24/25
+Phil Foden,406635,unknown injury,01/12/2024,09/12/2024,9,2,24/25
+Phil Foden,406635,cold,03/09/2024,08/09/2024,6,1,24/25
+Phil Foden,406635,Ill,21/08/2024,31/08/2024,11,1,24/25
+Phil Foden,406635,Appendectomy,26/03/2023,17/04/2023,23,5,22/23
+Phil Foden,406635,Foot injury,01/08/2021,09/09/2021,40,7,21/22
+Phil Foden,406635,Ill,15/09/2019,25/09/2019,11,2,19/20
+Phil Foden,406635,Foot injury,21/12/2017,09/02/2018,51,12,17/18
+Mohamed Salah,148455,muscular problems,19/02/2024,04/03/2024,15,4,23/24
+Mohamed Salah,148455,Hamstring muscle injury,19/01/2024,13/02/2024,26,8,23/24
+Mohamed Salah,148455,Corona virus,13/11/2020,24/11/2020,12,3,20/21
+Mohamed Salah,148455,Ankle injury,11/11/2019,22/11/2019,12,2,19/20
+Mohamed Salah,148455,Ankle problems,06/10/2019,22/10/2019,17,2,19/20
+Mohamed Salah,148455,concussion,05/05/2019,11/05/2019,7,1,18/19
+Mohamed Salah,148455,Thigh problems,13/10/2018,18/10/2018,6,1,18/19
+Mohamed Salah,148455,Shoulder injury,27/05/2018,14/06/2018,19,2,17/18
+Mohamed Salah,148455,Torn lateral ankle ligament,01/12/2016,15/12/2016,15,3,16/17
+Mohamed Salah,148455,Torn lateral ankle ligament,09/11/2015,07/12/2015,29,6,15/16
+Mohamed Salah,148455,Thigh problems,25/05/2015,01/06/2015,8,0,14/15
+Mohamed Salah,148455,Shoulder injury,05/07/2012,26/07/2012,22,4,12/13
+Harry Kane,88755,Hamstring muscle injury,26/10/2025,01/04/2026,158,25,25/26
+Harry Kane,88755,Hamstring muscle injury,18/09/2024,31/10/2024,44,11,24/25
+Harry Kane,88755,Stomach problems,09/04/2024,10/04/2024,2,0,23/24
+Harry Kane,88755,Groin strain,10/03/2024,18/03/2024,9,1,23/24
+Harry Kane,88755,Fitness,18/12/2023,29/12/2023,12,3,23/24
+Harry Kane,88755,Hamstring muscle injury,12/08/2023,17/12/2023,128,30,23/24
+Harry Kane,88755,Foot bruise,26/04/2023,04/05/2023,9,2,22/23
+Harry Kane,88755,Ill,21/02/2023,24/02/2023,4,1,22/23
+Harry Kane,88755,Corona virus,19/11/2021,03/12/2021,15,4,21/22
+Harry Kane,88755,Ankle injury,01/08/2021,10/09/2021,41,6,21/22
+Harry Kane,88755,Facial fracture,29/05/2021,14/06/2021,17,3,20/21
+Harry Kane,88755,muscular problems,05/05/2021,15/05/2021,11,2,20/21
+Harry Kane,88755,Hamstring injury,21/01/2021,16/02/2021,27,7,20/21
+Harry Kane,88755,Muscle injury,12/10/2020,22/10/2020,11,3,20/21
+Harry Kane,88755,Back injury,02/03/2020,10/03/2020,9,2,19/20
+Kevin De Bruyne,31909,Stomach flu,10/02/2023,20/02/2023,11,2,22/23
+Kevin De Bruyne,31909,influenza,18/08/2022,22/08/2022,5,1,22/23
+Kevin De Bruyne,31909,Hamstring injury,03/03/2022,10/03/2022,8,1,21/22
+Kevin De Bruyne,31909,Pubic bone irritation,02/08/2021,27/09/2021,57,11,21/22
+Kevin De Bruyne,31909,Corona virus,17/05/2021,31/05/2021,15,1,20/21
+Kevin De Bruyne,31909,Quarantine,13/05/2021,17/05/2021,5,1,20/21
+Kevin De Bruyne,31909,Rest,19/04/2021,26/04/2021,8,2,20/21
+Kevin De Bruyne,31909,Adductor pain,22/03/2021,05/04/2021,15,3,20/21
+Kevin De Bruyne,31909,Muscle injury,28/09/2020,12/10/2020,15,3,20/21
+Kevin De Bruyne,31909,Adductor injury,03/10/2019,21/10/2019,19,3,19/20
+Kevin De Bruyne,31909,Stomach flu,11/04/2019,18/04/2019,8,1,18/19
+Kevin De Bruyne,31909,Adductor injury,03/01/2019,21/01/2019,19,4,18/19
+Kevin De Bruyne,31909,Knee problems,29/11/2018,11/12/2018,13,3,18/19
+Kevin De Bruyne,31909,Inner ligament injury,15/02/2018,05/03/2018,19,5,17/18
+Kevin De Bruyne,31909,Stomach flu,06/11/2017,13/11/2017,8,1,17/18
+Karol Romano,581978,Meniscus injury,16/12/2023,01/01/2024,16,2,23/24
+Karol Romano,581978,Calf muscle strain,17/01/2023,05/03/2023,47,0,23/24
+Miguel Savic,581979,Muscle strain,05/01/2023,06/03/2023,60,2,23/24
+Miguel Savic,581979,Fracture,28/02/2024,06/04/2024,38,6,24/25
+Miguel Savic,581979,Knee injury,07/02/2024,15/03/2024,37,6,24/25
+Luka Bianchi,581982,Abdominal problems,19/11/2024,29/11/2024,10,1,24/25
+Luka Bianchi,581982,unknown injury,07/09/2024,02/10/2024,25,1,24/25
+Luka Bianchi,581982,Meniscus injury,09/01/2023,19/01/2023,10,1,23/24
+Michal Savic,581983,Back injury,31/03/2024,03/04/2024,3,0,24/25
+Nayef Ferrari,581984,Abdominal problems,27/11/2024,14/01/2025,48,3,24/25
+Nayef Ferrari,581984,Cartilage damage,03/04/2023,28/05/2023,55,4,23/24
+Kristian Costa,581985,Abdominal problems,28/08/2023,01/10/2023,34,0,23/24
+Diego Lopez,581986,Cartilage damage,19/05/2024,18/07/2024,60,3,24/25
+Diego Lopez,581986,unknown injury,08/01/2023,23/01/2023,15,0,23/24
+Lorenzo Becker,581987,Fracture,05/08/2024,09/09/2024,35,1,24/25
+Lorenzo Becker,581987,Achilles tendon injury,19/07/2024,03/08/2024,15,1,24/25
+Mathias Lopez,581989,Shoulder injury,08/03/2023,19/03/2023,11,2,23/24
+Martin Meyer,581990,Shoulder injury,19/06/2024,07/08/2024,49,3,24/25
+Mateusz Cisse,581992,Meniscus injury,28/11/2024,05/01/2025,38,0,24/25
+Mateusz Cisse,581992,Hamstring injury,13/03/2024,26/04/2024,44,5,24/25
+Raphinha Schulz,581993,Ankle sprain,21/02/2024,12/03/2024,20,3,24/25
+Raphinha Schulz,581993,Concussion,22/05/2024,17/06/2024,26,0,24/25
+Raphinha Schulz,581993,Shoulder injury,18/08/2023,24/08/2023,6,1,23/24
+Casemiro Olsen,581994,unknown injury,20/11/2023,23/11/2023,3,0,23/24
+Casemiro Olsen,581994,Achilles tendon injury,09/12/2023,17/12/2023,8,0,23/24
+Casemiro Olsen,581994,Knee ligament injury,20/08/2023,06/10/2023,47,1,23/24
+Lucas Garcia,581995,Virus,21/07/2023,03/08/2023,13,1,23/24
+Andrea Becker,581999,Muscle strain,18/03/2024,11/05/2024,54,5,24/25
+Andrea Becker,581999,Ankle sprain,14/09/2023,02/10/2023,18,3,23/24
+Andrea Becker,581999,Hamstring injury,02/09/2023,26/09/2023,24,2,23/24
+Milan Taylor,582000,Cartilage damage,16/03/2023,07/05/2023,52,7,23/24
+Marcus Esposito,582002,Knee injury,15/08/2024,25/08/2024,10,0,24/25
+Marcus Esposito,582002,Virus,04/02/2023,03/03/2023,27,0,23/24
+Marcus Esposito,582002,Meniscus injury,11/05/2023,17/05/2023,6,0,23/24
+Declan Brown,582003,Knee ligament injury,17/09/2024,30/10/2024,43,1,24/25
+Declan Brown,582003,Hamstring injury,15/04/2023,31/05/2023,46,0,23/24
+Mathias Thomas,582004,Ankle sprain,26/01/2024,23/02/2024,28,4,24/25
+Mathias Thomas,582004,Cartilage damage,25/02/2024,13/03/2024,17,0,24/25
+Pablo Milinkovic,582005,Knee ligament injury,29/01/2024,01/03/2024,32,4,24/25
+Pablo Milinkovic,582005,Virus,26/09/2024,05/10/2024,9,2,24/25
+Pablo Milinkovic,582005,Muscle strain,22/11/2024,14/01/2025,53,7,24/25
+Eder Sylla,582006,Ankle sprain,24/08/2024,08/09/2024,15,0,24/25
+Eder Sylla,582006,Knee injury,13/01/2023,23/02/2023,41,4,23/24
+Nicolo Thomas,582007,Concussion,09/08/2024,20/08/2024,11,1,24/25
+Luca Hansen,582008,Cartilage damage,07/03/2024,09/04/2024,33,3,24/25
+Luca Hansen,582008,Calf muscle strain,10/07/2023,28/07/2023,18,0,23/24
+Elias Evans,582010,Knee ligament injury,16/11/2023,26/12/2023,40,4,23/24
+Andreas Weber,582011,Hip flexor strain,15/11/2023,25/12/2023,40,6,23/24
+Andreas Weber,582011,Fracture,30/05/2023,11/06/2023,12,1,23/24
+Dusan Alvarez,582012,Muscle strain,26/10/2023,21/11/2023,26,4,23/24
+Dusan Alvarez,582012,Calf muscle strain,23/08/2024,07/10/2024,45,0,24/25
+Pablo Lewandowski,582013,Hip flexor strain,03/06/2024,28/07/2024,55,0,24/25
+Maximilian Vlahovic,582014,Groin injury,19/12/2023,03/01/2024,15,1,23/24
+Maximilian Vlahovic,582014,Groin injury,12/03/2023,05/04/2023,24,3,23/24
+Maximilian Vlahovic,582014,Virus,23/04/2024,03/06/2024,41,6,24/25
+Matteo Rossi,582015,Knee ligament injury,22/09/2024,14/10/2024,22,2,24/25
+Matteo Rossi,582015,Meniscus injury,16/06/2023,25/06/2023,9,0,23/24
+Maximilian Esposito,582016,Back injury,13/08/2023,16/08/2023,3,0,23/24
+Maximilian Esposito,582016,Groin injury,22/04/2024,03/06/2024,42,3,24/25
+Maximilian Esposito,582016,Virus,07/05/2024,26/06/2024,50,6,24/25
+Marcus Richard,582017,Muscle strain,14/02/2024,28/02/2024,14,2,24/25
+Phil Davies,582020,Ankle sprain,31/01/2023,10/03/2023,38,1,23/24
+Phil Davies,582020,Groin injury,25/10/2023,25/11/2023,31,5,23/24
+Leon Zielinski,582021,Groin injury,14/02/2023,18/02/2023,4,0,23/24
+Leon Zielinski,582021,Back injury,18/10/2023,01/11/2023,14,2,23/24
+Theo Piotrowski,582022,Hip flexor strain,14/12/2023,09/02/2024,57,3,23/24
+Kamil Kowalczyk,582023,Thigh muscle strain,20/07/2023,24/07/2023,4,1,23/24
+Hamza Milinkovic,582026,Ankle sprain,24/01/2024,08/03/2024,44,5,24/25
+Kylian Muller,582027,Back injury,09/11/2023,11/12/2023,32,2,23/24
+Bruno Thomas,582028,Concussion,07/11/2024,20/11/2024,13,2,24/25
+Bruno Thomas,582028,Knee injury,20/03/2024,18/05/2024,59,1,24/25
+Theo Wojcik,582029,Groin injury,14/05/2023,06/07/2023,53,3,23/24
+Arkadiusz Johansen,582030,Cartilage damage,19/01/2024,11/02/2024,23,3,24/25
+Arkadiusz Johansen,582030,Hamstring injury,13/10/2024,31/10/2024,18,1,24/25
+Arkadiusz Johansen,582030,Calf muscle strain,02/07/2024,23/07/2024,21,2,24/25
+Kai Wozniak,582031,Shoulder injury,24/02/2023,08/04/2023,43,2,23/24
+James Vlahovic,582032,Knee injury,03/08/2023,21/09/2023,49,7,23/24
+James Vlahovic,582032,Knee injury,10/11/2024,22/12/2024,42,2,24/25
+James Vlahovic,582032,Concussion,04/06/2024,01/07/2024,27,2,24/25
+Filip Perez,582033,Thigh muscle strain,15/06/2024,17/07/2024,32,2,24/25
+Filip Perez,582033,Fracture,18/01/2024,23/02/2024,36,5,24/25
+Filip Perez,582033,Shoulder injury,21/05/2024,23/06/2024,33,4,24/25
+Maximilian Sanchez,582034,Achilles tendon injury,15/10/2024,07/12/2024,53,0,24/25
+Maximilian Sanchez,582034,Groin injury,01/08/2023,18/08/2023,17,3,23/24
+Maximilian Sanchez,582034,Groin injury,29/08/2023,26/09/2023,28,2,23/24
+Raheem Oliveira,582035,Thigh muscle strain,22/01/2024,01/03/2024,39,6,24/25
+Raheem Oliveira,582035,Hip flexor strain,19/01/2024,07/02/2024,19,0,24/25
+Raheem Oliveira,582035,Knee injury,18/05/2023,08/07/2023,51,4,23/24
+Theo Alvarez,582036,Back injury,15/06/2024,10/07/2024,25,4,24/25
+Theo Alvarez,582036,Concussion,12/02/2023,16/03/2023,32,4,23/24
+Theo Alvarez,582036,Meniscus injury,11/12/2023,10/01/2024,30,3,23/24
+Leroy Pedersen,582037,Fracture,23/02/2024,20/03/2024,26,2,24/25
+Leroy Pedersen,582037,Muscle strain,07/10/2023,03/11/2023,27,1,23/24
+Leroy Pedersen,582037,Shoulder injury,28/03/2024,14/04/2024,17,0,24/25
+Aleksandar Smith,582038,Concussion,26/03/2023,16/04/2023,21,4,23/24
+Aleksandar Smith,582038,Knee injury,13/07/2024,26/08/2024,44,4,24/25
+Leroy Kaminski,582039,Knee injury,11/04/2023,21/04/2023,10,1,23/24
+Piotr Sousa,582041,Virus,08/12/2023,23/12/2023,15,2,23/24
+Riccardo Thomas,582042,Shoulder injury,30/11/2024,26/01/2025,57,3,24/25
+Riccardo Thomas,582042,Hip flexor strain,10/09/2024,21/09/2024,11,1,24/25
+Ivan Johansen,582044,Abdominal problems,16/10/2023,10/12/2023,55,6,23/24
+Ivan Johansen,582044,Achilles tendon injury,20/02/2024,15/04/2024,55,0,24/25
+Hamza Thomas,582045,Calf muscle strain,31/10/2024,05/12/2024,35,6,24/25
+Hamza Thomas,582045,Back injury,12/02/2024,29/02/2024,17,1,24/25
+Hamza Thomas,582045,Concussion,30/04/2024,17/05/2024,17,3,24/25
+Ivan Nilsen,582046,Knee injury,15/12/2023,06/02/2024,53,5,23/24
+Ivan Nilsen,582046,Knee ligament injury,12/07/2023,11/08/2023,30,1,23/24
+Ivan Nilsen,582046,Hip flexor strain,25/03/2024,25/04/2024,31,0,24/25
+Endrick Nilsen,582047,Calf muscle strain,23/05/2023,01/07/2023,39,2,23/24
+Endrick Nilsen,582047,Abdominal problems,10/01/2023,13/02/2023,34,2,23/24
+Rodrygo Evans,582048,unknown injury,05/03/2024,04/04/2024,30,5,24/25
+Noussair Toure,582049,Muscle strain,30/11/2023,09/01/2024,40,4,23/24
+Noussair Toure,582049,Calf muscle strain,02/02/2023,13/02/2023,11,1,23/24
+Lorenzo Lukic,582050,unknown injury,26/01/2024,11/02/2024,16,0,24/25
+Lorenzo Lukic,582050,Groin injury,01/07/2024,28/07/2024,27,3,24/25
+Lorenzo Lukic,582050,Achilles tendon injury,22/04/2023,16/05/2023,24,3,23/24
+Sergio Romano,582051,Ankle sprain,06/04/2023,19/04/2023,13,2,23/24
+Sergio Romano,582051,Hamstring injury,20/07/2024,03/08/2024,14,3,24/25
+Kevin Wozniak,582053,unknown injury,23/07/2023,30/07/2023,7,1,23/24
+Endrick Larsen,582054,Concussion,27/08/2023,17/09/2023,21,0,23/24
+Ivan Roberts,582055,Concussion,28/02/2023,26/03/2023,26,0,23/24
+Ivan Roberts,582055,Knee ligament injury,25/06/2023,18/07/2023,23,3,23/24
+Ivan Roberts,582055,Calf muscle strain,10/06/2023,20/06/2023,10,2,23/24
+Marcus Larsen,582056,Knee injury,04/05/2024,23/06/2024,50,6,24/25
+Marcus Larsen,582056,Groin injury,31/07/2023,11/08/2023,11,1,23/24
+Marcus Larsen,582056,Fracture,18/03/2024,12/05/2024,55,2,24/25
+Bruno Kone,582057,Concussion,24/08/2024,08/09/2024,15,3,24/25
+Bruno Kone,582057,Muscle strain,10/10/2023,25/10/2023,15,1,23/24
+Ousmane Hansen,582058,unknown injury,07/03/2023,01/05/2023,55,3,23/24
+Ousmane Hansen,582058,Achilles tendon injury,22/06/2024,16/07/2024,24,3,24/25
+Ousmane Hansen,582058,Achilles tendon injury,16/04/2024,18/05/2024,32,0,24/25
+Nemanja Romano,582060,Meniscus injury,23/10/2024,21/12/2024,59,5,24/25
+Nemanja Romano,582060,Cartilage damage,01/11/2023,29/11/2023,28,1,23/24
+Kamil Sylla,582061,Cartilage damage,13/09/2023,27/09/2023,14,3,23/24
+Kamil Sylla,582061,Thigh muscle strain,13/04/2024,10/05/2024,27,4,24/25
+Kamil Sylla,582061,Hamstring injury,08/04/2023,06/05/2023,28,1,23/24
+Mateo Robert,582062,Hip flexor strain,08/10/2023,06/12/2023,59,4,23/24
+Mason Romano,582064,Hip flexor strain,20/05/2024,18/06/2024,29,0,24/25
+Matteo Rodrigues,582065,Ankle sprain,20/03/2023,10/05/2023,51,8,23/24
+Matteo Rodrigues,582065,Meniscus injury,30/11/2023,29/12/2023,29,1,23/24
+Kevin Sousa,582066,Hamstring injury,01/08/2023,05/09/2023,35,3,23/24
+Kevin Sousa,582066,Meniscus injury,28/01/2023,04/02/2023,7,1,23/24
+Marco Tadic,582067,Groin injury,13/02/2024,10/04/2024,57,6,24/25
+Marco Tadic,582067,Shoulder injury,08/02/2023,11/02/2023,3,0,23/24
+Nemanja Thomas,582068,Meniscus injury,01/12/2023,15/01/2024,45,7,23/24
+Achraf Grujic,582069,Hip flexor strain,11/03/2023,19/03/2023,8,2,23/24
+Achraf Grujic,582069,Meniscus injury,06/09/2023,24/10/2023,48,2,23/24
+Achraf Grujic,582069,Shoulder injury,27/04/2024,21/06/2024,55,2,24/25
+Julian Keita,582070,Ankle sprain,19/01/2023,01/03/2023,41,1,23/24
+Federico Kowalski,582071,unknown injury,08/05/2023,14/06/2023,37,1,23/24
+Federico Kowalski,582071,Muscle strain,21/03/2023,05/05/2023,45,4,23/24
+Hugo Wojcik,582072,Thigh muscle strain,27/03/2024,21/04/2024,25,1,24/25
+Jonas Bruno,582074,Hamstring injury,28/03/2024,14/05/2024,47,1,24/25
+Phil Grujic,582075,Hamstring injury,12/11/2023,13/12/2023,31,4,23/24
+Phil Grujic,582075,unknown injury,05/01/2023,11/01/2023,6,0,23/24
+Phil Grujic,582075,Back injury,13/09/2023,09/10/2023,26,1,23/24
+Marco Larsen,582078,Virus,29/01/2023,01/02/2023,3,0,23/24
+Marco Larsen,582078,Knee injury,27/11/2024,11/01/2025,45,3,24/25
+Marco Larsen,582078,Thigh muscle strain,09/04/2023,02/06/2023,54,2,23/24
+Carlos Romano,582080,Virus,08/06/2024,17/06/2024,9,1,24/25
+Carlos Romano,582080,Groin injury,29/07/2024,10/09/2024,43,3,24/25
+Carlos Romano,582080,Knee ligament injury,08/07/2024,05/08/2024,28,0,24/25
+Bukayo Moreau,582081,Abdominal problems,07/08/2023,16/08/2023,9,1,23/24
+Antoine Perez,582082,Virus,16/01/2023,13/02/2023,28,0,23/24
+Antoine Pedersen,582083,Back injury,06/08/2023,07/09/2023,32,0,23/24
+Antoine Pedersen,582083,Shoulder injury,04/11/2024,29/12/2024,55,5,24/25
+Antoine Pedersen,582083,Groin injury,14/02/2023,21/02/2023,7,1,23/24
+Luca Rossi,582084,Ankle sprain,05/09/2024,09/10/2024,34,5,24/25
+Luca Rossi,582084,Achilles tendon injury,03/07/2024,25/08/2024,53,2,24/25
+Sergej Coulibaly,582085,Virus,08/04/2023,19/05/2023,41,5,23/24
+Sergej Coulibaly,582085,Calf muscle strain,02/02/2024,19/03/2024,46,5,24/25
+Ivan Grujic,582086,Virus,12/10/2024,02/12/2024,51,7,24/25
+Davide Ricci,582088,Achilles tendon injury,19/01/2023,01/03/2023,41,3,23/24
+Davide Ricci,582088,Back injury,27/01/2024,02/03/2024,35,4,24/25
+Erling Schmidt,582090,Ankle sprain,22/01/2023,05/03/2023,42,4,23/24
+Benjamin Kone,582091,Back injury,14/03/2024,04/05/2024,51,1,24/25
+Leroy Cisse,582093,Foot injury,19/01/2024,22/02/2024,34,1,24/25
+Mateo Milinkovic,582094,Hamstring injury,20/01/2024,05/02/2024,16,1,24/25
+Arkadiusz Meyer,582095,Shoulder injury,03/12/2023,14/12/2023,11,1,23/24
+Arkadiusz Meyer,582095,Hamstring injury,21/10/2024,13/12/2024,53,8,24/25
+Arkadiusz Meyer,582095,Foot injury,29/02/2024,13/04/2024,44,0,24/25
+Aleksandar Moreau,582096,Back injury,06/12/2023,30/12/2023,24,1,23/24
+Przemyslaw Wilson,582098,unknown injury,16/08/2023,26/09/2023,41,4,23/24
+Richarlison Bamba,582099,Muscle strain,07/07/2023,07/08/2023,31,0,23/24
+Richarlison Bamba,582099,Groin injury,18/05/2024,25/05/2024,7,0,24/25
+Casemiro Colombo,582100,Knee injury,29/07/2023,09/08/2023,11,0,23/24
+Kylian Schulz,582101,Knee injury,30/08/2023,04/10/2023,35,3,23/24
+Ivan Taylor,582102,Groin injury,15/11/2023,28/11/2023,13,0,23/24
+Ivan Taylor,582102,Cartilage damage,10/03/2024,24/03/2024,14,1,24/25
+Ivan Taylor,582102,Achilles tendon injury,07/11/2023,28/11/2023,21,3,23/24
+Carlos Olsen,582103,Fracture,06/10/2023,03/12/2023,58,1,23/24
+Erling Hoffmann,582104,Thigh muscle strain,12/02/2024,10/03/2024,27,3,24/25
+Erling Hoffmann,582104,Concussion,27/03/2024,26/04/2024,30,4,24/25
+Kristian Schulz,582105,Fracture,09/06/2023,03/08/2023,55,0,23/24
+Kristian Schulz,582105,Knee injury,26/01/2024,25/02/2024,30,2,24/25
+Kristian Schulz,582105,Calf muscle strain,01/09/2024,08/10/2024,37,4,24/25
+Marco Torres,582106,Meniscus injury,21/09/2023,18/10/2023,27,2,23/24
+Dusan Kowalski,582107,Hip flexor strain,18/10/2023,14/11/2023,27,4,23/24
+Dusan Kowalski,582107,Virus,07/05/2024,14/05/2024,7,0,24/25
+Dusan Kowalski,582107,Calf muscle strain,25/04/2024,10/05/2024,15,1,24/25
+Harry Torres,582110,Knee ligament injury,18/05/2024,15/06/2024,28,3,24/25
+Harry Torres,582110,Fracture,18/01/2024,14/02/2024,27,2,24/25
+Lucas Zielinski,582112,unknown injury,09/02/2023,19/02/2023,10,2,23/24
+Lucas Zielinski,582112,Knee ligament injury,16/06/2023,01/07/2023,15,2,23/24
+Lucas Zielinski,582112,Fracture,23/12/2023,27/01/2024,35,5,23/24
+Riyad Becker,582113,unknown injury,01/03/2023,14/04/2023,44,6,23/24
+Riyad Becker,582113,Fracture,10/09/2023,28/09/2023,18,0,23/24
+Nayef Ricci,582114,Muscle strain,08/10/2024,25/11/2024,48,2,24/25
+Nayef Ricci,582114,Meniscus injury,25/09/2023,05/11/2023,41,5,23/24
+Nemanja Andersen,582115,Cartilage damage,18/09/2023,06/10/2023,18,1,23/24
+Matteo Esposito,582119,Achilles tendon injury,12/02/2024,31/03/2024,48,1,24/25
+Matteo Esposito,582119,Knee ligament injury,14/06/2024,29/06/2024,15,1,24/25
+Matteo Esposito,582119,Foot injury,13/03/2024,01/04/2024,19,3,24/25
+Jakub Rodrigues,582120,Knee injury,26/02/2024,17/04/2024,51,1,24/25
+Jakub Rodrigues,582120,Abdominal problems,13/10/2024,21/11/2024,39,6,24/25
+Declan Costa,582121,Groin injury,03/10/2023,22/11/2023,50,6,23/24
+Gabriel Fernandes,582122,Fracture,07/01/2023,20/01/2023,13,0,23/24
+Gabriel Fernandes,582122,Knee ligament injury,10/04/2023,17/04/2023,7,2,23/24
+Sergej Gomez,582123,Knee ligament injury,01/11/2024,22/11/2024,21,1,24/25
+Sergej Gomez,582123,Thigh muscle strain,30/06/2023,26/07/2023,26,1,23/24
+Sergej Gomez,582123,Thigh muscle strain,22/07/2023,25/08/2023,34,4,23/24
+Piotr Esposito,582125,Groin injury,03/08/2024,27/09/2024,55,2,24/25
+Piotr Esposito,582125,Thigh muscle strain,25/07/2023,31/07/2023,6,0,23/24
+Piotr Esposito,582125,Knee ligament injury,23/09/2023,22/11/2023,60,7,23/24
+Sergej Taylor,582127,Knee injury,23/03/2023,13/04/2023,21,3,23/24
+Niklas Weber,582129,Muscle strain,07/03/2023,31/03/2023,24,4,23/24
+Niklas Weber,582129,Fracture,29/08/2023,01/10/2023,33,5,23/24
+Bruno Bernard,582133,Achilles tendon injury,08/01/2023,22/02/2023,45,0,23/24
+Bruno Bernard,582133,Concussion,10/04/2023,26/04/2023,16,0,23/24
+Gabriel Martins,582134,Shoulder injury,09/09/2024,15/10/2024,36,3,24/25
+Gabriel Martins,582134,Virus,29/04/2024,19/06/2024,51,6,24/25
+Gabriel Martins,582134,Virus,11/12/2023,06/01/2024,26,2,23/24
+Erling Esposito,582135,unknown injury,05/01/2024,19/02/2024,45,6,24/25
+Nayef Martinez,582137,Ankle sprain,05/12/2023,28/01/2024,54,0,23/24
+Nayef Martinez,582137,unknown injury,12/04/2024,09/06/2024,58,2,24/25
+Sadio Becker,582140,Meniscus injury,12/09/2023,08/10/2023,26,4,23/24
+Sadio Becker,582140,Fracture,05/11/2024,02/01/2025,58,8,24/25
+Rodrygo Perez,582141,Muscle strain,07/11/2024,22/11/2024,15,2,24/25
+Rodrygo Perez,582141,Abdominal problems,18/01/2023,02/03/2023,43,0,23/24
+Rodrygo Perez,582141,Meniscus injury,30/11/2023,15/01/2024,46,3,23/24
+Thomas Thomas,582142,Cartilage damage,14/02/2024,04/04/2024,50,1,24/25
+Thomas Thomas,582142,Fracture,23/12/2023,22/01/2024,30,5,23/24
+Thomas Thomas,582142,unknown injury,13/04/2023,01/06/2023,49,4,23/24
+Marco Roberts,582143,Concussion,27/05/2023,24/07/2023,58,9,23/24
+Clement Costa,582145,Knee injury,24/05/2024,16/07/2024,53,4,24/25
+Mateusz Milinkovic,582146,Meniscus injury,22/06/2023,21/08/2023,60,1,23/24
+Mateusz Milinkovic,582146,Hip flexor strain,08/05/2024,22/06/2024,45,3,24/25
+Mateusz Milinkovic,582146,Thigh muscle strain,07/09/2023,23/09/2023,16,0,23/24
+Aleksandar Coulibaly,582148,Virus,30/01/2023,12/02/2023,13,1,23/24
+Aleksandar Coulibaly,582148,Shoulder injury,15/10/2023,01/11/2023,17,3,23/24
+Aleksandar Coulibaly,582148,Calf muscle strain,17/11/2024,27/11/2024,10,2,24/25
+Andrea Weber,582149,Virus,03/04/2023,26/05/2023,53,3,23/24
+Andrea Weber,582149,Cartilage damage,12/08/2024,03/10/2024,52,1,24/25
+Andrea Weber,582149,unknown injury,21/10/2024,14/11/2024,24,3,24/25
+Matteo Becker,582150,Shoulder injury,27/08/2023,13/09/2023,17,0,23/24
+Matteo Becker,582150,Ankle sprain,25/10/2023,02/11/2023,8,0,23/24
+Matteo Becker,582150,Achilles tendon injury,15/12/2023,03/02/2024,50,3,23/24
+Luka Cisse,582152,Virus,11/05/2023,07/07/2023,57,6,23/24
+Luka Cisse,582152,Muscle strain,13/08/2024,02/10/2024,50,4,24/25
+Raheem Perez,582154,Virus,02/02/2024,03/03/2024,30,2,24/25
+Sergio Nilsen,582155,Cartilage damage,16/06/2024,31/07/2024,45,3,24/25
+Youssef Muller,582157,Meniscus injury,10/01/2023,16/02/2023,37,2,23/24
+Youssef Muller,582157,Foot injury,29/05/2023,23/07/2023,55,3,23/24
+Youssef Muller,582157,Meniscus injury,26/05/2024,11/07/2024,46,2,24/25
+Alejandro Camara,582158,Hamstring injury,30/05/2023,19/07/2023,50,5,23/24
+Alejandro Camara,582158,Ankle sprain,13/11/2023,18/12/2023,35,2,23/24
+Luca Fischer,582159,Groin injury,08/10/2024,03/12/2024,56,7,24/25
+Luca Fischer,582159,unknown injury,26/10/2023,13/12/2023,48,0,23/24
+Luca Fischer,582159,Groin injury,08/12/2023,20/12/2023,12,2,23/24
+Ivan Larsen,582160,Thigh muscle strain,23/02/2023,22/04/2023,58,7,23/24
+Ivan Szymanski,582161,Thigh muscle strain,03/11/2023,28/12/2023,55,0,23/24
+Ivan Szymanski,582161,Virus,15/07/2024,12/08/2024,28,3,24/25
+Ivan Szymanski,582161,Abdominal problems,25/11/2024,28/12/2024,33,3,24/25
+Antoine Oliveira,582162,Foot injury,15/03/2023,20/04/2023,36,2,23/24
+Antoine Oliveira,582162,Hip flexor strain,19/07/2023,04/09/2023,47,6,23/24
+Antoine Oliveira,582162,Virus,10/04/2023,21/04/2023,11,2,23/24
+Kylian Nilsen,582164,Thigh muscle strain,13/04/2024,27/05/2024,44,2,24/25
+Kylian Nilsen,582164,Fracture,28/03/2024,14/05/2024,47,4,24/25
+Ole Fernandez,582165,Groin injury,03/08/2023,19/08/2023,16,0,23/24
+Elias Rossi,582166,Calf muscle strain,12/08/2024,21/08/2024,9,1,24/25
+Elias Rossi,582166,Thigh muscle strain,13/03/2024,28/04/2024,46,0,24/25
+Sander Pedersen,582168,Hamstring injury,30/04/2024,14/05/2024,14,0,24/25
+Sander Pedersen,582168,Virus,11/06/2024,25/07/2024,44,6,24/25
+Sofyan Smith,582169,unknown injury,04/10/2024,22/11/2024,49,3,24/25
+Raheem Martin,582172,Foot injury,11/02/2024,16/03/2024,34,5,24/25
+Benjamin Silva,582173,unknown injury,30/10/2024,19/12/2024,50,1,24/25
+Davide Zielinski,582174,Shoulder injury,27/10/2024,23/11/2024,27,3,24/25
+Davide Zielinski,582174,Ankle sprain,12/01/2024,15/01/2024,3,0,24/25
+Davide Zielinski,582174,Fracture,26/03/2023,05/04/2023,10,2,23/24
+Piotr Leroy,582175,Achilles tendon injury,24/01/2023,05/03/2023,40,4,23/24
+Eder Smith,582176,Ankle sprain,08/10/2023,24/11/2023,47,2,23/24
+Eder Smith,582176,Knee ligament injury,29/01/2024,02/03/2024,33,2,24/25
+Eder Smith,582176,Ankle sprain,08/08/2024,19/08/2024,11,1,24/25
+Luis Sousa,582178,Muscle strain,20/02/2024,15/04/2024,55,6,24/25
+Elias Pedersen,582179,Achilles tendon injury,07/03/2023,12/04/2023,36,4,23/24
+Elias Pedersen,582179,Groin injury,29/10/2024,08/11/2024,10,2,24/25
+Elias Pedersen,582179,Cartilage damage,01/05/2023,15/05/2023,14,1,23/24
+Hamza Becker,582181,Hamstring injury,18/11/2023,28/11/2023,10,0,23/24
+Hamza Becker,582181,Thigh muscle strain,11/08/2024,27/08/2024,16,0,24/25
+Hamza Becker,582181,Hamstring injury,29/07/2024,17/08/2024,19,0,24/25
+Davide Brown,582183,Thigh muscle strain,08/01/2024,14/02/2024,37,3,24/25
+Davide Brown,582183,Back injury,04/11/2024,07/11/2024,3,1,24/25
+Phil Petit,582185,Meniscus injury,05/11/2024,12/12/2024,37,1,24/25
+Phil Petit,582185,Virus,13/08/2024,16/09/2024,34,4,24/25
+Kevin Martins,582186,Concussion,12/09/2024,19/10/2024,37,1,24/25
+Kevin Martins,582186,Hamstring injury,12/04/2023,27/05/2023,45,3,23/24
+Hugo Rasmussen,582188,Groin injury,26/05/2023,17/06/2023,22,1,23/24
+Przemyslaw Kone,582189,Shoulder injury,28/08/2024,22/09/2024,25,1,24/25
+Luis Zielinski,582190,Shoulder injury,18/03/2023,25/04/2023,38,2,23/24
+Luis Zielinski,582190,Thigh muscle strain,26/01/2024,10/03/2024,44,6,24/25
+Luis Zielinski,582190,Shoulder injury,12/04/2024,20/04/2024,8,2,24/25
+Erling Leroy,582191,Groin injury,27/05/2023,03/07/2023,37,0,23/24
+Erling Leroy,582191,Shoulder injury,06/10/2024,24/11/2024,49,3,24/25
+Erling Leroy,582191,Concussion,17/01/2024,25/02/2024,39,4,24/25
+Jakub Bianchi,582192,Calf muscle strain,05/03/2024,29/04/2024,55,5,24/25
+Simone Thomas,582193,Cartilage damage,24/01/2024,28/01/2024,4,0,24/25
+Simone Thomas,582193,Ankle sprain,21/03/2023,10/04/2023,20,0,23/24
+Simone Thomas,582193,Knee ligament injury,01/12/2024,08/01/2025,38,0,24/25
+Alessandro Bianchi,582194,Abdominal problems,17/10/2024,25/10/2024,8,1,24/25
+Alessandro Bianchi,582194,Back injury,07/10/2023,19/10/2023,12,1,23/24
+Clement Sorensen,582197,Ankle sprain,16/08/2023,12/09/2023,27,0,23/24
+Clement Sorensen,582197,Foot injury,29/06/2023,04/08/2023,36,4,23/24
+Clement Sorensen,582197,Concussion,16/05/2024,25/05/2024,9,1,24/25
+Leon Mitrovic,582198,Cartilage damage,18/07/2024,07/08/2024,20,0,24/25
+Leon Mitrovic,582198,Virus,19/02/2023,04/03/2023,13,1,23/24
+Mason Wagner,582199,Hip flexor strain,20/12/2023,12/02/2024,54,8,23/24
+Kamil Wojcik,582200,Calf muscle strain,03/05/2024,12/06/2024,40,2,24/25
+Kamil Wojcik,582200,Concussion,10/01/2023,25/02/2023,46,2,23/24
+Kamil Wojcik,582200,Calf muscle strain,04/11/2024,15/11/2024,11,1,24/25
+Benjamin Keita,582201,Abdominal problems,24/02/2023,14/04/2023,49,3,23/24
+Benjamin Keita,582201,Knee ligament injury,25/11/2024,05/01/2025,41,5,24/25
+Riyad Dubois,582202,Abdominal problems,07/07/2023,07/08/2023,31,3,23/24
+Riyad Dubois,582202,Shoulder injury,29/05/2024,19/06/2024,21,3,24/25
+Riyad Dubois,582202,Back injury,17/06/2024,04/08/2024,48,4,24/25
+Karol Costa,582204,Virus,21/02/2024,13/04/2024,52,1,24/25
+Karol Costa,582204,Knee injury,11/10/2024,19/10/2024,8,2,24/25
+Lucas Fernandez,582205,Achilles tendon injury,06/04/2023,19/04/2023,13,0,23/24
+Stefan Ricci,582207,Muscle strain,21/07/2024,24/08/2024,34,3,24/25
+Stefan Ricci,582207,Calf muscle strain,24/11/2024,29/12/2024,35,3,24/25
+Karol Thomas,582208,Hip flexor strain,11/06/2024,27/07/2024,46,1,24/25
+Karol Thomas,582208,Cartilage damage,20/02/2024,23/02/2024,3,0,24/25
+Karol Thomas,582208,Knee ligament injury,08/01/2023,25/02/2023,48,5,23/24
+Kevin Savic,582209,Concussion,08/11/2024,02/01/2025,55,0,24/25
+Richarlison Hansen,582210,Concussion,22/06/2023,07/08/2023,46,3,23/24
+Richarlison Hansen,582210,Abdominal problems,29/06/2023,06/07/2023,7,0,23/24
+Richarlison Hansen,582210,Hamstring injury,10/06/2024,05/07/2024,25,3,24/25
+Dusan Costa,582211,Abdominal problems,24/01/2024,06/02/2024,13,0,24/25
+Dusan Costa,582211,Back injury,13/12/2023,28/01/2024,46,1,23/24
+Dusan Costa,582211,Fracture,25/10/2023,16/11/2023,22,2,23/24
+Martin Martinez,582212,Achilles tendon injury,07/08/2023,10/08/2023,3,1,23/24
+Martin Martinez,582212,Concussion,11/08/2023,02/09/2023,22,0,23/24
+Alessandro Torres,582213,Fracture,24/09/2024,20/11/2024,57,0,24/25
+Alessandro Torres,582213,Cartilage damage,31/12/2023,03/01/2024,3,1,23/24
+Alessandro Torres,582213,Abdominal problems,03/12/2023,25/12/2023,22,0,23/24
+Nayef Sanchez,582215,Abdominal problems,10/07/2023,07/08/2023,28,0,23/24
+Nayef Sanchez,582215,Fracture,14/04/2023,14/05/2023,30,1,23/24
+Erling Greco,582217,Fracture,25/02/2024,06/03/2024,10,0,24/25
+Matheus Ricci,582218,Back injury,03/11/2024,22/11/2024,19,3,24/25
+Pablo Moreau,582219,Abdominal problems,19/01/2024,10/02/2024,22,3,24/25
+Pablo Moreau,582219,Shoulder injury,06/07/2023,12/08/2023,37,0,23/24
+Pablo Moreau,582219,Meniscus injury,25/03/2024,09/05/2024,45,2,24/25
+Bukayo Fernandez,582220,Knee ligament injury,29/12/2023,17/02/2024,50,0,23/24
+Declan Wagner,582221,Groin injury,23/07/2023,02/08/2023,10,1,23/24
+Declan Wagner,582221,unknown injury,11/02/2023,22/02/2023,11,1,23/24
+Kamil Bernard,582222,Groin injury,02/02/2023,15/02/2023,13,1,23/24
+Kamil Bernard,582222,Ankle sprain,12/11/2024,02/12/2024,20,3,24/25
+Bartosz Bianchi,582223,Calf muscle strain,17/07/2024,20/08/2024,34,2,24/25
+Bartosz Bianchi,582223,unknown injury,14/02/2024,20/03/2024,35,1,24/25
+Bartosz Bianchi,582223,Muscle strain,23/04/2023,02/05/2023,9,0,23/24
+Declan Pavlovic,582224,Muscle strain,19/12/2023,23/01/2024,35,6,23/24
+Martin Santos,582225,Virus,23/02/2023,10/04/2023,46,6,23/24
+Andrea Martin,582227,Foot injury,06/05/2024,27/05/2024,21,3,24/25
+Andrea Martin,582227,Knee ligament injury,26/03/2023,16/05/2023,51,3,23/24
+Andrea Martin,582227,Concussion,24/09/2024,06/10/2024,12,0,24/25
+Kevin Schneider,582228,Ankle sprain,15/10/2023,06/12/2023,52,4,23/24
+Gabriel Lopez,582229,Knee ligament injury,13/11/2024,07/01/2025,55,3,24/25
+Julian Savic,582230,Concussion,16/04/2023,02/06/2023,47,2,23/24
+Julian Savic,582230,Achilles tendon injury,13/07/2023,08/09/2023,57,2,23/24
+Julian Savic,582230,Calf muscle strain,23/08/2023,02/09/2023,10,1,23/24
+Bartosz Savic,582232,Knee ligament injury,16/07/2023,28/07/2023,12,0,23/24
+Bartosz Savic,582232,Knee injury,23/09/2024,08/10/2024,15,0,24/25
+Kylian Robert,582233,Foot injury,22/02/2024,29/03/2024,36,5,24/25
+Kylian Robert,582233,Back injury,10/10/2024,27/10/2024,17,2,24/25
+Kylian Robert,582233,Hamstring injury,12/03/2024,14/04/2024,33,4,24/25
+Kevin Piotrowski,582234,Foot injury,21/10/2024,27/10/2024,6,0,24/25
+Kevin Piotrowski,582234,Shoulder injury,03/10/2023,29/10/2023,26,2,23/24
+Kevin Piotrowski,582234,Virus,04/03/2024,22/03/2024,18,0,24/25
+Federico Thomas,582235,Hamstring injury,11/02/2023,14/02/2023,3,1,23/24
+Diego Diallo,582236,Shoulder injury,20/10/2023,22/11/2023,33,4,23/24
+Eder Brown,582238,Fracture,09/07/2023,28/07/2023,19,2,23/24
+Eder Brown,582238,Ankle sprain,09/12/2023,31/12/2023,22,0,23/24
+Eder Brown,582238,Hip flexor strain,16/11/2024,19/11/2024,3,0,24/25
+Adrien Hoffmann,582239,Abdominal problems,05/01/2024,24/02/2024,50,8,24/25
+Adrien Hoffmann,582239,Back injury,11/09/2024,07/10/2024,26,2,24/25
+Kai Lopez,582240,Knee injury,21/08/2024,17/09/2024,27,0,24/25
+Jakub Weber,582241,Cartilage damage,06/10/2024,25/11/2024,50,1,24/25
+Lucas Alvarez,582243,Meniscus injury,17/07/2023,03/09/2023,48,1,23/24
+Jack Kowalczyk,582245,Fracture,05/11/2023,24/12/2023,49,3,23/24
+Jack Kowalczyk,582245,Calf muscle strain,30/06/2024,18/08/2024,49,0,24/25
+Noussair Oliveira,582246,Hip flexor strain,16/07/2023,14/08/2023,29,5,23/24
+Michal Sylla,582247,Abdominal problems,27/07/2024,21/08/2024,25,3,24/25
+Michal Sylla,582247,Ankle sprain,06/10/2024,23/11/2024,48,6,24/25
+Alessandro Thomas,582249,Concussion,05/03/2024,10/04/2024,36,6,24/25
+Alessandro Thomas,582249,Cartilage damage,23/01/2023,05/02/2023,13,1,23/24
+Alessandro Thomas,582249,Hamstring injury,13/05/2023,03/06/2023,21,4,23/24
+Benjamin Sanchez,582251,Hip flexor strain,12/02/2024,17/03/2024,34,4,24/25
+Matheus Brown,582253,Concussion,24/03/2024,14/05/2024,51,6,24/25
+Sergej Smith,582254,Shoulder injury,15/02/2024,27/03/2024,41,1,24/25
+Sergej Smith,582254,Thigh muscle strain,08/07/2023,11/07/2023,3,0,23/24
+Sergej Smith,582254,Muscle strain,29/08/2024,15/10/2024,47,7,24/25
+Matheus Sorensen,582255,Back injury,07/11/2023,03/01/2024,57,4,23/24
+Matheus Sorensen,582255,Ankle sprain,02/10/2023,09/11/2023,38,1,23/24
+Noussair Romano,582256,Back injury,16/02/2023,25/03/2023,37,2,23/24
+Niklas Dubois,582258,Shoulder injury,12/10/2023,23/10/2023,11,0,23/24
+Pablo Jovic,582259,Ankle sprain,04/08/2023,10/09/2023,37,0,23/24
+Matheus Garcia,582260,Abdominal problems,09/10/2024,19/11/2024,41,2,24/25
+Matheus Garcia,582260,Hip flexor strain,27/03/2023,14/05/2023,48,4,23/24
+Sofyan Sylla,582261,Cartilage damage,23/02/2024,23/04/2024,60,4,24/25
+Kamil Tadic,582262,Muscle strain,28/02/2023,12/04/2023,43,5,23/24
+Kamil Tadic,582262,Shoulder injury,13/08/2023,01/10/2023,49,2,23/24
+Luka Savic,582263,Achilles tendon injury,17/01/2023,23/02/2023,37,0,23/24
+Luka Savic,582263,Shoulder injury,27/01/2024,11/03/2024,44,3,24/25
+Bartosz Meyer,582264,Shoulder injury,14/08/2023,06/09/2023,23,1,23/24
+Bartosz Meyer,582264,unknown injury,18/08/2024,30/09/2024,43,2,24/25
+Bartosz Meyer,582264,Knee ligament injury,01/04/2024,18/04/2024,17,2,24/25
+Bukayo Rodrigues,582265,Fracture,05/05/2024,13/05/2024,8,0,24/25
+Ivan Zielinski,582266,Thigh muscle strain,09/07/2023,02/09/2023,55,3,23/24
+Ivan Zielinski,582266,Thigh muscle strain,06/08/2024,09/09/2024,34,5,24/25
+Ivan Zielinski,582266,Foot injury,16/10/2023,20/10/2023,4,0,23/24
+Harry Christensen,582267,Cartilage damage,08/02/2024,25/03/2024,46,3,24/25
+Nicolo Tadic,582269,Back injury,15/03/2023,14/04/2023,30,3,23/24
+Hugo Keita,582270,Concussion,13/04/2023,01/06/2023,49,2,23/24
+Hugo Keita,582270,Ankle sprain,13/01/2023,23/02/2023,41,3,23/24
+Hugo Keita,582270,Ankle sprain,29/01/2024,02/02/2024,4,0,24/25
+Gabriel Jones,582272,Knee injury,12/09/2023,03/11/2023,52,4,23/24
+Rodrygo Piotrowski,582273,Muscle strain,04/10/2024,14/11/2024,41,6,24/25
+Raphinha Zielinski,582276,Calf muscle strain,29/03/2023,13/04/2023,15,3,23/24
+Raphinha Zielinski,582276,Meniscus injury,30/07/2024,28/09/2024,60,2,24/25
+Marcus Szymanski,582277,Calf muscle strain,06/12/2023,08/01/2024,33,1,23/24
+Marcus Szymanski,582277,Shoulder injury,27/02/2023,05/04/2023,37,5,23/24
+Hugo Petit,582282,Knee ligament injury,16/04/2023,21/05/2023,35,1,23/24
+Hugo Petit,582282,Muscle strain,02/01/2023,19/01/2023,17,1,23/24
+Leon Rodrigues,582283,Abdominal problems,30/01/2024,11/02/2024,12,2,24/25
+Leon Rodrigues,582283,unknown injury,21/10/2023,07/11/2023,17,0,23/24
+Leon Rodrigues,582283,Ankle sprain,18/05/2024,31/05/2024,13,0,24/25
+Przemyslaw Jones,582285,Cartilage damage,01/01/2024,08/01/2024,7,1,24/25
+Przemyslaw Jones,582285,Knee injury,02/05/2023,28/05/2023,26,0,23/24
+Bruno Martins,582286,Concussion,02/07/2023,01/08/2023,30,2,23/24
+Richarlison Szymanski,582287,Calf muscle strain,26/11/2024,26/12/2024,30,5,24/25
+Leroy Camara,582288,Foot injury,01/10/2024,25/11/2024,55,5,24/25
+Leroy Camara,582288,Fracture,17/04/2023,07/05/2023,20,2,23/24
+Mohamed Savic,582289,Muscle strain,20/03/2023,12/05/2023,53,2,23/24
+Mohamed Savic,582289,Virus,02/11/2024,14/11/2024,12,0,24/25
+Thomas Lewandowski,582290,Fracture,02/04/2024,21/05/2024,49,1,24/25
+Thomas Lewandowski,582290,Knee ligament injury,26/04/2023,04/06/2023,39,5,23/24
+Thomas Lewandowski,582290,Knee injury,13/10/2023,25/10/2023,12,1,23/24
+Luca Petit,582291,unknown injury,06/07/2023,27/08/2023,52,5,23/24
+Noussair Lewandowski,582292,Fracture,21/05/2024,20/06/2024,30,5,24/25
+Noussair Lewandowski,582292,Virus,28/02/2024,09/04/2024,41,1,24/25
+Karol Christensen,582293,Hip flexor strain,28/01/2024,26/02/2024,29,3,24/25
+Harry Ferrari,582294,Back injury,29/06/2024,05/08/2024,37,3,24/25
+Harry Ferrari,582294,Knee ligament injury,27/03/2023,06/05/2023,40,4,23/24
+Harry Ferrari,582294,Back injury,14/08/2024,05/10/2024,52,1,24/25
+Mateo Martin,582295,Groin injury,06/01/2024,09/01/2024,3,0,24/25
+Michal Moreau,582296,Calf muscle strain,25/07/2024,27/08/2024,33,0,24/25
+Michal Moreau,582296,Abdominal problems,03/03/2023,28/03/2023,25,1,23/24
+Riccardo Lopez,582297,Hip flexor strain,16/04/2024,28/04/2024,12,1,24/25
+Riccardo Lopez,582297,Back injury,06/09/2023,22/09/2023,16,0,23/24
+Pablo Bernard,582298,Calf muscle strain,01/05/2023,17/06/2023,47,6,23/24
+Stefan Torres,582300,Ankle sprain,16/01/2024,22/01/2024,6,0,24/25
+Stefan Torres,582300,Cartilage damage,03/05/2024,28/06/2024,56,2,24/25
+Stefan Torres,582300,Abdominal problems,31/01/2023,12/02/2023,12,0,23/24
+Robert Andersen,582302,Achilles tendon injury,20/03/2023,23/03/2023,3,1,23/24
+Niklas Mitrovic,582303,Calf muscle strain,06/07/2023,08/08/2023,33,5,23/24
+Mateusz Roberts,582304,Virus,26/04/2024,25/05/2024,29,3,24/25
+Mateusz Roberts,582304,Muscle strain,22/10/2024,08/12/2024,47,4,24/25
+Kylian Greco,582306,Hamstring injury,03/03/2023,01/05/2023,59,9,23/24
+Przemyslaw Kaczmarek,582307,Muscle strain,30/05/2024,12/06/2024,13,1,24/25
+Marco Lukic,582308,Meniscus injury,27/11/2024,25/01/2025,59,8,24/25
+Marco Lukic,582308,Concussion,22/09/2023,31/10/2023,39,2,23/24
+Marco Lukic,582308,Thigh muscle strain,21/08/2023,20/09/2023,30,2,23/24
+Filip Costa,582310,Groin injury,09/05/2023,28/06/2023,50,6,23/24
+Filip Costa,582310,Back injury,25/09/2024,01/10/2024,6,1,24/25
+Filip Costa,582310,Hip flexor strain,08/07/2023,01/09/2023,55,1,23/24
+Kai Schneider,582311,unknown injury,03/05/2024,26/05/2024,23,3,24/25
+Kai Schneider,582311,Abdominal problems,18/06/2023,24/06/2023,6,1,23/24
+Kai Schneider,582311,Ankle sprain,19/07/2023,08/08/2023,20,0,23/24
+Bruno Gomez,582313,Virus,09/09/2024,31/10/2024,52,0,24/25
+Bruno Gomez,582313,Thigh muscle strain,03/09/2023,24/09/2023,21,4,23/24
+Simone Fernandes,582316,Foot injury,03/09/2024,06/09/2024,3,0,24/25
+Bartosz Kone,582317,Back injury,15/10/2024,20/10/2024,5,1,24/25
+Richarlison Rasmussen,582320,Virus,16/02/2023,22/02/2023,6,0,23/24
+Richarlison Rasmussen,582320,Abdominal problems,13/11/2023,16/11/2023,3,1,23/24
+Richarlison Rasmussen,582320,Groin injury,12/02/2024,18/03/2024,35,2,24/25
+Nemanja Keita,582321,Ankle sprain,31/12/2023,11/01/2024,11,1,23/24
+Nemanja Keita,582321,Concussion,22/02/2024,22/04/2024,60,1,24/25
+Nemanja Keita,582321,Calf muscle strain,29/05/2024,22/07/2024,54,0,24/25
+Endrick Hansen,582322,Hamstring injury,03/05/2024,12/06/2024,40,2,24/25
+Endrick Hansen,582322,Meniscus injury,15/06/2023,27/06/2023,12,0,23/24
+Endrick Hansen,582322,Back injury,02/10/2024,10/10/2024,8,0,24/25
+Casemiro Muller,582323,Concussion,14/06/2023,19/07/2023,35,5,23/24
+Ivan Diallo,582324,Calf muscle strain,03/04/2024,26/05/2024,53,5,24/25
+Ivan Diallo,582324,Cartilage damage,25/10/2023,20/11/2023,26,3,23/24
+Mateo Bernard,582326,Cartilage damage,02/09/2023,18/09/2023,16,0,23/24
+Mateo Bernard,582326,Fracture,06/06/2023,15/07/2023,39,0,23/24
+Mateo Bernard,582326,Foot injury,16/01/2023,28/01/2023,12,2,23/24
+Stefan Pavlovic,582328,Virus,07/04/2023,09/05/2023,32,1,23/24
+Stefan Pavlovic,582328,Knee injury,30/10/2023,12/11/2023,13,1,23/24
+Stefan Pavlovic,582328,Abdominal problems,13/08/2024,08/09/2024,26,0,24/25
+Robert Martin,582330,Fracture,16/04/2024,05/05/2024,19,2,24/25
+Lucas Martins,582331,Ankle sprain,27/10/2024,07/11/2024,11,2,24/25
+Lucas Martins,582331,Abdominal problems,14/05/2024,19/05/2024,5,1,24/25
+Lucas Martins,582331,Cartilage damage,15/02/2024,15/03/2024,29,5,24/25
+Gabriel Mitrovic,582332,Concussion,27/03/2024,22/04/2024,26,4,24/25
+Clement Martin,582333,Knee ligament injury,18/01/2024,26/01/2024,8,2,24/25
+Clement Martin,582333,Hamstring injury,05/04/2024,24/04/2024,19,0,24/25
+Theo Williams,582334,Calf muscle strain,28/07/2024,31/07/2024,3,0,24/25
+Raheem Cisse,582335,Achilles tendon injury,20/01/2024,02/02/2024,13,1,24/25
+Raheem Cisse,582335,unknown injury,16/03/2023,02/04/2023,17,3,23/24
+Andrea Hoffmann,582337,Hip flexor strain,22/04/2024,24/05/2024,32,3,24/25
+Andrea Hoffmann,582337,Thigh muscle strain,22/04/2023,30/04/2023,8,2,23/24
+Andrea Jovic,582339,unknown injury,19/03/2024,03/04/2024,15,2,24/25
+Andrea Jovic,582339,Virus,08/03/2023,31/03/2023,23,4,23/24
+Andrea Jovic,582339,Fracture,12/05/2024,28/05/2024,16,0,24/25
+Leroy Alvarez,582340,Hip flexor strain,10/04/2024,15/04/2024,5,0,24/25
+Leroy Alvarez,582340,Groin injury,26/04/2024,08/05/2024,12,1,24/25
+Harry Cisse,582342,Abdominal problems,05/03/2023,28/04/2023,54,6,23/24
+Harry Cisse,582342,Hamstring injury,29/04/2024,15/05/2024,16,1,24/25
+Harry Cisse,582342,Knee ligament injury,24/01/2023,16/03/2023,51,4,23/24
+Bruno Pereira,582343,Knee injury,12/10/2024,26/10/2024,14,1,24/25
+Bruno Pereira,582343,unknown injury,12/03/2023,01/04/2023,20,0,23/24
+Alejandro Wagner,582344,Knee ligament injury,07/04/2024,04/06/2024,58,8,24/25
+Alejandro Wagner,582344,Shoulder injury,08/08/2023,22/09/2023,45,2,23/24
+Mateusz Rodriguez,582347,Foot injury,17/12/2023,06/02/2024,51,2,23/24
+Mateusz Rodriguez,582347,Knee ligament injury,23/07/2023,17/08/2023,25,3,23/24
+Mateusz Rodriguez,582347,Thigh muscle strain,01/05/2024,07/06/2024,37,5,24/25
+Milan Andersen,582348,Achilles tendon injury,30/12/2023,15/02/2024,47,6,23/24
+Milan Andersen,582348,Cartilage damage,11/01/2023,18/02/2023,38,1,23/24
+Milan Andersen,582348,Achilles tendon injury,21/03/2023,09/05/2023,49,2,23/24
+Marcus Traore,582349,Virus,11/11/2024,05/01/2025,55,0,24/25
+Marcus Traore,582349,Meniscus injury,04/06/2023,03/08/2023,60,2,23/24
+Marco Davies,582350,Knee ligament injury,21/11/2023,01/12/2023,10,1,23/24
+Marco Davies,582350,Muscle strain,17/06/2024,05/08/2024,49,7,24/25
+Marco Davies,582350,Meniscus injury,09/05/2023,21/06/2023,43,1,23/24
+Jude Pereira,582352,Hip flexor strain,12/07/2023,10/08/2023,29,1,23/24
+Hamza Maksimovic,582353,Groin injury,10/08/2023,04/09/2023,25,1,23/24
+Hamza Maksimovic,582353,Muscle strain,26/11/2024,04/01/2025,39,2,24/25
+Hamza Maksimovic,582353,Foot injury,08/01/2024,12/01/2024,4,1,24/25
+Riyad Schulz,582355,Knee ligament injury,26/10/2024,27/11/2024,32,3,24/25
+Riyad Schulz,582355,Hip flexor strain,27/12/2023,21/01/2024,25,3,23/24
+Riyad Schulz,582355,Virus,19/06/2024,09/08/2024,51,1,24/25
+Theo Rodrigues,582356,Abdominal problems,14/04/2024,14/05/2024,30,1,24/25
+Riyad Lopez,582357,unknown injury,09/07/2024,08/08/2024,30,2,24/25
+Jude Taylor,582358,Cartilage damage,11/10/2024,01/11/2024,21,0,24/25
+Jude Taylor,582358,Ankle sprain,31/03/2023,24/05/2023,54,1,23/24
+Jude Taylor,582358,Cartilage damage,27/10/2024,31/10/2024,4,1,24/25
+Rodrygo Tadic,582360,Ankle sprain,30/09/2024,06/11/2024,37,5,24/25
+Rodrygo Tadic,582360,Achilles tendon injury,30/03/2024,04/05/2024,35,6,24/25
+Rodrygo Tadic,582360,Foot injury,03/02/2023,20/03/2023,45,6,23/24
+Thomas Fernandes,582361,Meniscus injury,17/08/2023,08/10/2023,52,8,23/24
+Davide Christensen,582362,Fracture,28/04/2023,13/05/2023,15,0,23/24
+Davide Christensen,582362,Meniscus injury,26/12/2023,17/02/2024,53,6,23/24
+Davide Christensen,582362,unknown injury,22/10/2024,09/12/2024,48,0,24/25
+Hamza Lopez,582363,Foot injury,18/08/2023,22/09/2023,35,2,23/24
+Hamza Lopez,582363,Foot injury,05/11/2024,24/11/2024,19,3,24/25
+Vinicius Olsen,582364,Knee ligament injury,05/01/2023,06/03/2023,60,0,23/24
+Piotr Costa,582367,Concussion,19/01/2024,15/03/2024,56,9,24/25
+Florian Gomez,582368,Achilles tendon injury,10/12/2023,23/12/2023,13,1,23/24
+Florian Gomez,582368,unknown injury,05/09/2023,13/10/2023,38,1,23/24
+Benjamin Thomas,582369,Achilles tendon injury,22/02/2023,17/04/2023,54,6,23/24
+Benjamin Thomas,582369,unknown injury,12/05/2023,24/06/2023,43,2,23/24
+Benjamin Thomas,582369,Virus,17/02/2024,17/04/2024,60,8,24/25
+James Becker,582370,Ankle sprain,23/03/2024,09/04/2024,17,1,24/25
+Mason Grujic,582372,Hip flexor strain,04/10/2024,23/10/2024,19,1,24/25
+Mason Grujic,582372,Knee injury,27/11/2023,13/12/2023,16,0,23/24
+Mason Grujic,582372,Muscle strain,27/01/2023,26/02/2023,30,5,23/24
+Mateo Pereira,582373,Hip flexor strain,29/01/2023,12/03/2023,42,1,23/24
+Ousmane Rossi,582374,Calf muscle strain,26/01/2023,17/03/2023,50,7,23/24
+Ousmane Rossi,582374,Abdominal problems,11/10/2024,23/11/2024,43,2,24/25
+Ousmane Rossi,582374,Back injury,03/09/2023,17/10/2023,44,4,23/24
+Mohamed Rodriguez,582375,Back injury,02/07/2024,27/08/2024,56,6,24/25
+Ivan Cisse,582376,Shoulder injury,06/11/2024,12/11/2024,6,0,24/25
+Ivan Cisse,582376,Muscle strain,28/05/2023,10/07/2023,43,1,23/24
+Kai Kaminski,582378,Ankle sprain,02/09/2024,12/09/2024,10,0,24/25
+Kai Kaminski,582378,Thigh muscle strain,17/10/2023,05/11/2023,19,0,23/24
+Kai Kaminski,582378,Abdominal problems,21/03/2023,24/04/2023,34,1,23/24
+Ivan Pavlovic,582379,Muscle strain,14/04/2023,18/05/2023,34,3,23/24
+Ivan Pavlovic,582379,Knee injury,17/03/2023,20/04/2023,34,1,23/24
+Ivan Pavlovic,582379,Virus,05/03/2024,01/04/2024,27,3,24/25
+Przemyslaw Fernandez,582380,Muscle strain,04/07/2023,26/07/2023,22,1,23/24
+Carlos Christensen,582383,Cartilage damage,22/12/2023,24/01/2024,33,4,23/24
+Carlos Christensen,582383,Thigh muscle strain,13/07/2024,16/07/2024,3,1,24/25
+Bartosz Romano,582385,Hip flexor strain,12/09/2024,16/09/2024,4,0,24/25
+Alexander Becker,582386,Abdominal problems,10/08/2023,07/10/2023,58,1,23/24
+Bruno Piotrowski,582387,Calf muscle strain,31/01/2023,23/02/2023,23,1,23/24
+Phil Schmidt,582389,Fracture,02/10/2023,22/10/2023,20,1,23/24
+Ivan Mitrovic,582391,Foot injury,18/07/2024,31/08/2024,44,7,24/25
+Ivan Mitrovic,582391,Concussion,22/05/2024,21/06/2024,30,3,24/25
+Alessandro Pavlovic,582392,Groin injury,14/09/2023,28/09/2023,14,2,23/24
+Kevin Moreau,582393,Achilles tendon injury,16/04/2023,26/05/2023,40,2,23/24
+Kevin Moreau,582393,Groin injury,19/06/2023,11/08/2023,53,7,23/24
+Kevin Moreau,582393,Meniscus injury,19/03/2024,17/05/2024,59,6,24/25
+Federico Nilsen,582394,Ankle sprain,23/11/2023,04/01/2024,42,6,23/24
+Federico Nilsen,582394,Achilles tendon injury,15/03/2024,30/03/2024,15,2,24/25
+Miguel Moreau,582395,Knee injury,09/10/2024,03/12/2024,55,7,24/25
+Miguel Moreau,582395,Hamstring injury,21/06/2023,19/08/2023,59,8,23/24
+Andreas Szymanski,582396,Foot injury,23/08/2024,21/09/2024,29,4,24/25
+Andreas Szymanski,582396,Abdominal problems,22/10/2024,27/11/2024,36,3,24/25
+Gabriel Olsen,582399,Thigh muscle strain,27/11/2023,27/12/2023,30,2,23/24
+Arkadiusz Kowalski,582400,Abdominal problems,16/03/2023,01/04/2023,16,2,23/24
+Kylian Bianchi,582401,Muscle strain,18/11/2023,28/11/2023,10,1,23/24
+Hugo Wozniak,582403,Achilles tendon injury,07/08/2023,08/09/2023,32,2,23/24
+Hugo Wozniak,582403,Knee injury,27/08/2023,04/10/2023,38,3,23/24
+Ole Colombo,582404,Concussion,08/09/2024,24/09/2024,16,1,24/25
+Ole Colombo,582404,Shoulder injury,16/04/2023,24/05/2023,38,5,23/24
+Jack Sylla,582406,Knee ligament injury,29/11/2024,19/01/2025,51,5,24/25
+Jack Sylla,582406,Groin injury,24/11/2023,09/12/2023,15,0,23/24
+Jack Sylla,582406,Hamstring injury,20/05/2024,23/06/2024,34,2,24/25
+Endrick Lewandowski,582407,Meniscus injury,03/05/2023,13/05/2023,10,0,23/24
+Endrick Lewandowski,582407,Achilles tendon injury,07/09/2024,30/09/2024,23,3,24/25
+Endrick Lewandowski,582407,Muscle strain,31/08/2023,09/10/2023,39,2,23/24
+Mason Martinez,582410,unknown injury,19/10/2023,30/10/2023,11,0,23/24
+Mason Martinez,582410,Hamstring injury,30/06/2024,05/08/2024,36,2,24/25
+Mason Martinez,582410,Knee injury,22/10/2024,26/10/2024,4,1,24/25
+Federico Rodrigues,582412,Virus,05/11/2023,25/11/2023,20,2,23/24
+Federico Rodrigues,582412,Hip flexor strain,14/02/2024,22/02/2024,8,1,24/25
+Federico Rodrigues,582412,Hamstring injury,20/05/2024,01/07/2024,42,6,24/25
+Bukayo Wojcik,582413,Ankle sprain,10/04/2024,14/05/2024,34,2,24/25
+Bukayo Wojcik,582413,Muscle strain,24/09/2024,03/10/2024,9,0,24/25
+Julian Milinkovic,582416,Knee ligament injury,18/04/2023,11/05/2023,23,1,23/24
+Sofyan Kaminski,582417,Abdominal problems,01/04/2023,16/04/2023,15,0,23/24
+Hamza Pavlovic,582419,Hamstring injury,14/02/2023,24/02/2023,10,1,23/24
+Hamza Pavlovic,582419,Virus,18/03/2023,06/04/2023,19,3,23/24
+Sadio Fernandes,582420,Achilles tendon injury,24/06/2023,05/07/2023,11,1,23/24
+Sadio Fernandes,582420,Virus,03/05/2023,14/05/2023,11,0,23/24
+Matheus Milinkovic,582421,Ankle sprain,14/10/2024,14/11/2024,31,4,24/25
+Matheus Milinkovic,582421,Achilles tendon injury,24/06/2024,12/07/2024,18,3,24/25
+Matheus Milinkovic,582421,Shoulder injury,08/11/2024,12/12/2024,34,2,24/25
+Kristian Robert,582422,Shoulder injury,20/08/2023,28/08/2023,8,1,23/24
+Kristian Robert,582422,Hip flexor strain,26/03/2023,20/04/2023,25,1,23/24
+Kristian Robert,582422,Groin injury,06/11/2024,20/12/2024,44,1,24/25
+Lorenzo Richard,582424,Muscle strain,03/03/2023,19/03/2023,16,1,23/24
+Lorenzo Richard,582424,unknown injury,24/04/2024,18/06/2024,55,3,24/25
+Lorenzo Richard,582424,Virus,14/05/2024,23/05/2024,9,0,24/25
+Casemiro Bernard,582425,Meniscus injury,16/11/2023,03/01/2024,48,2,23/24
+Casemiro Bernard,582425,Calf muscle strain,31/05/2024,09/06/2024,9,0,24/25
+Mateo Fernandes,582426,Cartilage damage,30/01/2024,01/03/2024,31,4,24/25
+Mateo Fernandes,582426,unknown injury,27/07/2023,17/09/2023,52,3,23/24
+Bartosz Thomas,582428,Foot injury,09/03/2024,22/03/2024,13,2,24/25
+Bartosz Thomas,582428,Calf muscle strain,25/10/2024,03/11/2024,9,1,24/25
+Florian Coulibaly,582431,Meniscus injury,17/01/2023,18/03/2023,60,2,23/24
+Leroy Davies,582432,Concussion,30/01/2023,04/03/2023,33,3,23/24
+Leroy Davies,582432,Ankle sprain,27/12/2023,15/01/2024,19,0,23/24
+Benjamin Taylor,582433,Calf muscle strain,17/03/2024,02/04/2024,16,3,24/25
+Benjamin Taylor,582433,Concussion,29/05/2024,28/06/2024,30,2,24/25
+Mateusz Richard,582435,Ankle sprain,07/10/2023,02/11/2023,26,0,23/24
+Mateusz Richard,582435,Knee ligament injury,26/10/2024,22/11/2024,27,1,24/25
+Mateusz Richard,582435,unknown injury,29/10/2023,13/11/2023,15,1,23/24
+Sofyan Weber,582436,Fracture,26/06/2024,06/08/2024,41,4,24/25
+Sofyan Weber,582436,Hamstring injury,19/03/2024,28/03/2024,9,2,24/25
+Luca Martin,582437,Ankle sprain,24/04/2023,11/05/2023,17,0,23/24
+Riyad Johansen,582439,Hip flexor strain,02/09/2023,09/09/2023,7,0,23/24
+Riyad Johansen,582439,Cartilage damage,10/10/2023,27/10/2023,17,3,23/24
+Milan Martin,582440,Back injury,07/02/2024,16/02/2024,9,2,24/25
+Milan Martin,582440,Groin injury,02/10/2023,05/11/2023,34,1,23/24
+Milan Martin,582440,Foot injury,28/07/2023,22/08/2023,25,4,23/24
+Arkadiusz Diallo,582441,Thigh muscle strain,04/01/2023,13/01/2023,9,2,23/24
+Arkadiusz Diallo,582441,Foot injury,29/09/2024,01/11/2024,33,5,24/25
+Piotr Mitrovic,582442,Knee injury,24/06/2023,17/07/2023,23,1,23/24
+Riyad Jesus,582443,Meniscus injury,07/12/2023,05/02/2024,60,2,23/24
+Matteo Schulz,582445,Muscle strain,14/03/2024,07/04/2024,24,1,24/25
+Matteo Schulz,582445,Knee injury,28/09/2023,26/11/2023,59,2,23/24
+Matteo Schulz,582445,Muscle strain,26/11/2024,16/01/2025,51,5,24/25
+Rodrygo Kaczmarek,582446,Fracture,20/08/2024,23/08/2024,3,0,24/25
+Rodrygo Kaczmarek,582446,Hamstring injury,28/04/2024,08/05/2024,10,0,24/25
+Rodrygo Kaczmarek,582446,Foot injury,03/08/2024,18/09/2024,46,3,24/25
+Kylian Moreau,582447,Ankle sprain,31/05/2023,22/07/2023,52,1,23/24
+Jakub Nilsen,582448,Fracture,10/12/2023,10/01/2024,31,5,23/24
+Jakub Nilsen,582448,Shoulder injury,26/12/2023,01/02/2024,37,5,23/24
+Phil Diallo,582449,Meniscus injury,17/09/2023,13/10/2023,26,0,23/24
+Phil Diallo,582449,Virus,28/12/2023,19/01/2024,22,4,23/24
+Phil Diallo,582449,Cartilage damage,10/11/2024,06/01/2025,57,7,24/25
+Jack Costa,582451,Muscle strain,15/06/2024,03/08/2024,49,2,24/25
+Jack Costa,582451,Back injury,25/02/2024,22/04/2024,57,2,24/25
+Harry Davies,582452,Back injury,24/05/2024,28/05/2024,4,1,24/25
+Harry Davies,582452,Knee injury,04/01/2024,20/01/2024,16,1,24/25
+Mateusz Sousa,582453,Shoulder injury,16/10/2024,25/10/2024,9,2,24/25
+Mateusz Sousa,582453,Meniscus injury,26/11/2024,02/01/2025,37,4,24/25
+Mateusz Sousa,582453,Abdominal problems,29/06/2023,18/07/2023,19,2,23/24
+Theo Moreau,582454,Shoulder injury,26/08/2024,24/09/2024,29,2,24/25
+Theo Moreau,582454,Achilles tendon injury,15/07/2023,20/07/2023,5,1,23/24
+Theo Moreau,582454,Knee ligament injury,19/09/2024,29/09/2024,10,1,24/25
+Ousmane Hoffmann,582455,Muscle strain,23/10/2023,02/11/2023,10,1,23/24
+Ousmane Hoffmann,582455,Calf muscle strain,31/05/2023,02/07/2023,32,4,23/24
+Niklas Smith,582456,Thigh muscle strain,30/09/2024,07/11/2024,38,2,24/25
+Niklas Smith,582456,Knee injury,13/05/2024,03/06/2024,21,2,24/25
+Hamza Grujic,582458,Foot injury,11/02/2023,27/02/2023,16,0,23/24
+Hamza Grujic,582458,Foot injury,24/02/2023,30/03/2023,34,0,23/24
+Hamza Grujic,582458,Muscle strain,16/03/2024,10/04/2024,25,0,24/25
+Arkadiusz Fischer,582459,Foot injury,22/05/2023,16/06/2023,25,4,23/24
+Arkadiusz Fischer,582459,Hip flexor strain,12/11/2024,03/01/2025,52,2,24/25
+Luka Traore,582461,Groin injury,27/05/2023,15/07/2023,49,6,23/24
+Luka Traore,582461,Foot injury,22/08/2024,30/08/2024,8,0,24/25
+Kristian Grujic,582463,unknown injury,30/12/2023,17/01/2024,18,3,23/24
+Kristian Grujic,582463,Ankle sprain,13/02/2024,13/04/2024,60,4,24/25
+Kristian Grujic,582463,Foot injury,06/11/2023,17/12/2023,41,1,23/24
+Youssef Larsen,582464,Virus,26/11/2024,24/01/2025,59,9,24/25
+Youssef Larsen,582464,Groin injury,23/05/2023,08/07/2023,46,4,23/24
+Youssef Larsen,582464,Hip flexor strain,19/05/2023,17/06/2023,29,1,23/24
+Clement Esposito,582465,Foot injury,09/11/2023,17/11/2023,8,2,23/24
+Clement Esposito,582465,Hip flexor strain,05/10/2024,06/11/2024,32,1,24/25
+Niklas Durand,582466,Calf muscle strain,23/03/2024,01/04/2024,9,2,24/25
+Niklas Durand,582466,Virus,28/03/2024,14/05/2024,47,5,24/25
+Niklas Durand,582466,Knee ligament injury,24/04/2024,19/05/2024,25,3,24/25
+Maximilian Evans,582467,Muscle strain,25/02/2024,28/03/2024,32,4,24/25
+Maximilian Evans,582467,Knee ligament injury,28/01/2023,21/03/2023,52,1,23/24
+Maximilian Evans,582467,Foot injury,24/05/2023,05/07/2023,42,3,23/24
+Julian Leroy,582468,Hip flexor strain,11/05/2023,22/06/2023,42,4,23/24
+Julian Leroy,582468,unknown injury,24/02/2023,16/04/2023,51,2,23/24
+Luis Jovic,582469,Meniscus injury,17/11/2024,20/11/2024,3,1,24/25
+Luis Jovic,582469,Hamstring injury,25/02/2023,05/03/2023,8,1,23/24
+Luis Jovic,582469,Virus,27/10/2024,05/11/2024,9,2,24/25
+Sergio Hansen,582471,Virus,02/08/2024,04/09/2024,33,0,24/25
+Sergio Hansen,582471,Achilles tendon injury,05/05/2023,24/06/2023,50,8,23/24
+Davide Wojcik,582473,Hip flexor strain,12/06/2024,24/06/2024,12,2,24/25
+Mateo Coulibaly,582474,Calf muscle strain,20/05/2023,06/06/2023,17,2,23/24
+Mateo Coulibaly,582474,Muscle strain,05/10/2024,27/10/2024,22,3,24/25
+Mateo Coulibaly,582474,Groin injury,30/09/2024,16/11/2024,47,1,24/25
+Mohamed Traore,582477,Ankle sprain,10/09/2024,08/11/2024,59,8,24/25
+Ousmane Traore,582479,Fracture,29/07/2023,07/08/2023,9,0,23/24
+Alessandro Alvarez,582480,Ankle sprain,05/02/2024,11/02/2024,6,1,24/25
+Alessandro Alvarez,582480,Thigh muscle strain,19/02/2024,23/03/2024,33,1,24/25
+Alessandro Alvarez,582480,Cartilage damage,13/07/2024,01/08/2024,19,3,24/25
+Gabriel Andersen,582482,Muscle strain,30/05/2023,12/07/2023,43,2,23/24
+Gabriel Andersen,582482,Back injury,26/05/2023,20/07/2023,55,2,23/24
+Gabriel Andersen,582482,Hip flexor strain,07/06/2024,27/07/2024,50,3,24/25
+Robert Wozniak,582483,Foot injury,06/05/2024,27/05/2024,21,0,24/25
+Robert Wozniak,582483,Abdominal problems,25/08/2024,28/09/2024,34,5,24/25
+Robert Wozniak,582483,unknown injury,09/10/2023,06/11/2023,28,5,23/24
+Andrea Pedersen,582485,Knee ligament injury,02/03/2024,26/04/2024,55,2,24/25
+Andrea Pedersen,582485,Meniscus injury,29/01/2023,19/02/2023,21,0,23/24
+Andrea Pedersen,582485,Muscle strain,31/07/2024,27/08/2024,27,4,24/25
+Hugo Rossi,582486,Cartilage damage,04/02/2023,20/03/2023,44,7,23/24
+Hugo Rossi,582486,Calf muscle strain,13/02/2023,10/03/2023,25,3,23/24
+Kylian Colombo,582487,Thigh muscle strain,11/10/2023,14/10/2023,3,1,23/24
+Kylian Colombo,582487,Concussion,27/05/2024,23/07/2024,57,3,24/25
+Kylian Colombo,582487,Concussion,24/12/2023,22/02/2024,60,6,23/24
+Raphinha Sorensen,582489,Abdominal problems,02/11/2024,14/11/2024,12,2,24/25
+Ole Christensen,582490,Calf muscle strain,15/04/2024,02/06/2024,48,4,24/25
+Ole Christensen,582490,unknown injury,05/11/2024,27/11/2024,22,0,24/25
+Kai Pavlovic,582491,Cartilage damage,21/01/2024,23/02/2024,33,5,24/25
+Kai Pavlovic,582491,Concussion,04/07/2023,12/08/2023,39,6,23/24
+Kai Pavlovic,582491,Shoulder injury,05/11/2024,11/12/2024,36,1,24/25
+Sofyan Thomas,582492,Abdominal problems,25/08/2024,04/10/2024,40,4,24/25
+Sofyan Thomas,582492,unknown injury,24/09/2024,19/11/2024,56,1,24/25
+Endrick Moreau,582495,Ankle sprain,26/08/2023,04/09/2023,9,1,23/24
+Alexander Christensen,582496,Back injury,28/11/2023,18/01/2024,51,3,23/24
+Alexander Christensen,582496,Thigh muscle strain,18/04/2023,17/06/2023,60,6,23/24
+Alexander Christensen,582496,Hamstring injury,06/03/2024,13/03/2024,7,2,24/25
+Alejandro Rasmussen,582497,Knee injury,28/04/2023,03/05/2023,5,1,23/24
+Alejandro Rasmussen,582497,Muscle strain,19/01/2024,29/02/2024,41,1,24/25
+Luka Esposito,582498,Meniscus injury,21/04/2023,07/06/2023,47,6,23/24
+Luka Esposito,582498,Achilles tendon injury,17/05/2023,29/06/2023,43,3,23/24
+Milan Wagner,582499,Meniscus injury,16/09/2023,20/10/2023,34,5,23/24
+Robert Becker,582500,Thigh muscle strain,19/08/2023,03/09/2023,15,3,23/24
+Robert Becker,582500,Groin injury,25/06/2024,18/08/2024,54,1,24/25
+Antoine Schneider,582503,Calf muscle strain,04/02/2023,30/03/2023,54,0,23/24
+Erling Torres,582504,Hip flexor strain,22/02/2024,01/04/2024,39,6,24/25
+Erling Torres,582504,Thigh muscle strain,15/03/2023,08/04/2023,24,4,23/24
+Kevin Garcia,582505,Groin injury,14/07/2023,08/09/2023,56,9,23/24
+Kevin Garcia,582505,Abdominal problems,30/04/2024,04/06/2024,35,2,24/25
+Kevin Garcia,582505,Hip flexor strain,25/09/2024,24/11/2024,60,2,24/25
+Arkadiusz Larsen,582507,unknown injury,13/03/2024,25/04/2024,43,1,24/25
+Arkadiusz Larsen,582507,Calf muscle strain,05/08/2024,13/08/2024,8,2,24/25
+Arkadiusz Larsen,582507,Ankle sprain,02/11/2023,11/11/2023,9,1,23/24
+Mohamed Durand,582508,Hip flexor strain,22/02/2023,04/04/2023,41,2,23/24
+Clement Jovic,582510,Shoulder injury,24/10/2023,19/12/2023,56,6,23/24
+Clement Piotrowski,582511,Thigh muscle strain,11/03/2023,08/05/2023,58,4,23/24
+Clement Piotrowski,582511,Achilles tendon injury,18/03/2023,24/04/2023,37,1,23/24
+Eder Torres,582512,Hamstring injury,13/02/2024,26/03/2024,42,1,24/25
+Eder Torres,582512,Shoulder injury,19/08/2024,21/09/2024,33,5,24/25
+Kristian Lewandowski,582515,Groin injury,07/03/2024,26/03/2024,19,2,24/25
+Kristian Lewandowski,582515,Groin injury,02/03/2023,13/03/2023,11,2,23/24
+Jonas Costa,582516,Hamstring injury,10/11/2024,08/01/2025,59,3,24/25
+Jonas Costa,582516,Achilles tendon injury,20/05/2024,27/05/2024,7,2,24/25
+Kai Kowalczyk,582518,Cartilage damage,14/03/2023,12/04/2023,29,5,23/24
+Kai Kowalczyk,582518,Hip flexor strain,19/09/2024,27/09/2024,8,1,24/25
+Riccardo Torres,582519,Hamstring injury,05/10/2023,23/11/2023,49,1,23/24
+Adrien Larsen,582521,Abdominal problems,03/06/2024,20/06/2024,17,3,24/25
+Adrien Larsen,582521,Back injury,04/05/2024,26/05/2024,22,0,24/25
+Adrien Larsen,582521,Groin injury,26/02/2023,02/03/2023,4,1,23/24
+Clement Martins,582523,unknown injury,23/02/2023,22/03/2023,27,1,23/24
+Clement Martins,582523,Knee ligament injury,16/03/2024,02/05/2024,47,2,24/25
+Clement Martins,582523,Ankle sprain,29/04/2023,30/05/2023,31,4,23/24
+Nicolo Fernandes,582524,Virus,27/12/2023,11/01/2024,15,3,23/24
+Nicolo Fernandes,582524,Back injury,01/03/2023,19/03/2023,18,0,23/24
+Mateusz Oliveira,582526,Hip flexor strain,27/02/2024,17/04/2024,50,0,24/25
+Nayef Toure,582528,Hamstring injury,28/02/2023,07/03/2023,7,0,23/24
+Richarlison Rossi,582529,Hamstring injury,04/07/2023,25/07/2023,21,2,23/24
+Richarlison Rossi,582529,Back injury,25/12/2023,04/02/2024,41,2,23/24
+Richarlison Rossi,582529,unknown injury,13/05/2023,23/06/2023,41,3,23/24
+Lorenzo Hoffmann,582533,Fracture,10/07/2024,26/07/2024,16,2,24/25
+Lorenzo Hoffmann,582533,Foot injury,14/08/2023,14/09/2023,31,2,23/24
+Michal Andersen,582534,Concussion,31/10/2024,18/11/2024,18,2,24/25
+Michal Andersen,582534,Hip flexor strain,23/11/2023,09/01/2024,47,1,23/24
+Milan Szymanski,582536,Cartilage damage,25/02/2024,13/04/2024,48,7,24/25
+Milan Szymanski,582536,Groin injury,14/10/2023,22/10/2023,8,0,23/24
+Theo Andersen,582537,Hip flexor strain,09/11/2023,29/12/2023,50,3,23/24
+Mateo Schneider,582539,Back injury,26/05/2023,31/05/2023,5,1,23/24
+Mateo Schneider,582539,Meniscus injury,27/10/2024,17/12/2024,51,1,24/25
+Przemyslaw Martins,582541,Shoulder injury,04/02/2023,24/02/2023,20,3,23/24
+Przemyslaw Martins,582541,Knee injury,04/11/2023,29/12/2023,55,0,23/24
+Przemyslaw Martins,582541,Cartilage damage,13/10/2023,09/12/2023,57,6,23/24
+Lucas Fischer,582542,unknown injury,20/01/2023,19/03/2023,58,6,23/24
+Lucas Fischer,582542,Back injury,30/03/2024,04/04/2024,5,0,24/25
+Lucas Fischer,582542,Knee ligament injury,24/01/2024,07/02/2024,14,0,24/25
+Sander Rodrigues,582543,Abdominal problems,02/02/2023,11/03/2023,37,0,23/24
+Sander Rodrigues,582543,Virus,15/09/2024,05/11/2024,51,4,24/25
+Karol Coulibaly,582544,Cartilage damage,29/01/2023,22/02/2023,24,3,23/24
+Lorenzo Diallo,582545,Ankle sprain,28/02/2023,23/04/2023,54,8,23/24
+Lorenzo Diallo,582545,Foot injury,02/02/2024,22/03/2024,49,8,24/25
+Lorenzo Diallo,582545,Achilles tendon injury,19/04/2024,19/05/2024,30,5,24/25
+Jack Santos,582546,Meniscus injury,16/06/2023,13/07/2023,27,1,23/24
+Jack Santos,582546,Shoulder injury,16/05/2023,19/05/2023,3,1,23/24
+Kevin Williams,582548,Virus,09/07/2024,30/07/2024,21,4,24/25
+Gabriel Kaczmarek,582549,Shoulder injury,09/02/2023,23/03/2023,42,5,23/24
+Gabriel Kaczmarek,582549,Shoulder injury,03/10/2023,17/11/2023,45,0,23/24
+Gabriel Kaczmarek,582549,Achilles tendon injury,08/05/2023,30/05/2023,22,2,23/24
+Hakim Petit,582550,Meniscus injury,03/07/2023,03/08/2023,31,0,23/24
+Hakim Petit,582550,Meniscus injury,26/03/2024,29/03/2024,3,0,24/25
+Jakub Oliveira,582551,Hip flexor strain,06/05/2024,18/06/2024,43,3,24/25
+Jakub Oliveira,582551,Achilles tendon injury,23/02/2024,29/02/2024,6,0,24/25
+Milan Hansen,582552,Virus,16/09/2024,24/10/2024,38,0,24/25
+Milan Hansen,582552,Shoulder injury,27/03/2024,10/04/2024,14,2,24/25
+Diego Sousa,582553,Back injury,21/05/2024,01/06/2024,11,2,24/25
+Diego Sousa,582553,Cartilage damage,28/06/2023,10/07/2023,12,2,23/24
+Ousmane Jones,582555,Hamstring injury,28/04/2023,11/06/2023,44,2,23/24
+Alessandro Vlahovic,582556,Hamstring injury,16/08/2024,08/09/2024,23,4,24/25
+Alessandro Vlahovic,582556,Shoulder injury,22/08/2023,28/08/2023,6,1,23/24
+Alessandro Vlahovic,582556,Abdominal problems,17/01/2023,04/03/2023,46,0,23/24
+Rodrygo Camara,582557,Knee injury,25/12/2023,03/01/2024,9,2,23/24
+Marco Lewandowski,582558,Knee injury,26/04/2023,31/05/2023,35,1,23/24
+Marco Lewandowski,582558,Achilles tendon injury,28/07/2023,20/08/2023,23,2,23/24
+Marco Lewandowski,582558,Knee injury,28/11/2024,27/12/2024,29,5,24/25
+Nayef Fernandes,582559,Muscle strain,17/10/2023,29/10/2023,12,1,23/24
+Nayef Fernandes,582559,Abdominal problems,13/09/2024,05/11/2024,53,5,24/25
+Nayef Fernandes,582559,Abdominal problems,22/02/2024,22/04/2024,60,7,24/25
+Gabriel Gomez,582560,Thigh muscle strain,28/09/2024,02/10/2024,4,1,24/25
+Gabriel Gomez,582560,Calf muscle strain,15/02/2023,08/03/2023,21,4,23/24
+Mateo Toure,582563,Concussion,17/11/2023,22/12/2023,35,6,23/24
+Robert Martins,582564,Achilles tendon injury,09/08/2023,05/09/2023,27,0,23/24
+Robert Martins,582564,Calf muscle strain,03/11/2024,22/12/2024,49,6,24/25
+Erling Ricci,582567,Achilles tendon injury,01/08/2024,05/09/2024,35,5,24/25
+Mateusz Coulibaly,582568,Ankle sprain,05/07/2024,23/08/2024,49,8,24/25
+Mateusz Coulibaly,582568,Fracture,22/02/2023,04/04/2023,41,5,23/24
+Mateusz Coulibaly,582568,Meniscus injury,21/06/2024,27/07/2024,36,2,24/25
+Nicolo Lopez,582569,Achilles tendon injury,19/07/2023,13/09/2023,56,4,23/24
+Nicolo Lopez,582569,Back injury,07/09/2023,01/10/2023,24,2,23/24
+Robert Sorensen,582570,Ankle sprain,11/04/2024,04/05/2024,23,1,24/25
+Antoine Jovic,582571,Knee injury,24/02/2024,21/03/2024,26,2,24/25
+Antoine Jovic,582571,Knee injury,27/07/2024,31/08/2024,35,2,24/25
+Antoine Jovic,582571,Cartilage damage,31/10/2024,03/12/2024,33,1,24/25
+Erling Martinez,582572,Achilles tendon injury,04/03/2024,21/03/2024,17,1,24/25
+Erling Martinez,582572,Knee ligament injury,04/07/2024,22/07/2024,18,1,24/25
+Erling Martinez,582572,Foot injury,12/09/2024,01/10/2024,19,2,24/25
+Erling Santos,582573,Knee ligament injury,01/05/2023,09/05/2023,8,1,23/24
+Erling Santos,582573,Achilles tendon injury,01/06/2024,13/06/2024,12,1,24/25
+Lorenzo Schulz,582574,Meniscus injury,04/07/2023,01/09/2023,59,0,23/24
+Alessandro Fernandes,582575,Shoulder injury,04/05/2023,02/06/2023,29,4,23/24
+Nicolo Kowalczyk,582576,Hamstring injury,14/04/2023,25/04/2023,11,1,23/24
+Nicolo Kowalczyk,582576,Thigh muscle strain,25/01/2023,13/03/2023,47,1,23/24
+Nicolo Kowalczyk,582576,Concussion,16/05/2023,20/06/2023,35,3,23/24
+Andrea Toure,582577,unknown injury,29/12/2023,09/01/2024,11,2,23/24
+Andrea Toure,582577,Foot injury,24/07/2024,11/08/2024,18,0,24/25
+Andrea Toure,582577,Virus,11/12/2023,09/02/2024,60,9,23/24
+Sadio Diallo,582581,Meniscus injury,04/04/2024,03/05/2024,29,5,24/25
+Sadio Diallo,582581,Fracture,22/03/2024,12/04/2024,21,1,24/25
+Kylian Sousa,582582,Concussion,26/08/2024,20/10/2024,55,1,24/25
+Jude Weber,582583,Achilles tendon injury,08/01/2023,17/02/2023,40,2,23/24
+Ole Camara,582584,Meniscus injury,24/01/2024,16/02/2024,23,1,24/25
+Ole Camara,582584,Achilles tendon injury,04/06/2024,23/07/2024,49,4,24/25
+Ole Camara,582584,Foot injury,10/04/2023,27/04/2023,17,3,23/24
+Ivan Marino,582585,Concussion,19/02/2023,30/03/2023,39,4,23/24
+Ivan Marino,582585,Knee ligament injury,16/08/2024,20/09/2024,35,2,24/25
+Ivan Richard,582586,Thigh muscle strain,29/01/2024,21/02/2024,23,1,24/25
+Ivan Richard,582586,Groin injury,12/02/2023,08/04/2023,55,6,23/24
+Stefan Pereira,582587,Cartilage damage,11/08/2024,09/10/2024,59,5,24/25
+Stefan Pereira,582587,Foot injury,12/04/2023,07/05/2023,25,1,23/24
+Theo Garcia,582589,Meniscus injury,08/10/2023,11/11/2023,34,1,23/24
+Theo Garcia,582589,Shoulder injury,23/06/2023,14/07/2023,21,4,23/24
+Sander Lewandowski,582591,Calf muscle strain,13/11/2024,03/12/2024,20,0,24/25
+Riyad Bruno,582592,Concussion,19/07/2024,13/09/2024,56,2,24/25
