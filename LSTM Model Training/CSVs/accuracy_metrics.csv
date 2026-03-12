@@ -1,0 +1,5 @@
+Model,R2_Score_%,MAPE_%,Direction_Accuracy_%,RMSE_EUR,MAE_EUR
+Univariate LSTM,99.91,14.43,99.5,1341776.0,1114224.0
+Multivariate LSTM,99.94,10.44,99.5,1115156.0,851632.0
+Encoder-Decoder (Step 1: t+1),99.69,15.79,100.0,2518741.0,1640664.0
+Encoder-Decoder (Step 2: t+2),99.72,20.94,99.5,2394147.0,1724578.0
