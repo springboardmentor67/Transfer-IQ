@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Data outputs
+reports/figures/
+data/processed/
+
+# Nested clone (not part of this project)
+Transfer-IQ/

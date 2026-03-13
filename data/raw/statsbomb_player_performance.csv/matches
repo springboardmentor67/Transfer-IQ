@@ -1,0 +1,14 @@
+
+    matches_path = "data/raw/statsbomb/matches"
+
+all_matches = []
+
+for file in os.listdir(matches_path):
+    if file.endswith(".json"):
+        with open(os.path.join(matches_path, file), "r", encoding="utf-8") as f:
+            data = json.load(f)
+            all_matches.extend(data)
+
+matches_df = pd.DataFrame(all_matches)
+
+print("Number of matches:", matches_df.shape[0])

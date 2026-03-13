@@ -1,0 +1,15 @@
+events_path = "data/raw/statsbomb/events"
+
+events = []
+
+for file in os.listdir(events_path):
+    if file.endswith(".json"):
+        with open(os.path.join(events_path, file), "r", encoding="utf-8") as f:
+            data = json.load(f)
+            events.extend(data)
+
+events_df = pd.DataFrame(events)
+
+# Example metrics
+shots = events_df[events_df["type"].apply(lambda x: x["name"] == "Shot")]
+passes = events_df[events_df["type"].apply(lambda x: x["name"] == "Pass")]

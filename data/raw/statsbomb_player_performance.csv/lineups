@@ -1,0 +1,21 @@
+lineups_path = "data/raw/statsbomb/lineups"
+
+players = []
+
+for file in os.listdir(lineups_path):
+    if file.endswith(".json"):
+        with open(os.path.join(lineups_path, file), "r", encoding="utf-8") as f:
+            lineups = json.load(f)
+
+            for team in lineups:
+                for player in team["lineup"]:
+                    players.append({
+                        "player_name": player["player_name"],
+                        "position": player["position"]["name"] if player["position"] else None,
+                        "minutes_played": player.get("minutes", None),
+                        "team": team["team_name"]
+                    })
+
+players_df = pd.DataFrame(players)
+
+print("Number of players:", players_df["player_name"].nunique())
