@@ -68,9 +68,8 @@ xgb_features = [
     "minutes_played",
     "pass_accuracy_pct",
     "vader_compound_score",
-    "social_buzz_score",
+    "log_social_buzz",      # log of social_buzz_score
 ]
-xgb_features = [f for f in xgb_features if f in df.columns or f == "lstm_pred"]
 
 # ------------------------------------------------
 # Sidebar
@@ -108,10 +107,22 @@ def compute_train_val_metrics():
         enriched = pd.read_csv("./data/processed/lstm_enriched.csv")
         enriched = enriched.sort_values(["season_encoded", "player_name"]).reset_index(drop=True)
 
-        # Get ensemble predictions for all enriched rows
-        xgb_cols    = [f for f in xgb_features if f in enriched.columns]
-        ens_preds   = xgb_model.predict(enriched[xgb_cols])
-        ens_preds   = np.maximum(ens_preds, 0)
+        # Add log feature — must match train_xgboost.py exactly
+        enriched["log_social_buzz"] = np.log1p(enriched["social_buzz_score"])
+
+        # Get XGBoost raw predictions
+        xgb_cols  = [f for f in xgb_features if f in enriched.columns]
+        xgb_raw   = xgb_model.predict(enriched[xgb_cols])
+        xgb_raw   = np.maximum(xgb_raw, 0)
+
+        # Apply same tier-based blending as train_xgboost.py
+        elite_mask = enriched["market_value_eur"].values >= 70e6
+        ens_preds  = np.where(
+            elite_mask,
+            0.8 * enriched["lstm_pred"].values + 0.2 * xgb_raw,
+            0.1 * enriched["lstm_pred"].values + 0.9 * xgb_raw,
+        )
+        ens_preds = np.maximum(ens_preds, 0)
         enriched["ensemble_pred"] = ens_preds
 
         season_labels = {3: "2021/22", 4: "2022/23", 5: "2023/24"}
@@ -122,11 +133,12 @@ def compute_train_val_metrics():
             if len(rows) == 0:
                 continue
 
-            actual     = rows["market_value_eur"].values
-            lstm_p     = rows["lstm_pred"].values
-            ens_p      = rows["ensemble_pred"].values
-            split      = "Validation" if season_enc == 5 else "Training"
+            actual = rows["market_value_eur"].values
+            lstm_p = rows["lstm_pred"].values
+            ens_p  = rows["ensemble_pred"].values
+            split  = "Validation" if season_enc == 5 else "Training"
 
+            from sklearn.metrics import r2_score
             records.append({
                 "Season":        label,
                 "Split":         split,
@@ -134,6 +146,8 @@ def compute_train_val_metrics():
                 "Ensemble RMSE": round(np.sqrt(mean_squared_error(actual, ens_p))  / 1e6, 2),
                 "LSTM MAE":      round(mean_absolute_error(actual, lstm_p)          / 1e6, 2),
                 "Ensemble MAE":  round(mean_absolute_error(actual, ens_p)           / 1e6, 2),
+                "LSTM R2":       round(r2_score(actual, lstm_p), 4),
+                "Ensemble R2":   round(r2_score(actual, ens_p),  4),
             })
 
         return pd.DataFrame(records)
@@ -159,48 +173,37 @@ with col1:
     if metrics_df is not None:
         fig_tv = go.Figure()
 
-        # LSTM RMSE
+        # RMSE lines
         fig_tv.add_trace(go.Scatter(
             x=metrics_df["Season"], y=metrics_df["LSTM RMSE"],
             mode="lines+markers", name="LSTM RMSE (€M)",
-            line=dict(color="#b41f1f", width=2),
-            marker=dict(size=8),
+            line=dict(color="#b41f1f", width=2), marker=dict(size=8),
         ))
-
-        # Ensemble RMSE
         fig_tv.add_trace(go.Scatter(
             x=metrics_df["Season"], y=metrics_df["Ensemble RMSE"],
             mode="lines+markers", name="Ensemble RMSE (€M)",
-            line=dict(color="#1a50a3", width=2),
-            marker=dict(size=8),
+            line=dict(color="#1a50a3", width=2), marker=dict(size=8),
         ))
 
-        # LSTM MAE (dotted)
+        # MAE lines (dotted)
         fig_tv.add_trace(go.Scatter(
             x=metrics_df["Season"], y=metrics_df["LSTM MAE"],
             mode="lines+markers", name="LSTM MAE (€M)",
-            line=dict(color="#b41f1f", width=1.5, dash="dot"),
-            marker=dict(size=6),
+            line=dict(color="#b41f1f", width=1.5, dash="dot"), marker=dict(size=6),
         ))
-
-        # Ensemble MAE (dotted)
         fig_tv.add_trace(go.Scatter(
             x=metrics_df["Season"], y=metrics_df["Ensemble MAE"],
             mode="lines+markers", name="Ensemble MAE (€M)",
-            line=dict(color="#1a50a3", width=1.5, dash="dot"),
-            marker=dict(size=6),
+            line=dict(color="#1a50a3", width=1.5, dash="dot"), marker=dict(size=6),
         ))
 
         # Dashed vertical line separating Training from Validation
-        # add_vline does not work on categorical (string) x-axes — use add_shape instead
         val_seasons = metrics_df[metrics_df["Split"] == "Validation"]["Season"].values
         if len(val_seasons) > 0:
             val_x = val_seasons[0]
             fig_tv.add_shape(
-                type="line",
-                xref="x", yref="paper",
-                x0=val_x, x1=val_x,
-                y0=0, y1=1,
+                type="line", xref="x", yref="paper",
+                x0=val_x, x1=val_x, y0=0, y1=1,
                 line=dict(color="#888", width=1.5, dash="dash"),
             )
             fig_tv.add_annotation(
@@ -212,7 +215,7 @@ with col1:
             )
 
         fig_tv.update_layout(
-            title="Training vs Validation: LSTM vs Ensemble (€M)",
+            title="Training vs Validation: RMSE & MAE (€M)",
             xaxis_title="Season",
             yaxis_title="Error (€ Millions)",
             hovermode="x unified",
@@ -224,12 +227,6 @@ with col1:
             ),
         )
         st.plotly_chart(fig_tv, width='stretch')
-
-    else:
-        st.warning(
-            "Training vs Validation chart unavailable. "
-            "Run `python src/generate_lstm_features.py` first to generate lstm_enriched.csv."
-        )
 
 # ------------------------------------------------
 # GRAPH 2 — Sentiment Trend
@@ -324,7 +321,7 @@ feature_dict = {
     "minutes_played":           latest_row.get("minutes_played", np.nan),
     "pass_accuracy_pct":        latest_row.get("pass_accuracy_pct", np.nan),
     "vader_compound_score":     latest_row.get("vader_compound_score", np.nan),
-    "social_buzz_score":        latest_row.get("social_buzz_score", np.nan),
+    "log_social_buzz":          float(np.log1p(latest_row.get("social_buzz_score", 0))),
 }
 
 xgb_input_cols = [f for f in xgb_features if f in feature_dict]
@@ -332,10 +329,19 @@ xgb_input      = pd.DataFrame(
     [[feature_dict[f] for f in xgb_input_cols]], columns=xgb_input_cols
 )
 
-final_pred = float(xgb_model.predict(xgb_input)[0])
-final_pred = max(final_pred, 0)
+xgb_raw    = float(xgb_model.predict(xgb_input)[0])
+xgb_raw    = max(xgb_raw, 0)
 
+# Tier-based blending — matches train_xgboost.py logic
+# Elite players (≥€70M): LSTM is already very accurate, trust it more
+# Other players: XGBoost corrections are reliable, trust it more
 last_known = float(player_df["market_value_eur"].iloc[-1])
+if last_known >= 70e6:
+    final_pred = 0.8 * lstm_selected + 0.2 * xgb_raw   # elite: 80% LSTM
+else:
+    final_pred = 0.1 * lstm_selected + 0.9 * xgb_raw   # others: 90% XGBoost
+
+final_pred = max(final_pred, 0)
 final_pred = float(np.clip(final_pred, last_known * 0.60, last_known * 1.40))
 
 # ------------------------------------------------
