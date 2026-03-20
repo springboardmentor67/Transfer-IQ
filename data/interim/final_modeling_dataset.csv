@@ -1,0 +1,269 @@
+player_name,market_value,shots,goals,passes,total_minutes,sentiment_score,sentiment_label,total_days_out,games_missed,goal_conversion_rate,minutes_per_goal,performance_index,injury_risk_score,goals_per_90,shot_accuracy,availability_ratio,performance_tier_medium,performance_tier_high,performance_tier_elite,sentiment_positive_flag,sentiment_negative_flag,sentiment_strength_neutral,sentiment_strength_positive,sentiment_performance_interaction,injury_severity_medium,injury_severity_high
+aaron cresswell,3.6,7,0,396,1222,0.403473638,positive,22,4,0.0,1222.0,120.9,0.017988553,0.0,0.0,0.3816364772017489,False,False,True,1,0,False,True,48.779962834200006,False,False
+aaron ramsey,4.0,12,1,397,1411,0.0,neutral,569,94,0.083333333,1411.0,123.1,0.402974504,0.06378454996456415,0.08333333333333333,0.026814389692328158,False,False,True,0,0,True,False,0.0,False,True
+abdoulaye ba,60.0,1,0,45,167,0.0,neutral,0,0,0.0,167.0,13.8,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+abdoulaye doucouré,48.0,1,0,37,137,0.158548168,positive,187,32,0.0,137.0,11.4,1.355072464,0.0,0.0,0.008074497554075558,False,False,False,1,0,True,False,1.8074491151999998,False,True
+abdul rahman baba,16.0,4,0,228,783,0.0,neutral,64,14,0.0,783.0,69.6,0.081632653,0.0,0.0,0.11966987620357634,False,True,False,0,0,True,False,0.0,True,False
+abdón prats bastidas,7.2,1,0,3,23,0.0,neutral,0,0,0.0,23.0,1.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+abel ruiz ortega,24.0,1,0,12,60,0.0,neutral,0,0,0.0,60.0,3.9,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+adam smith,4.0,6,0,476,1649,0.153316,positive,97,15,0.0,1649.0,144.6,0.058787879,0.0,0.0,0.1588785046728972,False,False,True,1,0,True,False,22.1694936,False,True
+adnan januzaj,9.6,1,0,14,76,0.0,neutral,107,15,0.0,76.0,4.5,1.38961039,0.0,0.0,0.00783020811868947,False,False,False,0,0,True,False,0.0,False,True
+adrián embarba blázquez,8.0,5,0,51,291,0.0,neutral,0,0,0.0,291.0,16.8,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+adrián marín gómez,12.0,1,0,36,131,0.0,neutral,0,0,0.0,131.0,11.1,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+alberto moreno pérez,8.0,8,2,510,1593,0.0,neutral,0,0,0.25,796.5,156.2,0.0,0.11299435028248589,0.25,1.0,False,False,True,0,0,True,False,0.0,False,False
+alberto paloschi,1.0,3,0,52,261,0.0,neutral,0,0,0.0,261.0,16.5,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+aleix garcía serrano,160.0,1,0,53,195,0.0,neutral,0,0,0.0,195.0,16.2,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+alejandro gallar falguera,1.2,1,1,19,80,0.0,neutral,0,0,1.0,80.0,6.4,0.0,1.125,1.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+alejandro menéndez díez,40.0,4,0,34,217,0.0,neutral,0,0,0.0,217.0,11.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+alejandro pozo pozo,12.0,1,0,59,179,0.0,neutral,0,0,0.0,179.0,18.0,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+aleksandar katai,5.6,1,0,19,96,0.0,neutral,0,0,0.0,96.0,6.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+aleksandar mitrović,96.0,29,2,279,1564,0.0,neutral,119,24,0.068965517,782.0,93.2,0.076038339,0.11508951406649617,0.06896551724137931,0.12742382271468145,False,False,True,0,0,True,False,0.0,False,True
+alen halilović,6.4,3,0,70,289,0.0,neutral,0,0,0.0,289.0,21.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+alex iwobi,200.0,8,1,136,582,0.241637615,positive,71,14,0.125,582.0,43.6,0.121783877,0.15463917525773196,0.125,0.08347676419965576,False,True,False,1,0,False,True,10.535400014,True,False
+alex oxlade-chamberlain,12.0,2,0,68,260,0.113403621,positive,208,34,0.0,260.0,21.0,0.796934866,0.0,0.0,0.0136986301369863,True,False,False,1,0,True,False,2.381476041,False,True
+alex sandro lobo silva,12.0,1,0,47,155,0.0,neutral,0,0,0.0,155.0,14.4,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+alexander isak,960.0,7,1,35,203,0.214771162,positive,341,60,0.142857143,203.0,13.0,1.671568627,0.4433497536945813,0.14285714285714285,0.0065710678794548925,False,False,False,1,0,False,True,2.7920251059999996,False,True
+alexis alejandro sánchez sánchez,11.2,68,11,1068,4849,0.0,neutral,0,0,0.161764706,440.8181818,345.2,0.0,0.20416580738296558,0.16176470588235295,1.0,False,False,True,0,0,True,False,0.0,False,False
+aly cissokho,80.0,1,0,418,1180,0.0,neutral,0,0,0.0,1180.0,125.7,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+anaitz arbilla zabala,80.0,3,0,228,763,0.0,neutral,0,0,0.0,763.0,69.3,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+ander barrenetxea muguruza,160.0,3,0,21,147,0.0,neutral,0,0,0.0,147.0,7.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+ander herrera agüera,4.0,11,2,547,1967,0.0,neutral,0,0,0.181818182,983.5,168.2,0.0,0.09150991357397051,0.18181818181818182,1.0,False,False,True,0,0,True,False,0.0,False,False
+andrew robertson,96.0,1,0,94,280,0.099097074,positive,159,36,0.0,280.0,28.5,0.565836299,0.0,0.0,0.019191226867717615,True,False,False,1,0,True,False,2.824266609,False,True
+andros townsend,4.0,11,2,152,709,0.0,neutral,438,51,0.181818182,354.5,49.7,0.616901408,0.2538787023977433,0.18181818181818182,0.017668020633457102,False,True,False,0,0,True,False,0.0,False,True
+andré filipe tavares gomes,36.0,18,3,932,3656,0.0,neutral,0,0,0.166666667,1218.666667,286.2,0.0,0.07385120350109409,0.16666666666666666,1.0,False,False,True,0,0,True,False,0.0,False,False
+andré miguel valente silva,24.0,1,0,24,122,0.0,neutral,0,0,0.0,122.0,7.5,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+anssumane fati,80.0,27,5,451,2017,0.0,neutral,0,0,0.185185185,403.4,145.4,0.0,0.22310361923648986,0.18518518518518517,1.0,False,False,True,0,0,True,False,0.0,False,False
+ante budimir,24.0,4,2,37,213,0.0,neutral,125,22,0.5,106.5,13.1,0.58411215,0.8450704225352113,0.5,0.018581523161476054,False,False,False,0,0,True,False,0.0,False,True
+anthony martial,48.0,20,6,335,1789,0.214903667,positive,394,76,0.3,298.1666667,108.9,0.220111732,0.3018446059250978,0.3,0.04802813498348949,False,False,True,1,0,False,True,23.403009336300002,False,True
+antoine griezmann,88.0,66,9,1327,5316,0.0,neutral,181,34,0.136363636,590.6666667,421.5,0.034041753,0.1523702031602709,0.13636363636363635,0.24604276589836158,False,False,True,0,0,True,False,0.0,False,True
+antonio latorre grueso,12.0,1,0,68,211,0.0,neutral,0,0,0.0,211.0,20.7,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+armindo tué na bangna,40.0,4,0,8,46,0.0,neutral,0,0,0.0,46.0,3.6,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+arthur henrique ramos de oliveira melo,32.0,9,2,2044,6815,0.0,neutral,0,0,0.222222222,3407.5,616.7,0.0,0.02641232575201761,0.2222222222222222,1.0,False,False,True,0,0,True,False,0.0,False,False
+arturo erasmo vidal pardo,1.4,47,9,2615,9558,0.0,neutral,0,0,0.191489362,1062.0,802.2,0.0,0.0847457627118644,0.19148936170212766,1.0,False,False,True,0,0,True,False,0.0,False,False
+ashley westwood,3.2,11,0,459,1568,0.0,neutral,272,37,0.0,1568.0,141.0,0.173358827,0.0,0.0,0.060196560196560195,False,False,True,0,0,True,False,0.0,False,True
+ashley young,3.2,3,0,321,979,0.0867875,positive,60,11,0.0,979.0,97.2,0.06122449,0.0,0.0,0.15347233108637717,False,False,True,1,0,True,False,8.435745,True,False
+asier illarramendi andonegi,4.0,2,0,204,780,0.0,neutral,0,0,0.0,780.0,61.8,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+aymeric laporte,72.0,4,0,179,580,0.177959925,positive,152,27,0.0,580.0,54.9,0.2616179,0.0,0.0,0.04067321178120617,False,True,False,1,0,True,False,9.769999882499999,False,True
+ayoze pérez gutiérrez,48.0,18,1,275,1402,0.0,neutral,0,0,0.055555556,1402.0,88.3,0.0,0.06419400855920114,0.05555555555555555,1.0,False,False,True,0,0,True,False,0.0,False,False
+aïssa mandi,8.0,1,0,158,559,0.0,neutral,43,10,0.0,559.0,47.7,0.076785714,0.0,0.0,0.1262135922330097,False,True,False,0,0,True,False,0.0,True,False
+bakary sako,20.0,10,1,134,619,0.0,neutral,6,1,0.1,619.0,43.6,0.009677419,0.14539579967689822,0.1,0.5340811044003452,False,True,False,0,0,True,False,0.0,False,False
+ben davies,40.0,3,0,338,975,0.131817333,positive,335,60,0.0,975.0,102.3,0.343237705,0.0,0.0,0.03132530120481928,False,False,True,1,0,True,False,13.4849131659,False,True
+bernard mensah,17.6,1,0,2,25,0.0,neutral,0,0,0.0,25.0,0.9,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+bertrand isidore traoré,40.0,7,1,57,322,0.0,neutral,0,0,0.142857143,322.0,19.6,0.0,0.2795031055900621,0.14285714285714285,1.0,True,False,False,0,0,True,False,0.0,False,False
+borja gonzález tomás,3.6,1,0,38,252,0.0,neutral,0,0,0.0,252.0,11.7,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+borja iglesias quintas,24.0,3,0,56,283,0.0,neutral,0,0,0.0,283.0,17.7,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+borja mayoral moya,60.0,4,1,69,359,0.0,neutral,0,0,0.25,359.0,22.3,0.0,0.25069637883008355,0.25,1.0,True,False,False,0,0,True,False,0.0,False,False
+brais méndez portela,96.0,3,0,69,314,0.0,neutral,0,0,0.0,314.0,21.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+brendan joel zibusiso galloway,2.0,1,0,172,575,0.0,neutral,0,0,0.0,575.0,51.9,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+bryan oviedo,1.0,1,0,92,312,0.0,neutral,0,0,0.0,312.0,27.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+callum mcmanaman,40.0,5,0,60,268,0.0,neutral,0,0,0.0,268.0,19.5,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+callum wilson,40.0,3,1,41,349,0.171535833,positive,677,114,0.333333333,349.0,13.6,1.934285714,0.25787965616045844,0.3333333333333333,0.005695262651152924,False,False,False,1,0,True,False,2.3328873288,False,True
+cameron brannagan,4.8,1,0,108,375,0.0,neutral,0,0,0.0,375.0,32.7,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+carl jenkinson,60.0,3,2,233,692,0.0,neutral,0,0,0.666666667,346.0,71.6,0.0,0.26011560693641617,0.6666666666666666,1.0,False,True,False,0,0,True,False,0.0,False,False
+carles aleña castillo,24.0,12,2,628,2230,0.0,neutral,0,0,0.166666667,1115.0,192.8,0.0,0.08071748878923767,0.16666666666666666,1.0,False,False,True,0,0,True,False,0.0,False,False
+carles gil de pareja vicent,20.0,8,1,354,1428,0.0,neutral,0,0,0.125,1428.0,109.0,0.0,0.06302521008403361,0.125,1.0,False,False,True,0,0,True,False,0.0,False,False
+carles pérez sayol,14.4,2,0,91,336,0.0,neutral,0,0,0.0,336.0,27.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+carlos arturo bacca ahumada,40.0,8,1,72,393,0.0,neutral,0,0,0.125,393.0,24.4,0.0,0.22900763358778628,0.125,1.0,True,False,False,0,0,True,False,0.0,False,False
+carlos fernández luna,8.0,1,0,29,212,0.0,neutral,0,0,0.0,212.0,9.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+carlos henrique casimiro,64.0,13,2,417,1509,0.0,neutral,0,0,0.153846154,754.5,129.8,0.0,0.11928429423459244,0.15384615384615385,1.0,False,False,True,0,0,True,False,0.0,False,False
+carlos joaquín correa,24.0,1,0,31,183,0.0,neutral,0,0,0.0,183.0,9.6,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+carlos neva tey,8.0,1,0,26,73,0.0,neutral,0,0,0.0,73.0,8.1,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+carlos soler barragán,64.0,2,0,60,319,0.0,neutral,0,0,0.0,319.0,18.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+celso borges mora,1.2,4,0,136,516,0.0,neutral,0,0,0.0,516.0,42.0,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+chancel mbemba mangulu,20.0,4,0,370,1247,0.0,neutral,0,0,0.0,1247.0,112.2,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+cheikhou kouyaté,1.2,13,1,272,1071,0.00631875,neutral,44,6,0.076923077,1071.0,85.9,0.041044776,0.08403361344537816,0.07692307692307693,0.21288014311270126,False,False,True,1,0,True,False,0.542780625,True,False
+chris smalling,9.6,6,0,484,1510,0.0,neutral,421,82,0.0,1510.0,147.0,0.278623428,0.0,0.0,0.0383248730964467,False,False,True,0,0,True,False,0.0,False,True
+christian benteke liolo,12.0,17,4,199,1002,0.0,neutral,0,0,0.235294118,250.5,66.4,0.0,0.35928143712574845,0.23529411764705882,1.0,False,True,False,0,0,True,False,0.0,False,False
+christian dannemann eriksen,24.0,39,5,762,2664,0.0,neutral,0,0,0.128205128,532.8,242.3,0.0,0.16891891891891891,0.1282051282051282,1.0,False,False,True,0,0,True,False,0.0,False,False
+christian robert santos kwasniewski,20.0,2,0,31,136,0.0,neutral,0,0,0.0,136.0,9.9,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+chung-yong lee,2.0,3,0,90,341,0.0,neutral,0,0,0.0,341.0,27.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+claudio santos,5.2,1,0,27,98,0.0,neutral,0,0,0.0,98.0,8.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+clément lenglet,48.0,15,3,2832,8766,0.078811702,positive,50,11,0.2,2922.0,855.3,0.005703205,0.030800821355236138,0.2,0.66078697421981,False,False,True,1,0,True,False,67.4076487206,True,False
+craig dawson,7.2,9,0,459,1314,0.128461489,positive,145,28,0.0,1314.0,140.4,0.11026616,0.0,0.0,0.09147869674185463,False,False,True,1,0,True,False,18.035993055600002,False,True
+cristhian ricardo stuani curbelo,7.2,8,2,50,364,0.0,neutral,0,0,0.25,182.0,18.2,0.0,0.4945054945054945,0.25,1.0,True,False,False,0,0,True,False,0.0,False,False
+cristian portugués manzanera,12.0,3,0,59,396,0.0,neutral,0,0,0.0,396.0,18.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+cristiano ronaldo dos santos aveiro,96.0,67,8,404,1904,0.0,neutral,0,0,0.119402985,238.0,144.5,0.0,0.37815126050420167,0.11940298507462686,1.0,False,False,True,0,0,True,False,0.0,False,False
+cédric bakambu,11.2,7,2,38,218,0.0,neutral,6,1,0.285714286,109.0,14.3,0.02739726,0.8256880733944955,0.2857142857142857,0.287598944591029,True,False,False,0,0,True,False,0.0,False,False
+cédric ricardo alves soares,6.4,1,0,245,766,0.0,neutral,0,0,0.0,766.0,73.8,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+césar azpilicueta tanco,9.6,5,2,1028,2962,0.0,neutral,0,0,0.4,1481.0,310.7,0.0,0.06076975016880486,0.4,1.0,False,False,True,0,0,True,False,0.0,False,False
+daley blind,11.2,2,1,634,1845,0.0,neutral,0,0,0.5,1845.0,191.2,0.0,0.04878048780487805,0.5,1.0,False,False,True,0,0,True,False,0.0,False,False
+daniel carvajal ramos,56.0,3,0,737,2343,0.0,neutral,0,0,0.0,2343.0,222.0,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+daniel ceballos fernández,64.0,4,0,101,574,0.0,neutral,0,0,0.0,574.0,31.5,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+daniel garcía carrillo,6.4,1,0,255,934,0.0,neutral,0,0,0.0,934.0,76.8,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+daniel josé rodríguez vázquez,80.0,4,0,82,393,0.0,neutral,0,0,0.0,393.0,25.8,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+daniel nii tackie mensah welbeck,32.0,7,1,39,314,0.0,neutral,0,0,0.142857143,314.0,14.2,0.0,0.28662420382165604,0.14285714285714285,1.0,True,False,False,0,0,True,False,0.0,False,False
+daniel parejo muñoz,9.6,15,2,372,1598,0.0,neutral,0,0,0.133333333,799.0,116.9,0.0,0.11264080100125157,0.13333333333333333,1.0,False,False,True,0,0,True,False,0.0,False,False
+daniel wass,4.0,7,0,167,647,0.0,neutral,134,28,0.0,647.0,52.2,0.206790123,0.0,0.0,0.05091681750216416,False,True,False,0,0,True,False,0.0,False,True
+daniel william john ings,28.0,7,2,58,307,0.0,neutral,0,0,0.285714286,153.5,20.3,0.0,0.5863192182410424,0.2857142857142857,1.0,True,False,False,0,0,True,False,0.0,False,False
+daniele verde,6.0,2,0,32,148,0.0,neutral,90,14,0.0,148.0,10.2,0.604026846,0.0,0.0,0.017943743937924344,False,False,False,0,0,True,False,0.0,True,False
+danilo barbosa da silva,17.6,3,0,20,123,0.0,neutral,0,0,0.0,123.0,6.9,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+danilo luiz da silva,20.0,2,0,90,277,0.0,neutral,0,0,0.0,277.0,27.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+darko brašanac,3.2,1,0,19,79,0.0,neutral,0,0,0.0,79.0,6.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+darwin daniel machís marcano,3.6,6,0,50,340,0.0,neutral,0,0,0.0,340.0,16.8,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+david juncà reñé,1.2,1,0,134,397,0.0,neutral,0,0,0.0,397.0,40.5,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+david luiz moreira marinho,1.6,1,1,43,151,0.0,neutral,0,0,1.0,151.0,13.6,0.0,0.5960264900662252,1.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+david lópez silva,6.4,3,2,167,608,0.0,neutral,0,0,0.666666667,304.0,51.8,0.0,0.29605263157894735,0.6666666666666666,1.0,False,True,False,0,0,True,False,0.0,False,False
+david olatukunbo alaba,32.0,1,0,79,203,0.0,neutral,0,0,0.0,203.0,24.0,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+david remeseiro salgueiro,17.6,3,0,62,293,0.0,neutral,0,0,0.0,293.0,19.5,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+david simón rodríguez santana,40.0,1,0,37,149,0.0,neutral,0,0,0.0,149.0,11.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+dejan lovren,4.0,7,0,522,1583,0.0,neutral,75,6,0.0,1583.0,158.7,0.047348485,0.0,0.0,0.18996759870394817,False,False,True,0,0,True,False,0.0,True,False
+demarai gray,28.0,1,0,16,56,0.169053647,positive,43,8,0.0,56.0,5.1,0.754385965,0.0,0.0,0.014263881813550688,False,False,False,1,0,True,False,0.8621735997,True,False
+denis cheryshev,2.4,8,1,131,633,0.0,neutral,113,19,0.125,633.0,42.1,0.178233438,0.14218009478672985,0.125,0.05859483476811997,False,True,False,0,0,True,False,0.0,False,True
+denis suárez fernández,9.6,14,1,812,3105,0.0,neutral,0,0,0.071428571,3105.0,248.2,0.0,0.028985507246376812,0.07142857142857142,1.0,False,False,True,0,0,True,False,0.0,False,False
+deyverson brum silva acosta,3.2,9,1,47,294,0.0,neutral,0,0,0.111111111,294.0,17.2,0.0,0.30612244897959184,0.1111111111111111,1.0,True,False,False,0,0,True,False,0.0,False,False
+diego mario buonanotte rende,20.0,2,1,15,76,0.0,neutral,0,0,0.5,76.0,5.5,0.0,1.1842105263157894,0.5,1.0,False,False,False,0,0,True,False,0.0,False,False
+diego da silva costa,3.2,33,3,409,2280,0.0,neutral,0,0,0.090909091,760.0,133.8,0.0,0.11842105263157894,0.09090909090909091,1.0,False,False,True,0,0,True,False,0.0,False,False
+dimitri foulquier,9.6,1,0,137,577,0.0,neutral,160,18,0.0,577.0,41.4,0.276816609,0.0,0.0,0.03852573946718301,False,True,False,0,0,True,False,0.0,False,True
+dimitri payet,4.0,21,3,468,1675,0.0,neutral,95,12,0.142857143,558.3333333,147.9,0.056682578,0.16119402985074627,0.14285714285714285,0.16381418092909536,False,False,True,0,0,True,False,0.0,False,True
+divock okoth origi,4.0,10,3,85,580,0.0,neutral,0,0,0.3,193.3333333,29.7,0.0,0.46551724137931033,0.3,1.0,False,True,False,0,0,True,False,0.0,False,False
+duje čop,80.0,4,0,50,279,0.0,neutral,0,0,0.0,279.0,16.2,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+duncan watmore,4.0,10,1,98,755,0.0,neutral,0,0,0.1,755.0,32.8,0.0,0.11920529801324503,0.1,1.0,False,True,False,0,0,True,False,0.0,False,False
+dušan tadić,16.0,20,1,375,1558,0.0,neutral,0,0,0.05,1558.0,118.9,0.0,0.05776636713735558,0.05,1.0,False,False,True,0,0,True,False,0.0,False,False
+edgar antonio méndez ortega,2.0,4,0,104,565,0.0,neutral,0,0,0.0,565.0,32.4,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+eduardo expósito jaén,32.0,1,0,51,224,0.0,neutral,0,0,0.0,224.0,15.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+eliaquim mangala,1.2,5,1,248,832,0.0,neutral,66,8,0.2,832.0,76.3,0.079231693,0.10817307692307693,0.2,0.12285883047844064,False,True,False,0,0,True,False,0.0,True,False
+emiliano buendía,144.0,1,0,73,356,0.0,neutral,328,56,0.0,356.0,22.2,0.918767507,0.0,0.0,0.011915919132413978,True,False,False,0,0,True,False,0.0,False,True
+emiliano daniel velázquez maldonado,2.4,2,0,66,268,0.0,neutral,0,0,0.0,268.0,20.4,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+emmanuel okyere boateng,9.6,2,0,8,56,0.0,neutral,0,0,0.0,56.0,3.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+emre can,48.0,7,0,644,2260,0.0,neutral,318,54,0.0,2260.0,195.3,0.140645732,0.0,0.0,0.07318652849740932,False,False,True,0,0,True,False,0.0,False,True
+enes ünal,64.0,6,0,57,334,0.0,neutral,1017,136,0.0,334.0,18.9,3.035820896,0.0,0.0,0.0036358094574588523,True,False,False,0,0,True,False,0.0,False,False
+enis bardhi,24.0,6,0,107,426,0.0,neutral,0,0,0.0,426.0,33.9,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+enner remberto valencia lastra,12.0,8,2,81,582,0.0,neutral,0,0,0.25,291.0,27.5,0.0,0.30927835051546393,0.25,1.0,True,False,False,0,0,True,False,0.0,False,False
+enrique garcía martínez,6.4,4,0,39,265,0.0,neutral,0,0,0.0,265.0,12.9,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+enrique pérez muñoz,17.6,3,0,41,201,0.0,neutral,0,0,0.0,201.0,13.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+enzo nicolás pérez,1.2,1,0,130,533,0.0,neutral,0,0,0.0,533.0,39.3,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+enzo pablo roco roco,3.2,1,0,51,195,0.0,neutral,0,0,0.0,195.0,15.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+eric dier,56.0,10,0,805,2513,0.081591833,positive,176,27,0.0,2513.0,244.5,0.070007955,0.0,0.0,0.13692584318640005,False,False,True,1,0,True,False,19.949203168500002,False,True
+erick cathriel cabaco almada,2.0,2,0,37,106,0.0,neutral,0,0,0.0,106.0,11.7,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+erik pieters,1.2,5,0,636,1936,0.0,neutral,100,14,0.0,1936.0,192.3,0.051626226,0.0,0.0,0.17702999268471104,False,False,True,0,0,True,False,0.0,False,True
+fabio borini,1.6,20,3,265,1314,0.0,neutral,0,0,0.15,438.0,86.7,0.0,0.2054794520547945,0.15,1.0,False,False,True,0,0,True,False,0.0,False,False
+facundo sebastián roncaglia,20.0,1,0,40,133,0.0,neutral,0,0,0.0,133.0,12.3,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+faustino marcos alberto rojo,1.8,1,0,211,586,0.0,neutral,0,0,0.0,586.0,63.6,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+fayçal fajr,4.0,8,0,150,609,0.0,neutral,0,0,0.0,609.0,47.4,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+federico nicolás cartabia,10.4,6,0,43,219,0.0,neutral,0,0,0.0,219.0,14.7,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+federico santiago valverde dipetta,960.0,3,0,116,379,0.0,neutral,0,0,0.0,379.0,35.7,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+federico vico villegas,2.4,1,0,5,35,0.0,neutral,0,0,0.0,35.0,1.8,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+felipe salvador caicedo corozo,80.0,3,0,99,610,0.0,neutral,0,0,0.0,610.0,30.6,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+fernando francisco reges,4.0,5,0,267,969,0.0,neutral,0,0,0.0,969.0,81.6,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+florian grégoire claude lejeune,16.0,2,0,36,140,0.0,neutral,0,0,0.0,140.0,11.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+florian thauvin,40.0,4,0,98,384,0.0,neutral,202,32,0.0,384.0,30.6,0.524675325,0.0,0.0,0.02068519715578539,False,True,False,0,0,True,False,0.0,False,True
+florin andone,1.6,6,0,34,268,0.0,neutral,0,0,0.0,268.0,12.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+francisco alcácer garcía,20.0,23,6,218,1126,0.0,neutral,0,0,0.260869565,187.6666667,74.7,0.0,0.47957371225577267,0.2608695652173913,1.0,False,True,False,0,0,True,False,0.0,False,False
+francisco josé beltrán peinado,40.0,3,0,81,263,0.0,neutral,0,0,0.0,263.0,25.2,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+francisco josé olivas alba,1.4,2,1,151,511,0.0,neutral,0,0,0.5,511.0,46.3,0.0,0.1761252446183953,0.5,1.0,False,True,False,0,0,True,False,0.0,False,False
+francisco manuel vélez jiménez,1.2,1,0,14,64,0.0,neutral,0,0,0.0,64.0,4.5,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+francisco román alarcón suárez,32.0,10,0,493,1981,0.0,neutral,0,0,0.0,1981.0,150.9,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+franco damián vázquez,6.0,6,0,83,385,0.0,neutral,0,0,0.0,385.0,26.7,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+fredy hinestroza arias,1.4,2,0,37,194,0.0,neutral,0,0,0.0,194.0,11.7,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+frenkie de jong,360.0,3,1,1363,4556,0.0,neutral,373,69,0.333333333,4556.0,410.2,0.081852096,0.019754170324846356,0.3333333333333333,0.11949850495724702,False,False,True,0,0,True,False,0.0,False,True
+fábio henrique tavares,104.0,1,0,23,94,0.0,neutral,0,0,0.0,94.0,7.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+gabriel armando de abreu,5.6,5,0,388,1229,0.0,neutral,0,0,0.0,1229.0,117.9,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+gabriel iván mercado,1.2,2,1,43,183,0.0,neutral,0,0,0.5,183.0,13.9,0.0,0.4918032786885246,0.5,1.0,True,False,False,0,0,True,False,0.0,False,False
+gaku shibasaki,2.8,1,0,6,62,0.0,neutral,0,0,0.0,62.0,2.1,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+garry mendes rodrigues,2.6,4,0,44,285,0.0,neutral,0,0,0.0,285.0,14.4,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+gaël kakuta,2.8,2,0,76,370,0.0,neutral,154,21,0.0,370.0,23.4,0.41509434,0.0,0.0,0.02600140548137737,True,False,False,0,0,True,False,0.0,False,True
+geoffrey kondogbia,40.0,1,0,84,331,0.0,neutral,244,34,0.0,331.0,25.5,0.734939759,0.0,0.0,0.014849042214346598,True,False,False,0,0,True,False,0.0,False,True
+georginio wijnaldum,20.0,19,2,495,1984,0.0,neutral,232,48,0.105263158,992.0,155.0,0.116876574,0.0907258064516129,0.10526315789473684,0.0867739678096571,False,False,True,0,0,True,False,0.0,False,True
+gerard deulofeu lázaro,4.0,4,2,241,969,0.0,neutral,0,0,0.5,484.5,74.3,0.0,0.18575851393188852,0.5,1.0,False,True,False,0,0,True,False,0.0,False,False
+gerard moreno balaguero,22.4,7,1,151,766,0.0,neutral,0,0,0.142857143,766.0,47.8,0.0,0.1174934725848564,0.14285714285714285,1.0,False,True,False,0,0,True,False,0.0,False,False
+giovani lo celso,120.0,6,1,74,317,0.0,neutral,456,85,0.166666667,317.0,24.4,1.433962264,0.28391167192429023,0.16666666666666666,0.007664966027516503,True,False,False,0,0,True,False,0.0,False,True
+gonzalo escalante,4.0,8,0,171,762,0.0,neutral,159,27,0.0,762.0,53.7,0.208387942,0.0,0.0,0.050557324840764334,False,True,False,0,0,True,False,0.0,False,True
+guangtai jiang,5.2,1,0,53,151,0.0,neutral,0,0,0.0,151.0,16.2,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+guido marcelo carrillo,2.8,1,0,13,69,0.0,neutral,0,0,0.0,69.0,4.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+guilherme antonio arana lopes,56.0,1,0,49,147,0.0,neutral,0,0,0.0,147.0,15.0,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+harry kane,520.0,59,10,359,2002,0.180004,positive,65,12,0.169491525,200.2,129.4,0.032451323,0.44955044955044954,0.1694915254237288,0.25496688741721857,False,False,True,1,0,True,False,23.2925176,True,False
+hernâni jorge santos fortes,1.6,2,0,12,47,0.0,neutral,0,0,0.0,47.0,4.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+heung-min son,136.0,17,2,163,801,0.189538202,positive,181,41,0.117647059,400.5,54.8,0.225685786,0.2247191011235955,0.11764705882352941,0.0468667719852554,False,True,False,1,0,True,False,10.386693469599999,False,True
+hugo mallo novegil,4.0,5,0,375,1293,0.0,neutral,0,0,0.0,1293.0,114.0,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+héctor bellerín moruno,20.0,5,0,557,1731,0.0,neutral,0,0,0.0,1731.0,168.6,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+héctor junior firpo adames,48.0,5,1,796,2518,0.0,neutral,0,0,0.2,2518.0,240.7,0.0,0.03574265289912629,0.2,1.0,False,False,True,0,0,True,False,0.0,False,False
+héctor miguel herrera lópez,7.2,1,0,56,198,0.0,neutral,0,0,0.0,198.0,17.1,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+hélder filipe oliveira lopes,1.6,2,0,92,319,0.0,neutral,0,0,0.0,319.0,28.2,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+iago aspas juncal,14.4,15,3,161,772,0.0,neutral,0,0,0.2,257.3333333,54.0,0.0,0.34974093264248707,0.2,1.0,False,True,False,0,0,True,False,0.0,False,False
+iddrisu baba mohammed,8.0,1,0,45,185,0.0,neutral,0,0,0.0,185.0,13.8,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+idrissa gana gueye,8.0,5,0,548,2071,0.176136207,positive,0,0,0.0,2071.0,165.9,0.0,0.0,0.0,1.0,False,False,True,1,0,True,False,29.2209967413,False,False
+ivan ricardo neves abreu cavaleiro,4.0,2,0,38,209,0.0,neutral,0,0,0.0,209.0,12.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+iván lópez álvarez,6.4,1,0,16,94,0.0,neutral,0,0,0.0,94.0,5.1,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+iñaki williams arthuer,80.0,14,0,112,682,0.0,neutral,0,0,0.0,682.0,37.8,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+jack grealish,200.0,7,0,125,589,0.128382167,positive,154,32,0.0,589.0,39.6,0.261016949,0.0,0.0,0.04076406671741989,False,True,False,1,0,True,False,5.0839338132,False,True
+jaime mata arnaiz,80.0,2,1,41,275,0.0,neutral,0,0,0.5,275.0,13.3,0.0,0.32727272727272727,0.5,1.0,False,False,False,0,0,True,False,0.0,False,False
+jamaal lascelles,16.0,2,1,165,506,0.25912233,positive,682,92,0.5,506.0,50.5,1.345167653,0.17786561264822134,0.5,0.008176324209029506,False,True,False,1,0,False,True,13.085677665,False,True
+james david rodríguez rubio,16.0,11,1,92,372,0.0,neutral,0,0,0.090909091,372.0,31.3,0.0,0.24193548387096775,0.09090909090909091,1.0,False,True,False,0,0,True,False,0.0,False,False
+james mcclean,80.0,14,1,237,1081,0.0,neutral,0,0,0.071428571,1081.0,75.7,0.0,0.08325624421831637,0.07142857142857142,1.0,False,True,False,0,0,True,False,0.0,False,False
+james philip milner,6.0,18,2,766,2837,0.0,neutral,0,0,0.111111111,1418.5,236.0,0.0,0.06344730348960169,0.1111111111111111,1.0,False,False,True,0,0,True,False,0.0,False,False
+james ward-prowse,48.0,9,0,257,838,0.157784148,positive,15,3,0.0,838.0,79.8,0.017878427,0.0,0.0,0.3829981718464351,False,True,False,1,0,True,False,12.5911750104,False,False
+jamie vardy,8.0,32,5,241,1490,0.137403506,positive,148,28,0.15625,298.0,83.9,0.09926224,0.30201342281879195,0.15625,0.10060769750168805,False,False,True,1,0,True,False,11.528154153400001,False,True
+javier hernández balcázar,2.0,2,0,23,131,0.0,neutral,0,0,0.0,131.0,7.5,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+javier martínez aginaga,5.6,2,0,46,139,0.0,neutral,0,0,0.0,139.0,14.4,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+javier ontiveros parra,14.4,1,0,32,129,0.0,neutral,0,0,0.0,129.0,9.9,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+javier sánchez de felipe,6.4,1,0,28,91,0.0,neutral,0,0,0.0,91.0,8.7,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+jay rodriguez,2.4,1,0,17,111,0.0,neutral,0,0,0.0,111.0,5.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+jean-sylvain claude babin,40.0,3,0,75,248,0.0,neutral,0,0,0.0,248.0,23.4,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+jefferson andrés lerma solís,64.0,4,0,49,241,0.0,neutral,0,0,0.0,241.0,15.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+jeffrey schlupp,16.0,2,0,162,578,0.153771654,positive,86,14,0.0,578.0,49.2,0.148531952,0.0,0.0,0.06948785765809089,False,True,False,1,0,True,False,7.5655653768,True,False
+jeremie boga,64.0,1,0,6,37,0.0,neutral,0,0,0.0,37.0,2.1,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+jesse lingard,17.6,6,2,135,623,0.145396488,positive,113,32,0.333333333,311.5,43.1,0.181089744,0.28892455858747995,0.3333333333333333,0.05772259798017233,False,True,False,1,0,True,False,6.2665886328,False,True
+jesé rodríguez ruiz,2.4,4,0,64,307,0.0,neutral,0,0,0.0,307.0,20.4,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+joan jordán moreno,16.0,3,0,212,727,0.0,neutral,0,0,0.0,727.0,64.5,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+joan sastre vanrell,8.0,1,0,58,235,0.0,neutral,0,0,0.0,235.0,17.7,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+joaquín fernández moreno,8.0,1,0,102,349,0.0,neutral,0,0,0.0,349.0,30.9,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+joaquín oscar larrivey,8.0,7,1,52,271,0.0,neutral,0,0,0.142857143,271.0,18.1,0.0,0.33210332103321033,0.14285714285714285,1.0,True,False,False,0,0,True,False,0.0,False,False
+joe gomez,120.0,1,0,221,682,0.0,neutral,430,94,0.0,682.0,66.6,0.629575403,0.0,0.0,0.017317556243969325,False,True,False,0,0,True,False,0.0,False,True
+joel nathaniel campbell samuels,3.0,7,2,89,419,0.0,neutral,0,0,0.285714286,209.5,29.6,0.0,0.42959427207637235,0.2857142857142857,1.0,True,False,False,0,0,True,False,0.0,False,False
+joel ward,2.4,9,1,543,1687,0.097133333,positive,156,23,0.111111111,1687.0,166.0,0.092417062,0.053349140486069944,0.1111111111111111,0.10726775608825587,False,False,True,1,0,True,False,16.124133278,False,True
+john guidetti,2.0,3,2,48,275,0.0,neutral,0,0,0.666666667,137.5,16.1,0.0,0.6545454545454545,0.6666666666666666,1.0,True,False,False,0,0,True,False,0.0,False,False
+john stones,144.0,3,0,541,1660,0.159154333,positive,281,62,0.0,1660.0,163.2,0.169175196,0.0,0.0,0.06159554730983302,False,False,True,1,0,True,False,25.9739871456,False,True
+jon moncayola tollar,56.0,3,0,16,97,0.0,neutral,0,0,0.0,97.0,5.7,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+jonathan calleri,12.0,1,0,21,142,0.0,neutral,48,5,0.0,142.0,6.6,0.335664336,0.0,0.0,0.03182429403854774,False,False,False,0,0,True,False,0.0,True,False
+jonathan castro otto,20.0,1,0,213,770,0.0,neutral,0,0,0.0,770.0,64.2,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+jonathan howson,40.0,7,1,369,1473,0.0,neutral,0,0,0.142857143,1473.0,113.2,0.0,0.06109979633401222,0.14285714285714285,1.0,False,False,True,0,0,True,False,0.0,False,False
+jonathan javier rodríguez portillo,16.0,3,0,11,80,0.0,neutral,0,0,0.0,80.0,4.2,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+jonathan viera ramos,3.2,10,1,204,846,0.0,neutral,0,0,0.1,846.0,64.6,0.0,0.10638297872340426,0.1,1.0,False,True,False,0,0,True,False,0.0,False,False
+jonathan dos santos ramírez,2.8,3,0,123,551,0.0,neutral,0,0,0.0,551.0,37.8,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+jordan ayew,14.4,25,3,294,1718,0.130437645,positive,11,1,0.12,572.6666667,96.9,0.006399069,0.15715948777648428,0.12,0.6344165435745938,False,False,True,1,0,True,False,12.639407800499999,False,False
+jordan brian henderson,16.0,9,0,404,1357,0.0,neutral,0,0,0.0,1357.0,123.9,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+jordan veretout,28.0,6,0,225,788,0.0,neutral,116,26,0.0,788.0,69.3,0.147021546,0.0,0.0,0.07018168863555398,False,True,False,0,0,True,False,0.0,False,True
+jordi amat maas,4.8,2,0,90,298,0.0,neutral,0,0,0.0,298.0,27.6,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+jordon ibe,80.0,10,1,184,845,0.0,neutral,0,0,0.1,845.0,58.6,0.0,0.10650887573964497,0.1,1.0,False,True,False,0,0,True,False,0.0,False,False
+jordy clasie,9.6,5,0,248,794,0.0,neutral,0,0,0.0,794.0,75.9,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+jorge resurrección merodio,56.0,9,1,643,2380,0.0,neutral,0,0,0.111111111,2380.0,196.0,0.0,0.03781512605042017,0.1111111111111111,1.0,False,False,True,0,0,True,False,0.0,False,False
+josep señé escudero,1.2,1,0,39,193,0.0,neutral,0,0,0.0,193.0,12.0,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+josh onomah,2.4,1,0,17,61,0.0,neutral,92,12,0.0,61.0,5.4,1.483870968,0.0,0.0,0.007313271789953243,False,False,False,0,0,True,False,0.0,False,True
+joshua king,12.0,18,2,131,1021,0.0,neutral,44,9,0.111111111,510.5,45.5,0.043052838,0.1762977473065622,0.1111111111111111,0.2049789198956033,False,True,False,0,0,True,False,0.0,True,False
+josé antonio caro martínez,1.2,2,0,33,99,0.0,neutral,0,0,0.0,99.0,10.5,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+josé antonio delgado villar,60.0,3,0,98,407,0.0,neutral,0,0,0.0,407.0,30.3,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+josé antonio rodríguez díaz,6.4,2,0,25,169,0.0,neutral,0,0,0.0,169.0,8.1,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+josé ernesto sosa,60.0,1,0,27,140,0.0,neutral,0,0,0.0,140.0,8.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+josé ignacio fernández iglesias,14.4,1,0,85,248,0.0,neutral,0,0,0.0,248.0,25.8,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+josé ignacio martínez garcía,80.0,4,0,177,584,0.0,neutral,0,0,0.0,584.0,54.3,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+josé luis gayà peña,40.0,2,0,186,660,0.0,neutral,0,0,0.0,660.0,56.4,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+josé luis morales nogales,3.2,8,0,136,715,0.0,neutral,0,0,0.0,715.0,43.2,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+josé manuel arnáiz díaz,7.2,2,1,13,92,0.0,neutral,0,0,0.5,92.0,4.9,0.0,0.9782608695652174,0.5,1.0,False,False,False,0,0,True,False,0.0,False,False
+josé maría giménez de vargas,112.0,4,0,82,347,0.0,neutral,0,0,0.0,347.0,25.8,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+josé miguel da rocha fonte,80.0,8,0,514,1565,0.0,neutral,0,0,0.0,1565.0,156.6,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+josé rodríguez martínez,2.0,1,0,25,97,0.0,neutral,0,0,0.0,97.0,7.8,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+josé salomón rondón giménez,3.2,29,4,200,1374,0.0,neutral,0,0,0.137931034,343.5,70.3,0.0,0.26200873362445415,0.13793103448275862,1.0,False,True,False,0,0,True,False,0.0,False,False
+josé ángel pozo la rosa,3.2,1,0,17,83,0.0,neutral,0,0,0.0,83.0,5.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+joão félix sequeira,200.0,3,0,22,128,0.0,neutral,0,0,0.0,128.0,7.5,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+juan camilo hernández suárez,144.0,4,1,42,211,0.0,neutral,0,0,0.25,211.0,14.2,0.0,0.4265402843601896,0.25,1.0,True,False,False,0,0,True,False,0.0,False,False
+juan carlos paredes reasco,8.0,1,0,155,488,0.0,neutral,0,0,0.0,488.0,46.8,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+juan carlos pérez lópez,1.6,3,0,138,500,0.0,neutral,0,0,0.0,500.0,42.3,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+juan guillermo cuadrado bello,8.0,1,0,14,68,0.0,neutral,0,0,0.0,68.0,4.5,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+juan manuel iturbe arévalo,3.6,1,0,10,63,0.0,neutral,0,0,0.0,63.0,3.3,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+juan manuel mata garcía,3.0,22,2,551,1998,0.0,neutral,0,0,0.090909091,999.0,172.7,0.0,0.09009009009009009,0.09090909090909091,1.0,False,False,True,0,0,True,False,0.0,False,False
+juan miguel jiménez lópez,9.6,6,2,80,466,0.0,neutral,0,0,0.333333333,233.0,26.6,0.0,0.38626609442060084,0.3333333333333333,1.0,True,False,False,0,0,True,False,0.0,False,False
+juan pablo añor acosta,3.2,5,1,75,452,0.0,neutral,0,0,0.2,452.0,24.4,0.0,0.19911504424778761,0.2,1.0,True,False,False,0,0,True,False,0.0,False,False
+juan pedro ramírez lópez,4.0,1,0,72,244,0.0,neutral,0,0,0.0,244.0,21.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
+jules koundé,520.0,1,0,40,125,0.0,neutral,112,24,0.0,125.0,12.3,0.888888889,0.0,0.0,0.01224889759921607,False,False,False,0,0,True,False,0.0,False,True
+karim benzema,48.0,39,5,411,1867,0.0,neutral,96,20,0.128205128,373.4,137.0,0.051391863,0.241028387787895,0.1282051282051282,0.17769106310078994,False,False,True,0,0,True,False,0.0,False,True
+kelechi promise iheanacho,30.4,1,0,27,121,0.0,neutral,0,0,0.0,121.0,8.4,0.0,0.0,0.0,1.0,False,False,False,0,0,True,False,0.0,False,False
+kevin de bruyne,120.0,14,4,395,1433,0.181071667,positive,330,79,0.285714286,358.25,124.3,0.230125523,0.2512212142358688,0.2857142857142857,0.046028330067773744,False,False,True,1,0,True,False,22.5072082081,False,True
+kevin mbabu,24.0,1,0,53,207,0.0,neutral,135,24,0.0,207.0,16.2,0.649038462,0.0,0.0,0.016751638747268753,True,False,False,0,0,True,False,0.0,False,True
+kevin toner,1.2,2,0,112,354,0.0,neutral,0,0,0.0,354.0,34.2,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+kevin wimmer,3.2,1,0,276,779,0.0,neutral,0,0,0.0,779.0,83.1,0.0,0.0,0.0,1.0,False,True,False,0,0,True,False,0.0,False,False
+kieran trippier,20.0,2,1,286,763,0.150665731,positive,346,64,0.5,763.0,86.8,0.452879581,0.11795543905635648,0.5,0.023916246121054446,False,False,True,1,0,True,False,13.077785450799999,False,True
+kurt happy zouma,32.0,8,0,370,1140,0.0,neutral,0,0,0.0,1140.0,113.4,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+kyle naughton,40.0,2,0,610,1828,0.0,neutral,0,0,0.0,1828.0,183.6,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+kyle walker,20.0,8,0,615,1857,0.096542667,positive,170,35,0.0,1857.0,186.9,0.091496233,0.0,0.0,0.10823570554292708,False,False,True,1,0,True,False,18.0438244623,False,True
+leandro bacuna,2.0,9,0,451,1522,0.0,neutral,0,0,0.0,1522.0,138.0,0.0,0.0,0.0,1.0,False,False,True,0,0,True,False,0.0,False,False
+leandro daniel cabrera sasía,8.0,1,0,72,213,0.0,neutral,0,0,0.0,213.0,21.9,0.0,0.0,0.0,1.0,True,False,False,0,0,True,False,0.0,False,False
