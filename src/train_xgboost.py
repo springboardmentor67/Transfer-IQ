@@ -82,19 +82,28 @@ print(f"Test rows:  {len(X_test)}   (season 5)")
 
 # ------------------------------------------------
 # XGBoost model
+# Load tuned params if tune_xgboost.py has been run,
+# otherwise fall back to default params.
 # ------------------------------------------------
-model = XGBRegressor(
-    n_estimators=300,
-    learning_rate=0.03,
-    max_depth=4,
-    subsample=0.8,
-    colsample_bytree=0.7,
-    min_child_weight=20,
-    reg_alpha=0.1,
-    reg_lambda=1.0,
-    random_state=42,
-    verbosity=0,
-)
+import os
+if os.path.exists("dashboard/xgb_best_params.pkl"):
+    best_params = joblib.load("dashboard/xgb_best_params.pkl")
+    print("\n✅ Using tuned hyperparameters from tune_xgboost.py")
+    model = XGBRegressor(**best_params, random_state=42, verbosity=0)
+else:
+    print("\nUsing default hyperparameters (run tune_xgboost.py to optimise)")
+    model = XGBRegressor(
+        n_estimators=300,
+        learning_rate=0.03,
+        max_depth=4,
+        subsample=0.8,
+        colsample_bytree=0.7,
+        min_child_weight=20,
+        reg_alpha=0.1,
+        reg_lambda=1.0,
+        random_state=42,
+        verbosity=0,
+    )
 
 model.fit(X_train, y_train, eval_set=[(X_test, y_test)], verbose=False)
 

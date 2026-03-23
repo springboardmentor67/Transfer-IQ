@@ -10,7 +10,6 @@ import numpy as np
 import joblib
 from tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import mean_squared_error, mean_absolute_error
 
 st.set_page_config(page_title="TransferIQ Player Valuation Dashboard", layout="wide")
 st.title("⚽ TransferIQ Player Valuation Dashboard")
@@ -67,87 +66,55 @@ player_df     = df[df["player_name"] == player].sort_values("season_encoded").re
 latest_season = player_df["season_label"].iloc[-1]
 
 # ------------------------------------------------
-# Training vs Validation metrics
-# ------------------------------------------------
-@st.cache_data
-def compute_train_val_metrics():
-    try:
-        enriched = pd.read_csv("./data/processed/lstm_enriched.csv")
-        enriched = enriched.sort_values(["season_encoded", "player_name"]).reset_index(drop=True)
-        enriched["log_social_buzz"] = np.log1p(enriched["social_buzz_score"])
-        xgb_cols  = [f for f in xgb_features if f in enriched.columns]
-        xgb_raw   = np.maximum(xgb_model.predict(enriched[xgb_cols]), 0)
-        elite_mask = enriched["market_value_eur"].values >= 70e6
-        ens_preds  = np.where(elite_mask,
-            0.8 * enriched["lstm_pred"].values + 0.2 * xgb_raw,
-            0.1 * enriched["lstm_pred"].values + 0.9 * xgb_raw)
-        ens_preds = np.maximum(ens_preds, 0)
-        enriched["ensemble_pred"] = ens_preds
-        from sklearn.metrics import r2_score
-        season_labels = {3: "2021/22", 4: "2022/23", 5: "2023/24"}
-        records = []
-        for season_enc, label in season_labels.items():
-            rows = enriched[enriched["season_encoded"] == season_enc]
-            if len(rows) == 0:
-                continue
-            actual = rows["market_value_eur"].values
-            lstm_p = rows["lstm_pred"].values
-            ens_p  = rows["ensemble_pred"].values
-            split  = "Validation" if season_enc == 5 else "Training"
-            records.append({
-                "Season": label, "Split": split,
-                "LSTM RMSE":     round(np.sqrt(mean_squared_error(actual, lstm_p)) / 1e6, 2),
-                "Ensemble RMSE": round(np.sqrt(mean_squared_error(actual, ens_p))  / 1e6, 2),
-                "LSTM MAE":      round(mean_absolute_error(actual, lstm_p) / 1e6, 2),
-                "Ensemble MAE":  round(mean_absolute_error(actual, ens_p)  / 1e6, 2),
-            })
-        return pd.DataFrame(records)
-    except FileNotFoundError:
-        return None
-
-metrics_df = compute_train_val_metrics()
-
-# ------------------------------------------------
 # Layout
 # ------------------------------------------------
 col1, col2 = st.columns(2)
 
-# GRAPH 1 — Training vs Validation
+# ------------------------------------------------
+# GRAPH 1 — Market Value Trend (historical)
+# Simple, clean, easy to explain
+# ------------------------------------------------
 with col1:
-    if metrics_df is not None:
-        fig_tv = go.Figure()
-        fig_tv.add_trace(go.Scatter(x=metrics_df["Season"], y=metrics_df["LSTM RMSE"],
-            mode="lines+markers", name="LSTM RMSE (€M)",
-            line=dict(color="#b41f1f", width=2), marker=dict(size=8)))
-        fig_tv.add_trace(go.Scatter(x=metrics_df["Season"], y=metrics_df["Ensemble RMSE"],
-            mode="lines+markers", name="Ensemble RMSE (€M)",
-            line=dict(color="#1a50a3", width=2), marker=dict(size=8)))
-        fig_tv.add_trace(go.Scatter(x=metrics_df["Season"], y=metrics_df["LSTM MAE"],
-            mode="lines+markers", name="LSTM MAE (€M)",
-            line=dict(color="#b41f1f", width=1.5, dash="dot"), marker=dict(size=6)))
-        fig_tv.add_trace(go.Scatter(x=metrics_df["Season"], y=metrics_df["Ensemble MAE"],
-            mode="lines+markers", name="Ensemble MAE (€M)",
-            line=dict(color="#1a50a3", width=1.5, dash="dot"), marker=dict(size=6)))
-        val_seasons   = metrics_df[metrics_df["Split"] == "Validation"]["Season"].values
-        train_seasons = metrics_df[metrics_df["Split"] == "Training"]["Season"].values
-        if len(val_seasons) > 0 and len(train_seasons) > 0:
-            fig_tv.add_annotation(x=train_seasons[-1], yref="paper", y=0.97,
-                text="Training", showarrow=False,
-                font=dict(size=12, color="#888"), xanchor="center",
-                bgcolor="rgba(255,255,255,0.7)")
-            fig_tv.add_annotation(x=val_seasons[0], yref="paper", y=0.97,
-                text="Validation", showarrow=False,
-                font=dict(size=12, color="#1a50a3"), xanchor="center",
-                bgcolor="rgba(255,255,255,0.7)")
-        fig_tv.update_layout(title="Training vs Validation: RMSE & MAE (€M)",
-            xaxis_title="Season", yaxis_title="Error (€ Millions)", hovermode="x unified",
-            legend=dict(orientation="h", yanchor="bottom", y=-0.45, xanchor="center", x=0.5, font=dict(size=11)))
-        st.plotly_chart(fig_tv, width='stretch')
+    fig1 = go.Figure()
 
+    fig1.add_trace(go.Scatter(
+        x=player_df["season_label"],
+        y=player_df["market_value_eur"],
+        mode="lines+markers",
+        name="Market Value",
+        line=dict(color="#1a7340", width=2),
+        marker=dict(size=9),
+        fill="tozeroy",
+        fillcolor="rgba(26,115,64,0.08)",
+    ))
+
+    # Annotate each point with value
+    for _, row in player_df.iterrows():
+        fig1.add_annotation(
+            x=row["season_label"],
+            y=row["market_value_eur"],
+            text=f"€{row['market_value_eur']/1e6:.1f}M",
+            showarrow=False,
+            yshift=14,
+            font=dict(size=11, color="#1a7340"),
+        )
+
+    fig1.update_layout(
+        title="Historical Market Value",
+        xaxis_title="Season",
+        yaxis_title="Value (EUR)",
+        hovermode="x unified",
+        showlegend=False,
+    )
+    st.plotly_chart(fig1, width='stretch')
+
+# ------------------------------------------------
 # GRAPH 2 — Sentiment Trend
+# ------------------------------------------------
 with col2:
     fig2 = px.line(player_df, x="season_label", y="vader_compound_score",
-        markers=True, title="Public Sentiment Trend", color_discrete_sequence=["#1a7340"])
+        markers=True, title="Public Sentiment Trend",
+        color_discrete_sequence=["#1a7340"])
     fig2.update_layout(xaxis_title="Season", yaxis_title="Sentiment Score (−1 to 1)")
     st.plotly_chart(fig2, width='stretch')
 
@@ -174,60 +141,96 @@ for step in range(3):
     new_row[0] = float(pred_scaled[0][0])
     seq        = np.vstack([seq[1:], new_row])
 
-lstm_selected = future_preds_lstm[future_idx]
-lstm_raw      = future_preds_raw[future_idx]
+# Ensemble predictions for all 3 future seasons
+latest_row = player_df.iloc[-1]
+last_known = float(player_df["market_value_eur"].iloc[-1])
 
-# GRAPH 3 — LSTM Forecast
+ensemble_preds = []
+for s_idx in range(3):
+    fd = {
+        "lstm_pred":                future_preds_raw[s_idx],
+        "current_age":              latest_row.get("current_age", np.nan),
+        "age_decay_factor":         latest_row.get("age_decay_factor", np.nan),
+        "position_encoded":         latest_row.get("position_encoded", np.nan),
+        "season_encoded":           5 + s_idx + 1,
+        "attacking_output_index":   latest_row.get("attacking_output_index", np.nan),
+        "injury_burden_index":      latest_row.get("injury_burden_index", np.nan),
+        "availability_rate":        latest_row.get("availability_rate", np.nan),
+        "goals_per90":              latest_row.get("goals_per90", np.nan),
+        "assists_per90":            latest_row.get("assists_per90", np.nan),
+        "goal_contributions_per90": latest_row.get("goal_contributions_per90", np.nan),
+        "minutes_played":           latest_row.get("minutes_played", np.nan),
+        "pass_accuracy_pct":        latest_row.get("pass_accuracy_pct", np.nan),
+        "vader_compound_score":     latest_row.get("vader_compound_score", np.nan),
+        "log_social_buzz":          float(np.log1p(latest_row.get("social_buzz_score", 0))),
+    }
+    xgb_cols  = [f for f in xgb_features if f in fd]
+    xgb_inp   = pd.DataFrame([[fd[f] for f in xgb_cols]], columns=xgb_cols)
+    xgb_raw_v = float(xgb_model.predict(xgb_inp)[0])
+    xgb_raw_v = max(xgb_raw_v, 0)
+    lstm_v    = future_preds_lstm[s_idx]
+    if last_known >= 70e6:
+        ens_v = 0.8 * lstm_v + 0.2 * xgb_raw_v
+    else:
+        ens_v = 0.1 * lstm_v + 0.9 * xgb_raw_v
+    ens_v = max(ens_v, 0)
+    ens_v = float(np.clip(ens_v, last_known * 0.60, last_known * 1.40))
+    ensemble_preds.append(ens_v)
+
+lstm_selected  = future_preds_lstm[future_idx]
+final_pred     = ensemble_preds[future_idx]
+
+# ------------------------------------------------
+# GRAPH 3 — LSTM Forecast (forecast only, no historical line)
+# ------------------------------------------------
 with col2:
-    connect_x = [latest_season] + future_seasons_all
-    connect_y = [float(player_df["market_value_eur"].iloc[-1])] + future_preds_lstm
+    last_actual   = float(player_df["market_value_eur"].iloc[-1])
+    connect_x     = [latest_season] + future_seasons_all
+    connect_y_l   = [last_actual] + future_preds_lstm
+    connect_y_e   = [last_actual] + ensemble_preds
+
     fig4 = go.Figure()
-    fig4.add_trace(go.Scatter(x=player_df["season_label"], y=player_df["market_value_eur"],
-        mode="lines+markers", name="Actual", line=dict(color="#1a7340")))
-    fig4.add_trace(go.Scatter(x=connect_x, y=connect_y,
-        mode="lines+markers", name="LSTM Forecast", line=dict(color="#b41f1f", dash="dash")))
-    fig4.update_layout(title="LSTM Multi-Step Forecast",
-        xaxis_title="Season", yaxis_title="Value (EUR)", hovermode="x unified")
+
+    # LSTM forecast line
+    fig4.add_trace(go.Scatter(
+        x=connect_x, y=connect_y_l,
+        mode="lines+markers", name="LSTM Forecast",
+        line=dict(color="#b41f1f", dash="dash", width=2),
+        marker=dict(size=7),
+    ))
+
+    # Ensemble forecast line
+    fig4.add_trace(go.Scatter(
+        x=connect_x, y=connect_y_e,
+        mode="lines+markers", name="Ensemble Forecast",
+        line=dict(color="#1a50a3", width=2),
+        marker=dict(size=7),
+    ))
+
+    # Highlight selected season — use add_shape (add_vline breaks on categorical x-axis)
+    fig4.add_shape(
+        type="line", xref="x", yref="paper",
+        x0=future_season_choice, x1=future_season_choice,
+        y0=0, y1=1,
+        line=dict(color="#888", width=1.5, dash="dot"),
+    )
+    fig4.add_annotation(
+        x=future_season_choice, yref="paper", y=1.04,
+        text="Selected", showarrow=False,
+        font=dict(size=11, color="#009933"), xanchor="center",
+    )
+
+    fig4.update_layout(
+        title="Market Value Forecast (Future Seasons)",
+        xaxis_title="Season", yaxis_title="Value (EUR)", hovermode="x unified",
+        legend=dict(orientation="h", yanchor="bottom", y=-0.25,
+                    xanchor="center", x=0.5),
+    )
     st.plotly_chart(fig4, width='stretch')
 
-st.sidebar.metric(label=f"LSTM Prediction ({future_season_choice})", value=f"€{lstm_selected:,.0f}")
-
-# ------------------------------------------------
-# XGBoost Ensemble prediction
-# ------------------------------------------------
-latest_row = player_df.iloc[-1]
-feature_dict = {
-    "lstm_pred":                lstm_raw,
-    "current_age":              latest_row.get("current_age", np.nan),
-    "age_decay_factor":         latest_row.get("age_decay_factor", np.nan),
-    "position_encoded":         latest_row.get("position_encoded", np.nan),
-    "season_encoded":           5 + future_idx + 1,
-    "attacking_output_index":   latest_row.get("attacking_output_index", np.nan),
-    "injury_burden_index":      latest_row.get("injury_burden_index", np.nan),
-    "availability_rate":        latest_row.get("availability_rate", np.nan),
-    "goals_per90":              latest_row.get("goals_per90", np.nan),
-    "assists_per90":            latest_row.get("assists_per90", np.nan),
-    "goal_contributions_per90": latest_row.get("goal_contributions_per90", np.nan),
-    "minutes_played":           latest_row.get("minutes_played", np.nan),
-    "pass_accuracy_pct":        latest_row.get("pass_accuracy_pct", np.nan),
-    "vader_compound_score":     latest_row.get("vader_compound_score", np.nan),
-    "log_social_buzz":          float(np.log1p(latest_row.get("social_buzz_score", 0))),
-}
-xgb_input_cols = [f for f in xgb_features if f in feature_dict]
-xgb_input      = pd.DataFrame([[feature_dict[f] for f in xgb_input_cols]], columns=xgb_input_cols)
-xgb_raw    = float(xgb_model.predict(xgb_input)[0])
-xgb_raw    = max(xgb_raw, 0)
-
-last_known = float(player_df["market_value_eur"].iloc[-1])
-if last_known >= 70e6:
-    final_pred = 0.8 * lstm_selected + 0.2 * xgb_raw
-else:
-    final_pred = 0.1 * lstm_selected + 0.9 * xgb_raw
-
-final_pred = max(final_pred, 0)
-final_pred = float(np.clip(final_pred, last_known * 0.60, last_known * 1.40))
-
-st.sidebar.metric(label=f"Ensemble Value ({future_season_choice})", value=f"€{final_pred:,.0f}")
+# Sidebar metrics
+st.sidebar.metric(label=f"LSTM Prediction ({future_season_choice})",    value=f"€{lstm_selected:,.0f}")
+st.sidebar.metric(label=f"Ensemble Value ({future_season_choice})",     value=f"€{final_pred:,.0f}")
 
 diff = final_pred - lstm_selected
 if diff >= 0:
@@ -235,17 +238,34 @@ if diff >= 0:
 else:
     st.sidebar.info(f"Ensemble adjusted by −€{abs(diff):,.0f}")
 
-# GRAPH 4 — Model Comparison
+# ------------------------------------------------
+# GRAPH 4 — Model Comparison Bar Chart
+# ------------------------------------------------
 with col1:
-    actual_value  = float(player_df["market_value_eur"].iloc[-1])
-    comparison_df = pd.DataFrame({
-        "Type":  ["Actual (last season)", "LSTM Prediction", "Ensemble Prediction"],
-        "Value": [actual_value, lstm_selected, final_pred],
+    comp_data = pd.DataFrame({
+        "Season": future_seasons_all * 2,
+        "Model":  ["LSTM"] * 3 + ["Ensemble"] * 3,
+        "Value":  future_preds_lstm + ensemble_preds,
     })
-    fig_comp = px.bar(comparison_df, x="Type", y="Value", text_auto=".3s",
-        title=f"Model Comparison ({future_season_choice})", color="Type",
-        color_discrete_map={"Actual (last season)": "#1a7340",
-                            "LSTM Prediction": "#b41f1f",
-                            "Ensemble Prediction": "#1a50a3"})
-    fig_comp.update_layout(yaxis_title="Market Value (EUR)", xaxis_title="", showlegend=False)
+
+    fig_comp = px.bar(
+        comp_data, x="Season", y="Value", color="Model",
+        barmode="group", text_auto=".3s",
+        title=f"Model Comparison ({future_season_choice})",
+        color_discrete_map={"LSTM": "#b41f1f", "Ensemble": "#1a50a3"},
+    )
+
+    # Highlight selected season
+    fig_comp.add_vrect(
+        x0=future_idx - 0.4, x1=future_idx + 0.4,
+        fillcolor="rgba(26,115,64,0.1)",
+        layer="below", line_width=0,
+    )
+
+    fig_comp.update_layout(
+        yaxis_title="Market Value (EUR)", xaxis_title="",
+        legend=dict(orientation="h", yanchor="bottom", y=-0.25,
+                    xanchor="center", x=0.5),
+        hovermode="x unified",
+    )
     st.plotly_chart(fig_comp, width='stretch')
