@@ -4,17 +4,21 @@ import numpy as np
 import os
 import joblib
 import matplotlib.pyplot as plt
+import matplotlib.patches as mpatches
+import matplotlib.gridspec as gridspec
+import seaborn as sns
 import xgboost as xgb
 import torch
 import torch.nn as nn
-import time
+import warnings
+warnings.filterwarnings("ignore")
 
-# --- Page Config ---
+# ── Page Config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="AI Player Value Predictor",
+    page_title="TransferIQ – AI Player Value Predictor",
     page_icon="⚽",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed",
 )
 
 # --- Validating Local Paths ---
@@ -40,6 +44,34 @@ st.markdown("""
         padding: 15px;
         border-radius: 10px;
         box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    }
+
+    /* Force readable selectbox text/options across themes */
+    section[data-testid="stSidebar"] [data-baseweb="select"] > div {
+        background-color: #ffffff;
+        color: #111111;
+        border: 1px solid #cbd5e1;
+    }
+
+    section[data-testid="stSidebar"] [data-baseweb="select"] input {
+        color: #111111 !important;
+        -webkit-text-fill-color: #111111 !important;
+    }
+
+    section[data-testid="stSidebar"] [data-baseweb="select"] span {
+        color: #111111 !important;
+    }
+
+    div[role="listbox"] {
+        background-color: #ffffff !important;
+    }
+
+    div[role="option"] {
+        color: #111111 !important;
+    }
+
+    div[role="option"]:hover {
+        background-color: #f1f5f9 !important;
     }
 </style>
 """, unsafe_allow_html=True)
