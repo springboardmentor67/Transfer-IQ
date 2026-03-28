@@ -394,8 +394,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
-<div align="center">
-  <strong>Built with ❤️ by the TransferIQ Team</strong>
-  <br>
-  <sub>AI-Powered Football Analytics</sub>
-</div>
+
