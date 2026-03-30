@@ -1,0 +1,19 @@
+{
+  "n_players": 1000,
+  "n_seasons": 5,
+  "seasons": [
+    "2019/20",
+    "2020/21",
+    "2021/22",
+    "2022/23",
+    "2023/24"
+  ],
+  "positions": [
+    "Defender",
+    "Forward",
+    "Midfielder"
+  ],
+  "n_train_rows": 2000,
+  "n_val_rows": 1000,
+  "val_season": "2023/24"
+}

@@ -1,0 +1,6 @@
+model,r2,mape,dir_acc,rmse,mae
+LSTM Avg (baseline),99.94,11.92,99.5,1100625,884806
+XGBoost only,99.99,0.55,99.9,317964,110801
+LightGBM only,99.98,2.4,100.0,656687,236235
+Ensemble (LSTM×0.6 + XGBoost×0.4),99.05,12.5,97.25,4205388,2810512
+Ensemble (LSTM×0.6 + LightGBM×0.4),99.04,12.53,97.25,4240735,2809960

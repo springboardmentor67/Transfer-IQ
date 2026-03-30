@@ -1,0 +1,58 @@
+Loading dataset, LSTM aligned predictions, and XGBoost artifacts...
+Building next-season target rows and XGBoost features...
+Generating XGBoost predictions for all next-season rows...
+Merged rows: 600 (LSTM rows: 600)
+
+===== VAL =====
+
+XGBoost
+  RMSE: 0.06779
+  MAE : 0.03868
+  R^2 : 0.99751
+
+LSTM
+  RMSE: 0.78207
+  MAE : 0.51375
+  R^2 : 0.66816
+
+AvgEnsemble
+  RMSE: 0.41223
+  MAE : 0.27006
+  R^2 : 0.90780
+
+WAvg(w_xgb=0.60)
+  RMSE: 0.33875
+  MAE : 0.22136
+  R^2 : 0.93774
+
+===== TEST =====
+
+XGBoost
+  RMSE: 0.06279
+  MAE : 0.03724
+  R^2 : 0.99787
+
+LSTM
+  RMSE: 0.71764
+  MAE : 0.49852
+  R^2 : 0.72208
+
+AvgEnsemble
+  RMSE: 0.37782
+  MAE : 0.26245
+  R^2 : 0.92297
+
+WAvg(w_xgb=0.60)
+  RMSE: 0.31034
+  MAE : 0.21527
+  R^2 : 0.94803
+
+Meta(LinearReg) [trained on val, tested on test]
+  RMSE: 0.05341
+  MAE : 0.03180
+  R^2 : 0.99846
+
+Best model on TEST by RMSE: Meta(LinearReg) (0.05341)
+
+Saved meta-model to: outputs/ensemble\meta_model.pkl
+Saved plots to: outputs/ensemble
