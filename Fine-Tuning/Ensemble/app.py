@@ -1,12 +1,8 @@
 import os
-import pickle
 import numpy as np
 import pandas as pd
 import streamlit as st
 import plotly.express as px
-import plotly.graph_objects as go
-import xgboost as xgb
-import tensorflow as tf
 
 st.set_page_config(
     page_title="Football Scout AI",
