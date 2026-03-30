@@ -1,5 +1,6 @@
 # 🚀 Transfer IQ
 ### AI-Powered Football Player Transfer Evaluation System
+[Live Website] (https://transfer-iq-mxzp4hrweetarjadmas8fn.streamlit.app)
 
 ## 📌 Overview
 Transfer IQ is an intelligent system designed to assist football managers, analysts, and scouts in evaluating player transfers using data-driven insights and predictive modeling.
@@ -66,8 +67,10 @@ Transfer-IQ/
 ## 1️⃣ Clone the repository
 Bash
 ```
-git clone [https://github.com/Vaibhav5012/Transfer-IQ.git](https://github.com/Vaibhav5012/Transfer-IQ.git)
+git clone https://github.com/Vaibhav5012/Transfer-IQ.git
 ```
+
+
 ## 2️⃣ Create virtual environment (recommended)
 
 Bash
