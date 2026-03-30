@@ -1,4 +1,9 @@
-# Transfer-IQ: Player Market Value Intelligence
+# 🚀 Transfer-IQ: Player Market Value Intelligence
+
+## 🌐 Live App  
+### 👉 https://transfer-iq.streamlit.app/
+
+---
 
 ## 📌 Project Overview
 Transfer-IQ is a data-driven analytics project that predicts and analyzes football player market value by integrating multi-source data including performance metrics, injury history, and social media sentiment.
