@@ -155,6 +155,7 @@ def get_ensemble_preds(player_name, future_seasons_all):
 
     for i in range(3):
         fd = {
+            "lstm_pred": last_val,  # dummy (model expects it)
             "current_age": latest_row.get("current_age", np.nan),
             "age_decay_factor": latest_row.get("age_decay_factor", np.nan),
             "position_encoded": latest_row.get("position_encoded", np.nan),
@@ -171,8 +172,7 @@ def get_ensemble_preds(player_name, future_seasons_all):
             "log_social_buzz": float(np.log1p(latest_row.get("social_buzz_score", 0))),
         }
 
-        cols = [f for f in xgb_features if f in fd]
-        xin = pd.DataFrame([[fd[f] for f in cols]], columns=cols)
+        xin = pd.DataFrame([fd])[xgb_features]
 
         pred = float(max(xgb_model.predict(xin)[0], 0))
         pred = float(np.clip(pred, last_val * 0.6, last_val * 1.4))
