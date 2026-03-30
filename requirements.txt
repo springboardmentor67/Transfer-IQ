@@ -1,15 +1,7 @@
 numpy
 pandas
-matplotlib
-seaborn
 scikit-learn
 xgboost
-tensorflow
-keras
 streamlit
 plotly
-nltk
-transformers
-torch
-beautifulsoup4
-requests
+joblib
