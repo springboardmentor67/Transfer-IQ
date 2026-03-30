@@ -9,7 +9,6 @@ import plotly.graph_objects as go
 import plotly.express as px
 import numpy as np
 import joblib
-from tensorflow.keras.models import load_model
 from sklearn.preprocessing import MinMaxScaler
 
 st.set_page_config(
