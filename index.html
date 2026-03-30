@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TransferIQ — Football Player Explorer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="top-bar">
+    <div class="logo">
+      <div class="logo-icon">⚽</div>
+      <span>TransferIQ</span>
+    </div>
+    <span class="logo-sub">Football Player Value Explorer</span>
+
+  </div>
+
+  <!-- TAB: PLAYER EXPLORER -->
+  <div id="tabPlayer">
+    <div class="page-layout">
+      <aside class="left-panel">
+        <div class="intro-box">
+          <h2>👋 Welcome</h2>
+          <p>Search for a player, browse their stats across seasons — then hit <strong>Predict Next Season</strong> to forecast their 2024/25 value.</p>
+        </div>
+
+        <div class="picker-section">
+          <label>🔍 Search Player</label>
+          <div class="search-box-wrapper">
+            <input type="text" id="playerSearch" placeholder="Type a player name..." autocomplete="off" />
+            <ul id="searchSuggestions" class="suggestions-list"></ul>
+          </div>
+          <div style="margin-top:10px;"><span style="font-size:0.74rem;color:var(--text-3);">— or browse from list —</span></div>
+          <select id="playerSelect"><option value="">-- Browse all players --</option></select>
+        </div>
+
+        <div class="sidebar-divider"></div>
+
+        <div class="picker-section" id="seasonWrapper" style="display:none;">
+          <label>📅 Choose a Season</label>
+          <select id="seasonSelect"><option value="">-- Select a season --</option></select>
+        </div>
+      </aside>
+
+      <main class="right-panel">
+        <div class="predict-bar" id="predictBar" style="display:none;">
+          <div class="predict-bar-info" id="predictBarInfo"></div>
+          <button class="predict-btn" id="predictBtn" onclick="runPredict()">
+            Predict Next Season
+          </button>
+        </div>
+        <div class="hint-box" id="hintBox">👈 Search or select a player on the left to get started.</div>
+        <div id="playerDetails" style="display:none;"></div>
+        <div id="predictionResults" style="display:none;"></div>
+      </main>
+    </div>
+  </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
