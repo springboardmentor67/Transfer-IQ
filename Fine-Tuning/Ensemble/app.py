@@ -41,7 +41,8 @@ st.markdown("""
 # -------------------------------------------------------------------
 @st.cache_data
 def load_data():
-    path = "player_transfer_value_with_sentiment.csv"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(base_dir, "player_transfer_value_with_sentiment.csv")
     if not os.path.exists(path):
         st.error(f"Dataset not found at {path}")
         return pd.DataFrame()
@@ -57,7 +58,8 @@ def load_data():
 
 @st.cache_data
 def load_predictions():
-    path = "outputs/ensemble/ensemble_predictions_val_test.csv"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    path = os.path.join(base_dir, "outputs", "ensemble", "ensemble_predictions_val_test.csv")
     if os.path.exists(path):
         return pd.read_csv(path)
     return pd.DataFrame()
