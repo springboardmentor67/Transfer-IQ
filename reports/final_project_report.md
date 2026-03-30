@@ -1,9 +1,9 @@
 # Final Model Evaluation Report
 
 ## Performance Metrics (RMSE)
-LSTM RMSE: 0.000920
+LSTM RMSE: 0.001140
 XGBoost RMSE: 0.002900
-Ensemble RMSE: 0.001898
+Ensemble RMSE: 0.001199
 
 
 ## artifacts
