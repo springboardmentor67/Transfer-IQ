@@ -1,7 +1,20 @@
-numpy
-pandas
-scikit-learn
-xgboost
-streamlit
-plotly
-joblib
+# Core
+numpy==1.26.4
+pandas==2.2.2
+
+# Visualization (FIXED COMPATIBILITY)
+matplotlib==3.8.4
+plotly==5.22.0
+seaborn==0.13.2
+altair==4.2.2   # ✅ IMPORTANT FIX
+
+# Machine Learning
+scikit-learn==1.4.2
+xgboost==2.0.3
+
+# Streamlit (UPDATED)
+streamlit==1.35.0   # ✅ Use modern version
+
+# Utilities
+joblib==1.4.2
+requests==2.32.3
