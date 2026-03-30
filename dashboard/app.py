@@ -9,7 +9,6 @@ import plotly.graph_objects as go
 import plotly.express as px
 import numpy as np
 import joblib
-from sklearn.preprocessing import MinMaxScaler
 
 st.set_page_config(
     page_title="TransferIQ",
@@ -123,16 +122,12 @@ def load_data():
 xgb_model = load_models()
 df = load_data()
 
-lstm_features = ["market_value_eur","attacking_output_index","injury_burden_index",
-                 "availability_rate","vader_compound_score","social_buzz_score"]
 xgb_features  = ["lstm_pred","current_age","age_decay_factor","position_encoded",
                   "season_encoded","attacking_output_index","injury_burden_index",
                   "availability_rate","goals_per90","assists_per90",
                   "goal_contributions_per90","minutes_played","pass_accuracy_pct",
                   "vader_compound_score","log_social_buzz"]
 
-scaler = MinMaxScaler()
-scaler.fit(df[lstm_features])
 
 all_players = sorted(df["player_name"].unique())
 
@@ -150,34 +145,20 @@ if "season" not in st.session_state:
 # Ensemble prediction helper
 # ------------------------------------------------
 def get_ensemble_preds(player_name, future_seasons_all):
-    p_df      = df[df["player_name"] == player_name].sort_values("season_encoded").reset_index(drop=True)
-    last_val  = float(p_df["market_value_eur"].iloc[-1])
-    latest_s  = p_df["season_label"].iloc[-1]
+    p_df = df[df["player_name"] == player_name].sort_values("season_encoded").reset_index(drop=True)
 
-    scaled = scaler.transform(p_df[lstm_features])
-    seq    = scaled[-3:].copy()
-    lstm_raw_list, lstm_cap_list = [], []
-
-    for step in range(3):
-        ps  = lstm_model.predict(seq.reshape(1,3,len(lstm_features)), verbose=0)
-        pad = np.zeros((1, len(lstm_features)-1))
-        pe  = float(scaler.inverse_transform(np.concatenate([ps,pad],axis=1))[0,0])
-        pe  = max(pe, 0)
-        lstm_raw_list.append(pe)
-        lv  = last_val if step==0 else lstm_cap_list[-1]
-        lstm_cap_list.append(float(np.clip(pe, lv*0.70, lv*1.40)))
-        nr = seq[-1].copy(); nr[0] = float(ps[0][0])
-        seq = np.vstack([seq[1:], nr])
-
+    last_val = float(p_df["market_value_eur"].iloc[-1])
+    latest_s = p_df["season_label"].iloc[-1]
     latest_row = p_df.iloc[-1]
-    ens_list   = []
-    for s_idx in range(3):
+
+    preds = []
+
+    for i in range(3):
         fd = {
-            "lstm_pred": lstm_raw_list[s_idx],
             "current_age": latest_row.get("current_age", np.nan),
             "age_decay_factor": latest_row.get("age_decay_factor", np.nan),
             "position_encoded": latest_row.get("position_encoded", np.nan),
-            "season_encoded": 5 + s_idx + 1,
+            "season_encoded": 5 + i + 1,
             "attacking_output_index": latest_row.get("attacking_output_index", np.nan),
             "injury_burden_index": latest_row.get("injury_burden_index", np.nan),
             "availability_rate": latest_row.get("availability_rate", np.nan),
@@ -189,15 +170,16 @@ def get_ensemble_preds(player_name, future_seasons_all):
             "vader_compound_score": latest_row.get("vader_compound_score", np.nan),
             "log_social_buzz": float(np.log1p(latest_row.get("social_buzz_score", 0))),
         }
-        cols = [f for f in xgb_features if f in fd]
-        xin  = pd.DataFrame([[fd[f] for f in cols]], columns=cols)
-        xv   = float(max(xgb_model.predict(xin)[0], 0))
-        lv   = lstm_cap_list[s_idx]
-        ev   = 0.8*lv + 0.2*xv if last_val >= 70e6 else 0.1*lv + 0.9*xv
-        ev   = float(np.clip(max(ev,0), last_val*0.60, last_val*1.40))
-        ens_list.append(ev)
 
-    return p_df, last_val, latest_s, ens_list
+        cols = [f for f in xgb_features if f in fd]
+        xin = pd.DataFrame([[fd[f] for f in cols]], columns=cols)
+
+        pred = float(max(xgb_model.predict(xin)[0], 0))
+        pred = float(np.clip(pred, last_val * 0.6, last_val * 1.4))
+
+        preds.append(pred)
+
+    return p_df, last_val, latest_s, preds
 
 # ================================================
 # HOME PAGE
@@ -395,6 +377,6 @@ elif st.session_state.page == "player":
 st.markdown("""
 <div class="footer">
     TransferIQ &nbsp;|&nbsp; Football Player Market Value Prediction &nbsp;|&nbsp;
-    Ensemble Model (LSTM + XGBoost) &nbsp;|&nbsp; 2026
+    XGBoost Prediction Model &nbsp;|&nbsp; 2026
 </div>
 """, unsafe_allow_html=True)
