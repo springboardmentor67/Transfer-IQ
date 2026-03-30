@@ -362,29 +362,24 @@ Once the backend is running, view interactive docs at:
 *(Values are approximate and depend on data generation seed)*
 
 ---
-
 ## 🌐 Deployment
 
-### Frontend → Vercel
+### 🚀 Live Application
+
+- 🌍 **Frontend (Netlify):**  
+  https://agent-69ca9e0dfc584a295653694e--transfer-iq.netlify.app/
+
+- ⚙️ **Backend (Render):**  
+  Deployed using FastAPI on Render (REST API with ML models)
+
+---
+
+### Frontend Deployment → Netlify
+
 ```bash
 cd frontend
 npm run build
-# Deploy via Vercel CLI or GitHub integration
-vercel --prod
-```
-
-### Backend → Render
-1. Push code to GitHub
-2. Create new Web Service on Render
-3. Set build command: `pip install -r requirements.txt && python train_pipeline.py`
-4. Set start command: `cd api && uvicorn main:app --host 0.0.0.0 --port $PORT`
-5. Add environment variables from `.env`
-
-### Using `render.yaml` Blueprint
-```bash
-# One-click deploy with render.yaml
-# Push to GitHub, then import blueprint on Render dashboard
-```
+# Deploy via Netlify (drag & drop or GitHub integration)
 
 ---
 
