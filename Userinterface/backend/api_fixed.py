@@ -4,7 +4,22 @@ import pandas as pd
 import numpy as np
 import os
 import joblib
+import os
+import sys
 
+# Get the correct base path for Render
+if 'RENDER' in os.environ:
+    # On Render, the working directory is the repo root
+    base_path = os.getcwd()
+    # Go up one level if needed (since root directory is set to Userinterface/backend)
+    if os.path.basename(base_path) == 'backend':
+        base_path = os.path.dirname(base_path)
+else:
+    # Local development
+    base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+
+# Now use base_path for all file paths
+player_data_path = os.path.join(base_path, 'player_data.csv')
 app = Flask(__name__)
 CORS(app)
 
