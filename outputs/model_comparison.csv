@@ -1,0 +1,4 @@
+Model,RMSE,MAE
+Univariate LSTM,3.49,2.1
+Multivariate LSTM,3.12,1.85
+Encoder-Decoder LSTM,3.05,1.79

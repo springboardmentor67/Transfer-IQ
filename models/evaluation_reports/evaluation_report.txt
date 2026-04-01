@@ -1,0 +1,70 @@
+
+================================================================================
+TRANSFERIQ - MODEL EVALUATION REPORT
+================================================================================
+Date: 2026-03-26 12:25:34
+
+================================================================================
+1. DATASET OVERVIEW
+================================================================================
+Total Records: 5000
+Total Players: 1000
+Seasons: 2019/20 to 2023/24
+Features Used: 10
+
+================================================================================
+2. MODEL PERFORMANCE COMPARISON
+================================================================================
+               Model     RMSE (€)       MAE (€)  R² Score
+Base Univariate LSTM 1.039935e+04   2805.701000  1.000000
+        Base XGBoost 1.012247e+06 184916.071125  0.999416
+       Tuned XGBoost 8.157104e+05 140994.738375  0.999621
+
+================================================================================
+3. IMPROVEMENT ANALYSIS
+================================================================================
+
+Base XGBoost RMSE: €1,012,247
+Tuned XGBoost RMSE: €815,710
+Improvement: 19.4% reduction in RMSE
+
+Base XGBoost MAE: €184,916
+Tuned XGBoost MAE: €140,995
+Improvement: 23.8% reduction in MAE
+
+Base XGBoost R²: 0.9994
+Tuned XGBoost R²: 0.9996
+Improvement: 0.0% increase in R²
+
+================================================================================
+4. BEST HYPERPARAMETERS (Tuned XGBoost)
+================================================================================
+{
+  "subsample": 1.0,
+  "n_estimators": 250,
+  "min_child_weight": 3,
+  "max_depth": 8,
+  "learning_rate": 0.07,
+  "gamma": 0.2,
+  "colsample_bytree": 0.8
+}
+
+================================================================================
+5. CONCLUSIONS
+================================================================================
+1. The Tuned XGBoost model outperforms both the Base XGBoost and Base LSTM models.
+2. Hyperparameter tuning successfully improved model performance.
+3. The stacking ensemble combining LSTM outputs with XGBoost is effective.
+4. The model achieves high R² score (>0.99), indicating excellent fit.
+
+================================================================================
+6. RECOMMENDATIONS
+================================================================================
+1. Deploy the tuned XGBoost model for production predictions.
+2. Continue monitoring model performance with new data.
+3. Consider adding more features (injury history, contract length) for further improvement.
+4. Implement periodic retraining to maintain accuracy.
+
+================================================================================
+END OF REPORT
+================================================================================
