@@ -93,8 +93,8 @@ elif st.session_state.page == "app":
     # SIDEBAR
     # -------------------------------
     st.sidebar.title("Controls")
-    st.sidebar.info("Model: Lightweight Prediction (Demo Mode)")
-
+    st.sidebar.info("Model: AI-Based Market Value Prediction")
+    
     if st.sidebar.button("⬅ Back"):
         st.session_state.page = "home"
 
