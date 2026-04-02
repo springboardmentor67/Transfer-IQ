@@ -77,6 +77,19 @@ async function fetchPlayersWithFallback(params) {
   }
 }
 
+async function predictWithFallback(payload) {
+  try {
+    const primary = await axios.post(`${API_BASE}/predict`, payload);
+    return primary.data;
+  } catch {
+    if (FALLBACK_API_BASE === API_BASE) {
+      throw new Error('Primary API unavailable');
+    }
+    const fallback = await axios.post(`${FALLBACK_API_BASE}/predict`, payload);
+    return fallback.data;
+  }
+}
+
 function App() {
   const [players, setPlayers] = useState([]);
   const [leagueOptions, setLeagueOptions] = useState([]);
@@ -185,7 +198,7 @@ function App() {
       }
 
       // Call POST /predict with player's features
-      const predRes = await axios.post(`${API_BASE}/predict`, {
+      const predData = await predictWithFallback({
         age: player.age || 0,
         goals: player.goals || 0,
         assists: player.assists || 0,
@@ -195,7 +208,7 @@ function App() {
       });
       
       // Mock stats data (create trend from prediction)
-      const rawPred = Number(predRes.data.value || predRes.data.predicted_transfer_value || 0);
+      const rawPred = Number(predData.value || predData.predicted_transfer_value || 0);
       const normalizedPred = rawPred > 0 && rawPred < 10000 ? rawPred * 1000000 : rawPred;
       const goals = Number(player.goals || 0);
       const assists = Number(player.assists || 0);
@@ -210,12 +223,12 @@ function App() {
       
       setStats(mockStats);
       setPrediction({
-        ...predRes.data,
+        ...predData,
         player_id: player.player_id,
         player_name: player.name,
         predicted_value: normalizedPred,
         predicted_transfer_value: normalizedPred,
-        confidence_score: predRes.data.confidence_score || predRes.data.confidence || 0.88,
+        confidence_score: predData.confidence_score || predData.confidence || 0.88,
       });
     } catch (err) {
       setError(err.response?.data?.detail || "Error fetching player prediction.");
