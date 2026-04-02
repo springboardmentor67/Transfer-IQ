@@ -366,11 +366,8 @@ Once the backend is running, view interactive docs at:
 
 ### 🚀 Live Application
 
-- 🌍 **Frontend (Netlify):**  
+- 🌍 **Frontend and ** Backend (Netlify):**  
   https://agent-69ca9e0dfc584a295653694e--transfer-iq.netlify.app/
-
-- ⚙️ **Backend (Render):**  
-  Deployed using FastAPI on Render (REST API with ML models)
 
 ---
 
