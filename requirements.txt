@@ -4,3 +4,4 @@ numpy
 plotly
 scikit-learn
 xgboost
+tensorflow==2.12.0
