@@ -1,0 +1,601 @@
+actual_log_market_value,lstm_predictions,split,player_id,target_season,target_season_encoded
+15.2018,15.312951,val,Joaquín Fernández Moreno,2023/24,5.0
+15.2018,15.2359915,val,Joaquín José Marín Ruiz,2023/24,5.0
+15.2018,15.349154,val,Joaquín Navarro Jiménez,2023/24,5.0
+15.2018,15.255129,val,Joaquín Sánchez Rodríguez,2023/24,5.0
+15.2018,15.218312,val,Joel Robles Blázquez,2023/24,5.0
+15.2018,15.24842,val,Johan Andrés Mojica Palacio,2023/24,5.0
+15.2018,15.285367,val,Jon Ander Garrido Moracia,2023/24,5.0
+15.2018,15.344966,val,Jon Bautista Orgilles,2023/24,5.0
+15.2018,15.377938,val,Jon Moncayola Tollar,2023/24,5.0
+15.2018,15.327205,val,Jon Morcillo Conesa,2023/24,5.0
+16.7517,17.472794,val,Jonas Bruno,2023/24,5.0
+17.38,17.439178,val,Jonas Costa,2023/24,5.0
+15.2018,15.375208,val,Jonathan Calleri,2023/24,5.0
+15.2018,15.346421,val,Jonathan Rodríguez Menéndez,2023/24,5.0
+15.9903,16.417356,val,Jordi Alba Ramos,2023/24,5.0
+15.2018,15.235167,val,Jordi Masip López,2023/24,5.0
+15.2018,15.304711,val,Jorge Andújar Moreno,2023/24,5.0
+15.2018,15.197212,val,Jorge De Frutos Sebastián,2023/24,5.0
+15.3841,15.340827,val,Jorge Miramón Santagertrudis,2023/24,5.0
+15.3841,15.544051,val,Jorge Molina Vidal,2023/24,5.0
+15.2018,15.324541,val,Jorge Pulido Mayoral,2023/24,5.0
+15.2018,15.282691,val,Jorge Resurrección Merodio,2023/24,5.0
+15.2018,15.315666,val,Joseph Aidoo,2023/24,5.0
+15.2018,15.293711,val,José Andrés Guardado Hernández,2023/24,5.0
+15.2018,15.343459,val,José Antonio Miranda Boacho,2023/24,5.0
+15.2018,15.289294,val,José Antonio Morente Oliva,2023/24,5.0
+15.2018,15.270093,val,José Antonio Rodríguez Díaz,2023/24,5.0
+15.2018,15.309741,val,José Ignacio Fernández Iglesias,2023/24,5.0
+15.2018,15.271304,val,José Ignacio Martínez García,2023/24,5.0
+15.2018,15.271176,val,José Ignacio Peleteiro Ramallo,2023/24,5.0
+15.2018,15.315499,val,José Luis Gayà Peña,2023/24,5.0
+15.3841,15.286811,val,José Luis Morales Nogales,2023/24,5.0
+15.2018,15.377677,val,José Luis Sanmartín Mato,2023/24,5.0
+15.2018,15.331613,val,José Manuel Fontán Mondragón,2023/24,5.0
+15.2018,15.299315,val,José Manuel Rodríguez Benito,2023/24,5.0
+15.2018,15.316077,val,José Manuel Sánchez Guillén,2023/24,5.0
+15.2018,15.295451,val,José María Giménez de Vargas,2023/24,5.0
+15.2018,15.338378,val,José María Martín-Bejarano Serrano,2023/24,5.0
+15.2018,15.307699,val,José Ramiro Funes Mori,2023/24,5.0
+15.2018,15.298881,val,José Raúl Gutiérrez Parejo,2023/24,5.0
+15.2018,15.319736,val,João Félix Sequeira,2023/24,5.0
+15.2018,15.288416,val,João Pedro Neves Filipe,2023/24,5.0
+15.2018,15.267674,val,Juan Antonio Iglesias Sánchez,2023/24,5.0
+15.2018,15.324132,val,Juan Camilo Hernández Suárez,2023/24,5.0
+15.2018,15.308306,val,Juan Carlos Real Ruiz,2023/24,5.0
+15.2018,15.356275,val,Juan Francisco Martínez Modesto,2023/24,5.0
+15.2018,15.319272,val,Juan Marcos Foyth,2023/24,5.0
+15.2018,15.3463125,val,Juan Miguel Jiménez López,2023/24,5.0
+17.6821,17.464092,val,Jude Andersen,2023/24,5.0
+18.8114,17.313595,val,Jude Kaczmarek,2023/24,5.0
+17.6592,17.45021,val,Jude Pereira,2023/24,5.0
+17.0069,17.499859,val,Jude Taylor,2023/24,5.0
+15.5731,17.488873,val,Jude Weber,2023/24,5.0
+15.2018,15.2603445,val,Jules Koundé,2023/24,5.0
+17.5859,17.483536,val,Julian Keita,2023/24,5.0
+17.6487,17.47289,val,Julian Leroy,2023/24,5.0
+18.7842,17.437263,val,Julian Milinkovic,2023/24,5.0
+17.5237,17.491388,val,Julian Nilsen,2023/24,5.0
+17.8069,17.429417,val,Julian Savic,2023/24,5.0
+18.0699,17.498632,val,Kai Kaminski,2023/24,5.0
+17.5306,17.503601,val,Kai Kowalczyk,2023/24,5.0
+18.1671,17.489597,val,Kai Lopez,2023/24,5.0
+18.6744,17.413918,val,Kai Marino,2023/24,5.0
+17.4152,17.476328,val,Kai Meyer,2023/24,5.0
+17.7253,17.483002,val,Kai Pavlovic,2023/24,5.0
+17.6666,17.495354,val,Kai Schneider,2023/24,5.0
+18.2636,17.227669,val,Kai Wozniak,2023/24,5.0
+17.8889,17.439445,val,Kamil Bernard,2023/24,5.0
+17.6617,17.430952,val,Kamil Hoffmann,2023/24,5.0
+18.8065,17.507011,val,Kamil Kowalczyk,2023/24,5.0
+18.0994,17.478094,val,Kamil Sylla,2023/24,5.0
+17.8387,17.43827,val,Kamil Tadic,2023/24,5.0
+18.0853,17.425146,val,Kamil Wojcik,2023/24,5.0
+15.2018,15.248078,val,Kang-In Lee,2023/24,5.0
+15.5383,15.759061,val,Karim Benzema,2023/24,5.0
+15.2018,15.332662,val,Karim Rekik,2023/24,5.0
+17.4634,17.466692,val,Karol Christensen,2023/24,5.0
+17.072,17.221409,val,Karol Costa,2023/24,5.0
+16.8748,17.492805,val,Karol Coulibaly,2023/24,5.0
+18.2866,17.455708,val,Karol Richard,2023/24,5.0
+18.2418,17.46664,val,Karol Romano,2023/24,5.0
+17.308,17.476324,val,Karol Schmidt,2023/24,5.0
+17.0842,17.485775,val,Karol Thomas,2023/24,5.0
+15.2018,15.323804,val,Kenan Kodro,2023/24,5.0
+18.6398,17.338459,val,Kevin Cisse,2023/24,5.0
+15.2018,15.32894,val,Kevin Gameiro,2023/24,5.0
+16.5978,17.452831,val,Kevin Garcia,2023/24,5.0
+18.3848,17.44793,val,Kevin Martins,2023/24,5.0
+18.0373,17.332481,val,Kevin Moreau,2023/24,5.0
+15.8789,17.495876,val,Kevin Piotrowski,2023/24,5.0
+18.405,17.476173,val,Kevin Savic,2023/24,5.0
+18.7474,17.347816,val,Kevin Schneider,2023/24,5.0
+18.4684,17.46292,val,Kevin Sousa,2023/24,5.0
+15.2018,15.361733,val,Kevin Vázquez Comesaña,2023/24,5.0
+18.0802,17.486399,val,Kevin Williams,2023/24,5.0
+17.6512,17.436932,val,Kevin Wozniak,2023/24,5.0
+15.2018,15.231063,val,Kieran Trippier,2023/24,5.0
+17.6058,17.460377,val,Kristian Costa,2023/24,5.0
+18.137,17.489983,val,Kristian Grujic,2023/24,5.0
+17.8631,17.48443,val,Kristian Lewandowski,2023/24,5.0
+18.94,17.460474,val,Kristian Robert,2023/24,5.0
+16.799,16.954697,val,Kristian Rodriguez,2023/24,5.0
+18.3643,17.232248,val,Kristian Schulz,2023/24,5.0
+18.6128,17.499744,val,Kylian Bianchi,2023/24,5.0
+18.1047,17.427872,val,Kylian Colombo,2023/24,5.0
+19.1652,17.243658,val,Kylian Diallo,2023/24,5.0
+18.0951,17.50581,val,Kylian Greco,2023/24,5.0
+18.0282,17.468836,val,Kylian Meyer,2023/24,5.0
+17.4771,17.342422,val,Kylian Moreau,2023/24,5.0
+17.5909,17.465185,val,Kylian Muller,2023/24,5.0
+16.813,17.49918,val,Kylian Nilsen,2023/24,5.0
+17.0941,17.504341,val,Kylian Robert,2023/24,5.0
+16.6692,17.453072,val,Kylian Schulz,2023/24,5.0
+16.0003,16.790333,val,Kylian Sousa,2023/24,5.0
+15.2018,15.357692,val,Laureano Antonio Villa Suárez,2023/24,5.0
+17.4758,17.300941,val,Leon Mitrovic,2023/24,5.0
+17.7588,17.45509,val,Leon Robert,2023/24,5.0
+17.5609,17.425009,val,Leon Rodrigues,2023/24,5.0
+18.5643,17.398056,val,Leon Zielinski,2023/24,5.0
+17.429,17.492573,val,Leroy Alvarez,2023/24,5.0
+18.1838,17.469194,val,Leroy Camara,2023/24,5.0
+16.8059,17.48791,val,Leroy Cisse,2023/24,5.0
+18.361,17.489264,val,Leroy Davies,2023/24,5.0
+14.7921,17.434494,val,Leroy Kaminski,2023/24,5.0
+17.8567,17.433977,val,Leroy Pedersen,2023/24,5.0
+17.399,17.435282,val,Lionel Andrés Messi Cuccittini,2023/24,5.0
+18.1001,17.498331,val,Lorenzo Becker,2023/24,5.0
+19.1182,17.477665,val,Lorenzo Diallo,2023/24,5.0
+18.3122,17.372795,val,Lorenzo Hoffmann,2023/24,5.0
+15.3841,15.428046,val,Lorenzo Jesús Morón García,2023/24,5.0
+16.3664,17.466068,val,Lorenzo Lukic,2023/24,5.0
+17.9299,17.47969,val,Lorenzo Richard,2023/24,5.0
+17.5991,17.180458,val,Lorenzo Schulz,2023/24,5.0
+17.564,17.490852,val,Lorenzo Smith,2023/24,5.0
+17.4241,17.40998,val,Luca Fischer,2023/24,5.0
+18.0075,17.34795,val,Luca Hansen,2023/24,5.0
+18.1647,17.483604,val,Luca Marino,2023/24,5.0
+18.6536,17.323683,val,Luca Martin,2023/24,5.0
+18.3887,17.432615,val,Luca Muller,2023/24,5.0
+18.4185,17.421377,val,Luca Petit,2023/24,5.0
+18.412,17.490278,val,Luca Rossi,2023/24,5.0
+15.0241,17.49759,val,Lucas Alvarez,2023/24,5.0
+15.2018,15.323011,val,Lucas Ariel Boyé,2023/24,5.0
+15.2018,15.32132,val,Lucas Ariel Ocampos,2023/24,5.0
+16.5234,17.503052,val,Lucas Bernard,2023/24,5.0
+18.25,17.42735,val,Lucas Fernandez,2023/24,5.0
+16.6336,17.43092,val,Lucas Fischer,2023/24,5.0
+18.1108,17.464445,val,Lucas Garcia,2023/24,5.0
+18.8811,17.442831,val,Lucas Larsen,2023/24,5.0
+13.9021,17.470816,val,Lucas Martins,2023/24,5.0
+15.2018,15.292029,val,Lucas Pérez Martínez,2023/24,5.0
+15.2018,15.317542,val,Lucas René Olaza Catrofe,2023/24,5.0
+18.2609,17.463444,val,Lucas Tadic,2023/24,5.0
+15.2018,15.317459,val,Lucas Torró Marset,2023/24,5.0
+15.3841,15.332252,val,Lucas Vázquez Iglesias,2023/24,5.0
+18.5494,17.490513,val,Lucas Zielinski,2023/24,5.0
+15.2018,15.35587,val,Luis Alberto Suárez Díaz,2023/24,5.0
+15.2018,15.289805,val,Luis Alfonso Espino García,2023/24,5.0
+15.2018,15.373343,val,Luis Javier Suárez Charris,2023/24,5.0
+15.5383,15.644851,val,Luis Jesús Rioja González,2023/24,5.0
+16.37,17.472618,val,Luis Jovic,2023/24,5.0
+15.2018,15.335216,val,Luis Miguel Sánchez Benítez,2023/24,5.0
+15.2018,15.234856,val,Luis Milla Manzanares,2023/24,5.0
+18.1845,17.474346,val,Luis Sousa,2023/24,5.0
+17.8767,17.42997,val,Luis Wozniak,2023/24,5.0
+17.8832,17.47699,val,Luis Zielinski,2023/24,5.0
+17.1068,17.415121,val,Luka Bianchi,2023/24,5.0
+19.3195,17.435085,val,Luka Cisse,2023/24,5.0
+18.4093,17.474133,val,Luka Esposito,2023/24,5.0
+15.3841,15.408536,val,Luka Modrić,2023/24,5.0
+18.2828,17.374102,val,Luka Savic,2023/24,5.0
+17.3971,17.47284,val,Luka Traore,2023/24,5.0
+15.3841,15.509659,val,Luuk de Jong,2023/24,5.0
+15.2018,15.333327,val,Manuel Agudo Durán,2023/24,5.0
+15.2018,15.268428,val,Manuel Alejandro García Sánchez,2023/24,5.0
+15.2018,15.2080555,val,Manuel Javier Vallejo Galván,2023/24,5.0
+15.2018,15.330751,val,Manuel Sánchez De La Peña,2023/24,5.0
+15.2018,15.319112,val,Manuel Trigueros Muñoz,2023/24,5.0
+15.2018,15.258075,val,Marc Bartra Aregall,2023/24,5.0
+15.2018,15.332202,val,Marc Cucurella Saseta,2023/24,5.0
+15.2018,15.09743,val,Marc-André ter Stegen,2023/24,5.0
+15.2018,15.349302,val,Marcelo Vieira da Silva Júnior,2023/24,5.0
+15.2018,15.294748,val,Marco Asensio Willemsen,2023/24,5.0
+18.6565,17.456944,val,Marco Davies,2023/24,5.0
+17.7355,17.49949,val,Marco Larsen,2023/24,5.0
+18.3072,17.462158,val,Marco Lewandowski,2023/24,5.0
+15.959,17.462578,val,Marco Lukic,2023/24,5.0
+18.355,17.465103,val,Marco Roberts,2023/24,5.0
+17.9567,17.335567,val,Marco Tadic,2023/24,5.0
+18.231,17.445965,val,Marco Torres,2023/24,5.0
+15.5559,17.46637,val,Marco Williams,2023/24,5.0
+15.2018,15.298376,val,Marcos André de Sousa Mendonça,2023/24,5.0
+15.2018,15.286987,val,Marcos Javier Acuña,2023/24,5.0
+15.2018,15.280559,val,Marcos Llorente Moreno,2023/24,5.0
+15.2018,15.33807,val,Marcos Mauro López Gutiérrez,2023/24,5.0
+17.6892,17.503738,val,Marcus Esposito,2023/24,5.0
+17.706,17.489891,val,Marcus Larsen,2023/24,5.0
+17.786,17.353394,val,Marcus Richard,2023/24,5.0
+17.9074,17.498325,val,Marcus Silva,2023/24,5.0
+18.0464,17.41248,val,Marcus Szymanski,2023/24,5.0
+18.1817,17.469206,val,Marcus Traore,2023/24,5.0
+15.2018,15.297721,val,Mariano Díaz Mejía,2023/24,5.0
+15.2018,15.375613,val,Mario Gaspar Pérez Martínez,2023/24,5.0
+15.2018,15.334481,val,Mario Hermoso Canseco,2023/24,5.0
+16.8655,17.426594,val,Martin Bernard,2023/24,5.0
+15.7896,15.200688,val,Martin Braithwaite Christensen,2023/24,5.0
+13.3777,17.471718,val,Martin Grujic,2023/24,5.0
+17.9535,17.409607,val,Martin Larsen,2023/24,5.0
+18.082,17.380922,val,Martin Lewandowski,2023/24,5.0
+17.9136,17.462126,val,Martin Martinez,2023/24,5.0
+17.746,17.437183,val,Martin Meyer,2023/24,5.0
+18.1189,17.48636,val,Martin Santos,2023/24,5.0
+15.2018,15.342505,val,Martín Aguirregabiria Padilla,2023/24,5.0
+15.2018,15.258235,val,Martín Merquelanz Castellanos,2023/24,5.0
+15.2018,15.270141,val,Martín Zubimendi Ibáñez,2023/24,5.0
+17.7335,17.488264,val,Mason Grujic,2023/24,5.0
+16.7059,17.319313,val,Mason Keita,2023/24,5.0
+18.8699,17.370148,val,Mason Lopez,2023/24,5.0
+18.3924,17.501972,val,Mason Martinez,2023/24,5.0
+14.0255,17.484512,val,Mason Richard,2023/24,5.0
+18.1125,17.495472,val,Mason Romano,2023/24,5.0
+17.0476,17.49305,val,Mason Wagner,2023/24,5.0
+17.5761,17.43468,val,Mateo Bernard,2023/24,5.0
+17.9529,17.48063,val,Mateo Coulibaly,2023/24,5.0
+16.4382,17.483383,val,Mateo Fernandes,2023/24,5.0
+18.0617,17.495987,val,Mateo Lopez,2023/24,5.0
+16.6833,17.36858,val,Mateo Martin,2023/24,5.0
+17.3372,17.480762,val,Mateo Milinkovic,2023/24,5.0
+17.6177,17.443176,val,Mateo Pereira,2023/24,5.0
+17.4075,17.37333,val,Mateo Robert,2023/24,5.0
+17.8821,17.509523,val,Mateo Schneider,2023/24,5.0
+16.8677,17.353909,val,Mateo Torres,2023/24,5.0
+16.5608,17.483723,val,Mateo Toure,2023/24,5.0
+17.1028,17.503206,val,Mateusz Bamba,2023/24,5.0
+16.8786,17.429203,val,Mateusz Cisse,2023/24,5.0
+17.089,17.459343,val,Mateusz Costa,2023/24,5.0
+17.8297,17.478687,val,Mateusz Coulibaly,2023/24,5.0
+16.8676,16.613918,val,Mateusz Milinkovic,2023/24,5.0
+17.2244,17.48948,val,Mateusz Oliveira,2023/24,5.0
+17.6446,17.468218,val,Mateusz Richard,2023/24,5.0
+17.2942,17.444185,val,Mateusz Roberts,2023/24,5.0
+14.939,17.382927,val,Mateusz Rodriguez,2023/24,5.0
+16.6449,17.457964,val,Mateusz Sousa,2023/24,5.0
+17.2459,17.451817,val,Mateusz Vlahovic,2023/24,5.0
+17.1138,17.103024,val,Matheus Brown,2023/24,5.0
+18.4298,17.418636,val,Matheus Garcia,2023/24,5.0
+17.2951,17.475826,val,Matheus Milinkovic,2023/24,5.0
+17.7409,17.358864,val,Matheus Ricci,2023/24,5.0
+17.2183,17.483017,val,Matheus Savic,2023/24,5.0
+17.9589,17.462988,val,Matheus Sorensen,2023/24,5.0
+18.0839,17.1745,val,Mathias Costa,2023/24,5.0
+18.5284,17.48782,val,Mathias Lopez,2023/24,5.0
+17.198,17.428574,val,Mathias Schulz,2023/24,5.0
+18.2665,17.472904,val,Mathias Sorensen,2023/24,5.0
+16.983,17.408943,val,Mathias Thomas,2023/24,5.0
+15.2018,15.353932,val,Mathías Olivera Miramontes,2023/24,5.0
+18.0993,17.329258,val,Matteo Becker,2023/24,5.0
+17.5961,17.456867,val,Matteo Esposito,2023/24,5.0
+16.8492,17.412457,val,Matteo Hansen,2023/24,5.0
+17.5384,17.483854,val,Matteo Kowalski,2023/24,5.0
+16.8519,17.461246,val,Matteo Piotrowski,2023/24,5.0
+18.161,17.492577,val,Matteo Rodrigues,2023/24,5.0
+16.0321,17.458214,val,Matteo Rossi,2023/24,5.0
+17.6132,17.375149,val,Matteo Schulz,2023/24,5.0
+17.3378,17.501278,val,Matteo Torres,2023/24,5.0
+15.2018,15.320578,val,Mauro Wilney Arambarri Rosa,2023/24,5.0
+15.2018,15.326722,val,Maxime Gonalons,2023/24,5.0
+18.1543,17.45933,val,Maximilian Esposito,2023/24,5.0
+16.0405,17.410244,val,Maximilian Evans,2023/24,5.0
+15.32,17.416378,val,Maximilian Keita,2023/24,5.0
+16.7893,17.229372,val,Maximilian Sanchez,2023/24,5.0
+17.0737,17.49058,val,Maximilian Vlahovic,2023/24,5.0
+15.3841,15.399406,val,Maximiliano Gómez González,2023/24,5.0
+17.7355,17.477612,val,Michal Andersen,2023/24,5.0
+17.8641,17.471933,val,Michal Kaminski,2023/24,5.0
+18.1816,17.449486,val,Michal Moreau,2023/24,5.0
+16.2754,17.479883,val,Michal Savic,2023/24,5.0
+17.1678,17.492699,val,Michal Sylla,2023/24,5.0
+15.2018,15.283298,val,Mickaël Malsa,2023/24,5.0
+15.2018,15.362298,val,Miguel Alfonso Herrero Javaloyas,2023/24,5.0
+15.2018,15.323262,val,Miguel Baeza Pérez,2023/24,5.0
+18.0814,17.413273,val,Miguel Moreau,2023/24,5.0
+19.0914,17.307676,val,Miguel Rossi,2023/24,5.0
+17.9384,17.464573,val,Miguel Savic,2023/24,5.0
+15.2018,15.245418,val,Miguel Ángel Garrido Cifuentes,2023/24,5.0
+15.2018,15.296074,val,Mikel Balenziaga Oruesagasti,2023/24,5.0
+15.2018,15.31939,val,Mikel Merino Zazón,2023/24,5.0
+15.2018,15.340835,val,Mikel Oyarzabal Ugarte,2023/24,5.0
+15.2018,15.321876,val,Mikel Rico Moreno,2023/24,5.0
+15.2018,15.298907,val,Mikel Vesga Arruti,2023/24,5.0
+15.6948,17.415627,val,Milan Andersen,2023/24,5.0
+16.5285,17.46517,val,Milan Gomez,2023/24,5.0
+17.9592,17.484653,val,Milan Hansen,2023/24,5.0
+18.3773,17.488071,val,Milan Martin,2023/24,5.0
+17.8447,17.435356,val,Milan Muller,2023/24,5.0
+18.2657,17.44814,val,Milan Szymanski,2023/24,5.0
+18.3484,17.352402,val,Milan Taylor,2023/24,5.0
+19.1419,17.4977,val,Milan Wagner,2023/24,5.0
+15.2018,15.313283,val,Miralem Pjanić,2023/24,5.0
+15.2018,15.353896,val,Modibo Sagnan,2023/24,5.0
+17.702,17.456802,test,Mohamed Bamba,2023/24,5.0
+17.0966,17.506542,test,Mohamed Durand,2023/24,5.0
+17.3573,17.46476,test,Mohamed Rasmussen,2023/24,5.0
+18.9459,17.50145,test,Mohamed Rodriguez,2023/24,5.0
+17.6475,17.47374,test,Mohamed Savic,2023/24,5.0
+16.8695,17.485115,test,Mohamed Traore,2023/24,5.0
+15.2018,15.337852,test,Moisés Gómez Bordonado,2023/24,5.0
+15.6718,15.397659,test,Moriba Kourouma Kourouma,2023/24,5.0
+15.3841,15.646217,test,Mouctar Diakhaby,2023/24,5.0
+15.2018,15.266305,test,Munir El Haddadi Mohamed,2023/24,5.0
+15.3841,15.370482,test,Nabil Fekir,2023/24,5.0
+18.6729,17.417742,test,Nayef Fernandes,2023/24,5.0
+18.0331,17.463161,test,Nayef Ferrari,2023/24,5.0
+17.943,17.445366,test,Nayef Jovic,2023/24,5.0
+18.0476,17.488861,test,Nayef Martinez,2023/24,5.0
+18.1015,17.196392,test,Nayef Ricci,2023/24,5.0
+18.5162,17.482658,test,Nayef Sanchez,2023/24,5.0
+17.2844,17.43901,test,Nayef Toure,2023/24,5.0
+15.2018,15.259542,test,Nehuén Pérez,2023/24,5.0
+17.7714,17.479435,test,Nemanja Andersen,2023/24,5.0
+15.2018,15.331034,test,Nemanja Gudelj,2023/24,5.0
+18.3794,17.446445,test,Nemanja Keita,2023/24,5.0
+15.2018,15.296881,test,Nemanja Maksimović,2023/24,5.0
+15.2018,15.333073,test,Nemanja Radoja,2023/24,5.0
+17.3524,17.463375,test,Nemanja Romano,2023/24,5.0
+17.6482,17.496628,test,Nemanja Santos,2023/24,5.0
+18.199,17.468822,test,Nemanja Thomas,2023/24,5.0
+17.8032,17.479984,test,Nicolo Fernandes,2023/24,5.0
+17.3354,17.467102,test,Nicolo Kowalczyk,2023/24,5.0
+15.1831,17.4089,test,Nicolo Lopez,2023/24,5.0
+17.6307,17.37302,test,Nicolo Maksimovic,2023/24,5.0
+18.3097,17.385735,test,Nicolo Pedersen,2023/24,5.0
+18.3439,17.393402,test,Nicolo Sousa,2023/24,5.0
+17.5689,17.496117,test,Nicolo Tadic,2023/24,5.0
+19.3183,17.469757,test,Nicolo Thomas,2023/24,5.0
+18.5412,17.491066,test,Niklas Bamba,2023/24,5.0
+16.0145,17.442076,test,Niklas Becker,2023/24,5.0
+18.0076,17.48985,test,Niklas Dubois,2023/24,5.0
+16.2779,17.407734,test,Niklas Durand,2023/24,5.0
+18.4521,17.44119,test,Niklas Mitrovic,2023/24,5.0
+16.7939,17.442005,test,Niklas Smith,2023/24,5.0
+18.2943,17.398796,test,Niklas Weber,2023/24,5.0
+15.2018,15.323789,test,Nikola Vukčević,2023/24,5.0
+15.2018,15.279239,test,Norberto Murara Neto,2023/24,5.0
+17.7987,17.149513,test,Noussair Jovic,2023/24,5.0
+17.0382,17.43651,test,Noussair Lewandowski,2023/24,5.0
+17.3436,17.246582,test,Noussair Martin,2023/24,5.0
+17.239,17.505268,test,Noussair Oliveira,2023/24,5.0
+16.0465,17.469269,test,Noussair Romano,2023/24,5.0
+17.2257,17.075031,test,Noussair Toure,2023/24,5.0
+15.2018,15.270097,test,Néstor Alejandro Araújo Razo,2023/24,5.0
+15.2018,15.332589,test,Oier Sanjurjo Mate,2023/24,5.0
+17.4209,17.323605,test,Ola Pedersen,2023/24,5.0
+18.2319,17.469748,test,Ole Camara,2023/24,5.0
+17.428,16.99186,test,Ole Christensen,2023/24,5.0
+18.7215,17.482979,test,Ole Colombo,2023/24,5.0
+16.1038,17.444235,test,Ole Fernandez,2023/24,5.0
+15.2018,15.331433,test,Omenuke Mfulu,2023/24,5.0
+15.2018,15.220632,test,Omobolaji Habeeb Adekanye,2023/24,5.0
+16.1573,15.545032,test,Ousmane Dembélé,2023/24,5.0
+16.9851,17.407162,test,Ousmane Hansen,2023/24,5.0
+16.0999,17.502485,test,Ousmane Hoffmann,2023/24,5.0
+16.0115,17.43172,test,Ousmane Jones,2023/24,5.0
+17.5772,17.312136,test,Ousmane Lopez,2023/24,5.0
+17.914,17.441341,test,Ousmane Rossi,2023/24,5.0
+18.3869,17.498524,test,Ousmane Traore,2023/24,5.0
+17.9216,17.38659,test,Ousmane Vlahovic,2023/24,5.0
+18.5291,17.426117,test,Pablo Bernard,2023/24,5.0
+17.0545,16.139608,test,Pablo Grujic,2023/24,5.0
+15.2018,15.374274,test,Pablo Hervías Ruiz,2023/24,5.0
+18.1247,17.457,test,Pablo Jovic,2023/24,5.0
+17.8736,17.366028,test,Pablo Lewandowski,2023/24,5.0
+15.2018,15.302579,test,Pablo Maffeo Becerra,2023/24,5.0
+16.6492,17.496239,test,Pablo Milinkovic,2023/24,5.0
+17.1289,17.49413,test,Pablo Moreau,2023/24,5.0
+15.2018,15.314146,test,Pablo Ínsua Blanco,2023/24,5.0
+15.3841,15.335776,test,Pau Francisco Torres,2023/24,5.0
+15.2018,15.284457,test,Paul Edgar Akouokou,2023/24,5.0
+15.2018,15.369348,test,Pedro Alcalá Guirado,2023/24,5.0
+15.9903,15.638568,test,Pedro González López,2023/24,5.0
+15.2018,15.351617,test,Pedro López Muñoz,2023/24,5.0
+15.2018,15.324388,test,Pedro Mosquera Parada,2023/24,5.0
+15.2018,15.273721,test,Pere Milla Peña,2023/24,5.0
+15.2018,15.297158,test,Pere Pons Riera,2023/24,5.0
+15.2018,15.289893,test,Pervis Josué Estupiñán Tenorio,2023/24,5.0
+16.2727,17.440788,test,Phil Alvarez,2023/24,5.0
+17.26,17.466515,test,Phil Davies,2023/24,5.0
+18.4036,17.455826,test,Phil Diallo,2023/24,5.0
+15.2276,17.398561,test,Phil Grujic,2023/24,5.0
+18.2598,17.497576,test,Phil Nilsen,2023/24,5.0
+18.3895,17.482536,test,Phil Petit,2023/24,5.0
+17.8603,17.470394,test,Phil Schmidt,2023/24,5.0
+15.7896,15.234404,test,Philippe Coutinho Correia,2023/24,5.0
+17.7696,17.478174,test,Piotr Costa,2023/24,5.0
+17.3609,17.468967,test,Piotr Esposito,2023/24,5.0
+18.3041,17.49191,test,Piotr Leroy,2023/24,5.0
+18.5217,17.157097,test,Piotr Mitrovic,2023/24,5.0
+18.532,17.416607,test,Piotr Sousa,2023/24,5.0
+18.5279,17.495502,test,Przemyslaw Fernandez,2023/24,5.0
+18.4651,17.468763,test,Przemyslaw Jones,2023/24,5.0
+16.8675,17.020447,test,Przemyslaw Kaczmarek,2023/24,5.0
+18.0772,17.38945,test,Przemyslaw Kone,2023/24,5.0
+18.618,17.469154,test,Przemyslaw Martins,2023/24,5.0
+17.1982,17.464586,test,Przemyslaw Wilson,2023/24,5.0
+15.2018,15.329974,test,Rafael Jiménez Jarque,2023/24,5.0
+15.3841,15.332096,test,Rafael Mir Vicente,2023/24,5.0
+17.8275,17.321877,test,Raheem Cisse,2023/24,5.0
+17.5278,17.493748,test,Raheem Lewandowski,2023/24,5.0
+18.4129,17.307846,test,Raheem Lukic,2023/24,5.0
+18.1316,17.356133,test,Raheem Martin,2023/24,5.0
+18.2093,17.487202,test,Raheem Oliveira,2023/24,5.0
+17.6514,17.498747,test,Raheem Perez,2023/24,5.0
+15.2018,15.313071,test,Raphaël Varane,2023/24,5.0
+18.3752,17.37085,test,Raphinha Coulibaly,2023/24,5.0
+17.4002,17.431929,test,Raphinha Lewandowski,2023/24,5.0
+18.2349,17.456331,test,Raphinha Roberts,2023/24,5.0
+16.1756,17.501791,test,Raphinha Santos,2023/24,5.0
+15.1109,17.433006,test,Raphinha Schulz,2023/24,5.0
+16.3172,17.445328,test,Raphinha Sorensen,2023/24,5.0
+17.9248,17.505653,test,Raphinha Zielinski,2023/24,5.0
+15.2018,15.316335,test,Raúl Albiol i Tortajada,2023/24,5.0
+15.3841,15.240811,test,Raúl García Escudero,2023/24,5.0
+15.2018,15.325433,test,Raúl Rodríguez Navas,2023/24,5.0
+15.2018,15.255243,test,Renato Fabrizio Tapia Cortijo,2023/24,5.0
+15.2018,15.290431,test,Ricard Puig Martí,2023/24,5.0
+17.6653,17.47589,test,Riccardo Lopez,2023/24,5.0
+18.5763,17.461302,test,Riccardo Thomas,2023/24,5.0
+16.6635,17.489222,test,Riccardo Torres,2023/24,5.0
+18.9853,17.50261,test,Richarlison Bamba,2023/24,5.0
+17.7171,17.286457,test,Richarlison Hansen,2023/24,5.0
+17.1769,17.387278,test,Richarlison Rasmussen,2023/24,5.0
+17.2073,17.498875,test,Richarlison Rossi,2023/24,5.0
+17.5752,17.346626,test,Richarlison Szymanski,2023/24,5.0
+14.447,17.395351,test,Richarlison Taylor,2023/24,5.0
+17.6367,17.406364,test,Riyad Becker,2023/24,5.0
+17.9196,17.490269,test,Riyad Bruno,2023/24,5.0
+18.0919,17.460896,test,Riyad Dubois,2023/24,5.0
+17.8028,17.357105,test,Riyad Jesus,2023/24,5.0
+18.7242,17.496017,test,Riyad Johansen,2023/24,5.0
+18.357,17.343258,test,Riyad Lopez,2023/24,5.0
+18.1197,17.304735,test,Riyad Schulz,2023/24,5.0
+18.3211,17.472605,test,Robert Andersen,2023/24,5.0
+16.8614,17.498642,test,Robert Becker,2023/24,5.0
+15.2018,15.269641,test,Robert Kenedy Nunes do Nascimento,2023/24,5.0
+17.5748,17.460594,test,Robert Martin,2023/24,5.0
+18.6647,17.441898,test,Robert Martins,2023/24,5.0
+15.2018,15.2850275,test,Robert Navarro Muñoz,2023/24,5.0
+19.0945,17.484545,test,Robert Sorensen,2023/24,5.0
+18.507,17.459967,test,Robert Wozniak,2023/24,5.0
+15.2018,15.272939,test,Roberto Soldado Rillo,2023/24,5.0
+15.2018,15.37795,test,Roberto Suárez Pier,2023/24,5.0
+15.2018,15.310897,test,Roberto Torres Morales,2023/24,5.0
+15.2018,15.258082,test,Robin Aime Robert Le Normand,2023/24,5.0
+15.2018,15.249478,test,Rodrigo Andrés Battaglia,2023/24,5.0
+15.2018,15.310423,test,Rodrigo Sánchez Rodriguez,2023/24,5.0
+18.6611,17.498318,test,Rodrygo Camara,2023/24,5.0
+19.043,17.502724,test,Rodrygo Coulibaly,2023/24,5.0
+18.2923,17.503414,test,Rodrygo Evans,2023/24,5.0
+18.941,17.457912,test,Rodrygo Kaczmarek,2023/24,5.0
+17.6622,17.331871,test,Rodrygo Perez,2023/24,5.0
+18.4178,17.485563,test,Rodrygo Piotrowski,2023/24,5.0
+15.3841,15.2724695,test,Rodrygo Silva de Goes,2023/24,5.0
+18.7642,17.470842,test,Rodrygo Tadic,2023/24,5.0
+17.8671,17.365696,test,Rodrygo Williams,2023/24,5.0
+16.678,17.474682,test,Rodrygo Zielinski,2023/24,5.0
+15.3841,15.345281,test,Roger Martí Salvador,2023/24,5.0
+15.5383,15.147347,test,Ronald Federico Araújo da Silva,2023/24,5.0
+15.2018,15.385134,test,Roque Mesa Quevedo,2023/24,5.0
+15.2018,15.302747,test,Rubén Alcaraz Jiménez,2023/24,5.0
+15.2018,15.272706,test,Rubén Duarte Sánchez,2023/24,5.0
+15.2018,15.344749,test,Rubén García Santos,2023/24,5.0
+15.2018,15.3503475,test,Rubén Sobrino Pozuelo,2023/24,5.0
+15.2018,15.329545,test,Rui Tiago Dantas da Silva,2023/24,5.0
+15.2018,15.309909,test,Rúben Miguel Nunes Vezo,2023/24,5.0
+15.2018,15.278014,test,Sabit Abdulai,2023/24,5.0
+17.8671,17.482006,test,Sadio Becker,2023/24,5.0
+18.2611,17.468403,test,Sadio Brown,2023/24,5.0
+17.7542,17.498917,test,Sadio Diallo,2023/24,5.0
+18.6746,17.47044,test,Sadio Fernandes,2023/24,5.0
+18.1596,17.475975,test,Sadio Keita,2023/24,5.0
+15.2018,15.32142,test,Saidy Janko,2023/24,5.0
+15.2018,15.337092,test,Salvador Sánchez Ponce,2023/24,5.0
+15.3841,15.476489,test,Samuel Chimerenka Chukwueze,2023/24,5.0
+15.2018,15.292951,test,Samuel Yves Umtiti,2023/24,5.0
+17.6253,17.361885,test,Sander Lewandowski,2023/24,5.0
+18.7986,17.423092,test,Sander Pedersen,2023/24,5.0
+18.0225,17.493225,test,Sander Rodrigues,2023/24,5.0
+16.3882,17.463097,test,Sander Sorensen,2023/24,5.0
+15.5383,15.572276,test,Santiago Mina Lorenzo,2023/24,5.0
+15.2018,15.341561,test,Saúl Ñíguez Esclapez,2023/24,5.0
+18.5643,17.48524,test,Sergej Coulibaly,2023/24,5.0
+18.3246,17.504015,test,Sergej Gomez,2023/24,5.0
+16.8712,17.431274,test,Sergej Smith,2023/24,5.0
+16.1747,17.407314,test,Sergej Taylor,2023/24,5.0
+15.6718,15.398513,test,Sergi Roberto Carnicer,2023/24,5.0
+15.6718,15.639085,test,Sergino Dest,2023/24,5.0
+15.2018,15.300307,test,Sergio Asenjo Andrés,2023/24,5.0
+18.4111,17.025127,test,Sergio Brown,2023/24,5.0
+17.1337,17.12081,test,Sergio Bruno,2023/24,5.0
+15.895,15.684658,test,Sergio Busquets i Burgos,2023/24,5.0
+15.2018,15.369555,test,Sergio Canales Madrazo,2023/24,5.0
+15.2018,15.385482,test,Sergio Escudero Palomo,2023/24,5.0
+18.0521,17.454975,test,Sergio Ferrari,2023/24,5.0
+15.2018,15.235101,test,Sergio Guardiola Navarro,2023/24,5.0
+15.2018,15.342982,test,Sergio Gómez Martín,2023/24,5.0
+15.2699,17.449287,test,Sergio Hansen,2023/24,5.0
+15.2018,15.247785,test,Sergio Herrera Pirón,2023/24,5.0
+17.5423,17.50074,test,Sergio Kaminski,2023/24,5.0
+15.3841,15.539615,test,Sergio León Limones,2023/24,5.0
+15.5036,17.478882,test,Sergio Nilsen,2023/24,5.0
+15.2018,15.286287,test,Sergio Postigo Redondo,2023/24,5.0
+15.3841,15.359237,test,Sergio Ramos García,2023/24,5.0
+18.0712,17.436455,test,Sergio Romano,2023/24,5.0
+15.2018,15.315257,test,Shinji Okazaki,2023/24,5.0
+15.2018,15.291148,test,Shon Zalman Weissman,2023/24,5.0
+18.2107,17.32119,test,Simone Bernard,2023/24,5.0
+15.4981,17.413212,test,Simone Costa,2023/24,5.0
+15.7786,17.343388,test,Simone Fernandes,2023/24,5.0
+17.9919,17.467295,test,Simone Thomas,2023/24,5.0
+15.2018,15.276625,test,Sofian Chakla,2023/24,5.0
+18.2555,17.48845,test,Sofyan Coulibaly,2023/24,5.0
+17.0834,17.503654,test,Sofyan Kaminski,2023/24,5.0
+18.0169,17.355461,test,Sofyan Smith,2023/24,5.0
+17.193,17.323122,test,Sofyan Sylla,2023/24,5.0
+17.9343,17.41091,test,Sofyan Thomas,2023/24,5.0
+16.9497,17.485294,test,Sofyan Weber,2023/24,5.0
+18.0099,17.367237,test,Stefan Bianchi,2023/24,5.0
+18.2135,17.454977,test,Stefan Kowalczyk,2023/24,5.0
+17.5576,17.442493,test,Stefan Nilsen,2023/24,5.0
+16.4812,17.236649,test,Stefan Pavlovic,2023/24,5.0
+17.8744,17.265059,test,Stefan Pereira,2023/24,5.0
+18.4392,17.473207,test,Stefan Ricci,2023/24,5.0
+17.7133,17.449997,test,Stefan Richard,2023/24,5.0
+15.2018,15.275514,test,Stefan Savić,2023/24,5.0
+18.5015,17.448238,test,Stefan Torres,2023/24,5.0
+15.2018,15.302504,test,Takefusa Kubo,2023/24,5.0
+16.4803,17.470013,test,Theo Alvarez,2023/24,5.0
+19.1507,17.478775,test,Theo Andersen,2023/24,5.0
+16.523,17.497763,test,Theo Garcia,2023/24,5.0
+17.7198,17.416313,test,Theo Keita,2023/24,5.0
+16.4538,17.502483,test,Theo Moreau,2023/24,5.0
+18.1393,17.461252,test,Theo Pereira,2023/24,5.0
+17.7047,17.429474,test,Theo Piotrowski,2023/24,5.0
+19.0899,17.48076,test,Theo Rasmussen,2023/24,5.0
+17.8511,17.459995,test,Theo Rodrigues,2023/24,5.0
+17.4516,17.501904,test,Theo Williams,2023/24,5.0
+16.9984,17.478243,test,Theo Wojcik,2023/24,5.0
+15.2018,15.251924,test,Thibaut Courtois,2023/24,5.0
+15.2018,15.323293,test,Thierry Rendall Correia,2023/24,5.0
+16.4304,17.492163,test,Thomas Fernandes,2023/24,5.0
+15.2018,15.307895,test,Thomas Lemar,2023/24,5.0
+16.3304,17.41351,test,Thomas Lewandowski,2023/24,5.0
+18.1486,17.474129,test,Thomas Thomas,2023/24,5.0
+15.2018,15.310634,test,Tomas Franco Tavares,2023/24,5.0
+15.2018,15.256961,test,Tomás Pina Isla,2023/24,5.0
+15.3841,15.336179,test,Toni Kroos,2023/24,5.0
+15.2018,15.340121,test,Unai García Lugea,2023/24,5.0
+15.2018,15.38607,test,Unai Núñez Gestoso,2023/24,5.0
+15.2018,15.308433,test,Unai Simón Mendibil,2023/24,5.0
+15.2018,15.245488,test,Unai Vencedor Paris,2023/24,5.0
+15.2018,15.376338,test,Uroš Račić,2023/24,5.0
+15.2018,15.3158865,test,Vicente Iborra De La Fuente,2023/24,5.0
+17.7269,17.470549,test,Vinicius Olsen,2023/24,5.0
+15.2018,15.22863,test,Vinícius José Paixão de Oliveira Júnior,2023/24,5.0
+15.2018,15.253843,test,Víctor David Díaz Miguel,2023/24,5.0
+15.2018,15.280477,test,Víctor Laguardia Cisneros,2023/24,5.0
+15.2018,15.315928,test,Víctor Mollejo Carpintero,2023/24,5.0
+15.3841,15.380004,test,Víctor Ruíz Torre,2023/24,5.0
+15.2018,15.310992,test,Waldo Rubio Martín,2023/24,5.0
+15.2018,15.310413,test,William Silva de Carvalho,2023/24,5.0
+15.3841,15.398825,test,Willian José da Silva,2023/24,5.0
+15.2018,15.356303,test,Yan Brice Eteki,2023/24,5.0
+15.2018,15.327738,test,Yangel Clemente Herrera Ravelo,2023/24,5.0
+15.2018,15.302794,test,Yann Bodiger,2023/24,5.0
+15.3841,15.366875,test,Yannick Ferreira Carrasco,2023/24,5.0
+15.2018,15.301692,test,Yassine Bounou,2023/24,5.0
+15.2018,15.357116,test,Yeray Álvarez López,2023/24,5.0
+15.2018,15.35032,test,Yeremi Jesús Pino Santos,2023/24,5.0
+15.2018,15.322418,test,Youssef En-Nesyri,2023/24,5.0
+16.5694,17.21712,test,Youssef Larsen,2023/24,5.0
+16.959,17.488455,test,Youssef Muller,2023/24,5.0
+15.2018,15.367996,test,Yunus Dimoara Musah,2023/24,5.0
+15.2018,15.299443,test,Yuri Berchiche Izeta,2023/24,5.0
+15.2018,15.245503,test,Álvaro Fernández Llorente,2023/24,5.0
+15.3841,15.427514,test,Álvaro Giménez Candela,2023/24,5.0
+15.2018,15.228394,test,Álvaro Juan Cruz Armada,2023/24,5.0
+15.3841,15.389456,test,Álvaro Negredo Sánchez,2023/24,5.0
+15.2018,15.319247,test,Álvaro Odriozola Arzallus,2023/24,5.0
+15.2018,15.290432,test,Ángel Luis Rodríguez Díaz,2023/24,5.0
+15.3841,15.273559,test,Ángel Martín Correa,2023/24,5.0
+15.2018,15.345788,test,Ángel Montoro Sánchez,2023/24,5.0
+15.2018,15.2990675,test,Éder Gabriel Militão,2023/24,5.0
+15.2018,15.365245,test,Íñigo Lekue Martínez,2023/24,5.0
+15.2018,15.3218975,test,Íñigo Martínez Berridi,2023/24,5.0
+15.2018,15.329385,test,Óliver Torres Muñoz,2023/24,5.0
+15.2018,15.404559,test,Óscar Esau Duarte Gaitán,2023/24,5.0
+15.7896,16.00861,test,Óscar Mingueza García,2023/24,5.0
+15.2018,15.239793,test,Óscar Plano Pedreño,2023/24,5.0
+15.2018,15.279265,test,Óscar Rodríguez Arnaiz,2023/24,5.0
+15.2018,15.359667,test,Óscar de Marcos Arana,2023/24,5.0

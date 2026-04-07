@@ -1,0 +1,58 @@
+[
+  {
+    "model": "Univariate LSTM",
+    "rmse": 1341775.86740423,
+    "mae": 1114224.3851780004,
+    "r2_pct": 99.91,
+    "mape_pct": 14.43,
+    "dir_acc_pct": 99.5
+  },
+  {
+    "model": "Multivariate LSTM",
+    "rmse": 1115155.7411952089,
+    "mae": 851631.8083416105,
+    "r2_pct": 99.94,
+    "mape_pct": 10.44,
+    "dir_acc_pct": 99.5
+  },
+  {
+    "model": "Enc-Decoder LSTM (t+1)",
+    "rmse": 2518741.2081099027,
+    "mae": 1640663.759896599,
+    "r2_pct": 99.69,
+    "mape_pct": 15.79,
+    "dir_acc_pct": 100.0
+  },
+  {
+    "model": "Enc-Decoder LSTM (t+2)",
+    "rmse": 2394147.1376611535,
+    "mae": 1724577.8496066427,
+    "r2_pct": 99.72,
+    "mape_pct": 20.94,
+    "dir_acc_pct": 99.5
+  },
+  {
+    "model": "XGBoost (tuned)",
+    "rmse": 149217.5749434362,
+    "mae": 79721.6953125,
+    "r2_pct": 100.0,
+    "mape_pct": 1.02,
+    "dir_acc_pct": 100.0
+  },
+  {
+    "model": "LightGBM (tuned)",
+    "rmse": 430068.31876154064,
+    "mae": 221145.48180818436,
+    "r2_pct": 99.99,
+    "mape_pct": 2.73,
+    "dir_acc_pct": 100.0
+  },
+  {
+    "model": "Ensemble (Optimal Weights) \u2605",
+    "rmse": 193583.7131961382,
+    "mae": 90637.92684420457,
+    "r2_pct": 100.0,
+    "mape_pct": 1.2,
+    "dir_acc_pct": 99.75
+  }
+]
